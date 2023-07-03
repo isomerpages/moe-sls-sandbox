@@ -5,8 +5,8 @@ description: ""
 ---
 Image 1
 
-<h1>[SLS Function]</h1>
-<p>Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.</p>
+<h1>SLS Function</h1>
+<p>Use SLS functions to support teaching and learning.</p>
 <details><summary><h4>A. User Flow 1</h4></summary>
 	<ul><li><a href="">(A1) Step 1</a></li>
 	<li><a href="">(A2,1) Step 2, Option 1</a></li>

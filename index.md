@@ -28,5 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-<head><meta name="google-site-verification" content="XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ" /></head>
 ---

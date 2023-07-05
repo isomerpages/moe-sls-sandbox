@@ -1,4 +1,5 @@
 ---
+<head><meta name="google-site-verification" content="XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ" /></head>
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government

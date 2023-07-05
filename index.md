@@ -1,11 +1,11 @@
 ---
-<head><meta name="google-site-verification" content="XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ" /></head>
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
+<head><meta name="google-site-verification" content="XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ" /></head>
 sections:
   - hero:
       title: Hero title

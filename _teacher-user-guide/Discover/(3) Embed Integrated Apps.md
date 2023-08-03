@@ -32,7 +32,7 @@ third_nav_title: Discover
 <tr>
 </tr>
         <tr><td><strong>ClipSee (for HQ Users)</strong></td>
-								<td>This app is currently only available to MOE HQ users to access video aggregation libraries for MOE Library lessons. For more details on school subscription plans, please visit their <a target="_blank" href="https://www.boclips.com/boclips-packages&quot;">website</a>.
+								<td>This app is currently only available to MOE HQ users to access video aggregation libraries for MOE Library lessons. For more details on school subscription plans, please visit their <a target="_blank" href="https://www.boclips.com/boclips-packages">website</a>.
         </td></tr>
 	       <tr><td><strong>MySkillsFuture (Student Portal)</strong></td>
 								<td>This app provides students with Single Sign-On (SSO) access to their corresponding MySkillsFuture accounts from SLS.</td>

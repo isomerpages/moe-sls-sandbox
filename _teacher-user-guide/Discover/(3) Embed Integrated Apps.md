@@ -21,6 +21,11 @@ third_nav_title: Discover
 <a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
 -->
 
+<h2>App-Specific Support</h2>
+<hr>
+
+<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched by iframe embedding within a lesson.</p>
+
 <table>
 <thead>
 <tr>

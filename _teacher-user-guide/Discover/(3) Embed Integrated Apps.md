@@ -14,18 +14,15 @@ third_nav_title: Discover
   <li>On the Browse Apps subpage, select the App to be embedded.</li>
     <p><u>Note</u>: Click on the [magnifying glass icon] to open the App's Details card for more details about the App.</p>
   <li>Alternatively, type the name of the App in the search bar.</li>
-  <li>Some Apps may require you to fill in the Resource URL field for the specific resource to be embedded.</li>
+  <li>Some Apps may require you to fill in the Resource URL field for a specific resource to be embedded.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
 <!--
 <a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
 -->
 
-<h2>App-Specific Support</h2>
+<h2>Integrated Apps in SLS</h2>
 <hr>
-
-<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched by iframe embedding within a lesson.</p>
-
 <table>
 <thead>
 <tr>

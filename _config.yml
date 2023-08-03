@@ -1,12 +1,6 @@
-<<<<<<< Updated upstream
-title: Title
-url: https://www.slssandbox.com
-favicon: /images/favicon-isomer.ico
-=======
-title: Singapore Student Learning Space (SLS) Info-Site
-url: https://www.learning.moe.edu.sg
+title: SLS Sandbox
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/FaviconLight.png
->>>>>>> Stashed changes
 colors:
   primary-color: "#0b233f"
   secondary-color: "#2b63d9"
@@ -21,38 +15,26 @@ colors:
       color: "#af75d2"
     - title: media-color-five
       color: "#73c235"
-<<<<<<< Updated upstream
-description: An Isomer site of the Singapore Government
-=======
 description: The Singapore Student Learning Space (SLS) is MOE's core platform
   for teaching and learning and is one of MOE’s key initiatives to transform the
   learning experiences of Singaporean students through the purposeful use of
   technology to enable students to engage in different learning modes.
->>>>>>> Stashed changes
+
+##################################################################################################################
+# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
+##################################################################################################################
 permalink: none
 baseurl: ""
-exclude:
-  - travis-script.js
-  - .travis.yml
-  - README.md
-  - package.json
-  - package-lock.json
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - Gemfile
-  - Gemfile.lock
-include:
-  - _redirects
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+include: [_redirects]
 defaults:
   - scope:
       path: ""
     values:
-      layout: page
-custom_css_path: /misc/custom.css
-custom_print_css_path: /assets/css/print.css
+      layout: "page"
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -62,24 +44,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-<<<<<<< Updated upstream
-staging: https://staging.d3vprc9xc2bvz5.amplifyapp.com
-prod: https://master.d3vprc9xc2bvz5.amplifyapp.com
-facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
-is_government: false
-google_analytics: ""
-google_analytics_ga4: ""
-linkedin-insights: ""
-=======
-staging: https://staging.d19lt3odqxq3m6.amplifyapp.com
-prod: https://master.d19lt3odqxq3m6.amplifyapp.com
-shareicon: /images/LogoSecondaryLight.svg
-is_government: true
-facebook-pixel: ""
-google_analytics: UA-134623204-2
-linkedin-insights: ""
-resources_name: latest-news
-google_analytics_ga4: "323680234"
-google_site_verification:  XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ
->>>>>>> Stashed changes
+staging: https://site-creation-base2-staging.netlify.app
+prod: https://site-creation-base2-prod.netlify.app

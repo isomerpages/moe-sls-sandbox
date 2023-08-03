@@ -6,7 +6,7 @@ third_nav_title: Discover
 ---
 <h1 class="page-title">Embed Integrated Apps</h1>
            
-<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched by iframe embedding within a lesson.</p>
+<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a lesson.</p>
 
 <p>To embed an integrated App:</p>
  <ol>
@@ -48,4 +48,5 @@ third_nav_title: Discover
 	
 <h2 class="section-title">Issues Reporting for Integrated Apps</h2>
 <hr>
-<p>If you encounter any issues when trying to embed an integrated App, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. Otherwise, please reach out the App's helpdesk directly though the contact number or email information found within the App's Details card.</p>
+<p>If you encounter any issues when trying to embed an integrated App, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
+<p>For issues involving a specific App, please reach out the App's helpdesk directly though the contact number or email information found within the App's Details card.</p>

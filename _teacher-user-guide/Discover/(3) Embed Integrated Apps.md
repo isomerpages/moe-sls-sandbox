@@ -6,13 +6,13 @@ third_nav_title: Discover
 ---
 <h1 class="page-title">Embed Integrated Apps</h1>
            
-<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. The App Library contains a list of whitelisted Apps that can be launched within SLS.</p>
+<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched by iframe embedding within a lesson.</p>
 
-<p>To embed a whitelisted website using site URL:</p>
+<p>To embed an integrated App:</p>
  <ol>
-  <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
-  <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
-    <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
+  <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select App.</li>
+  <li>On the Browse Apps subpage, select the App to be embedded.</li>
+    <p><u>Note</u>: Click on the [magnifying glass icon] to open the App's Details card for more details about the App.</p>
   <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website Card</strong>, followed by <strong>Choose</strong> to proceed.</li>
   <li>The URL or Code would be displaced in the text box.</li>
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>

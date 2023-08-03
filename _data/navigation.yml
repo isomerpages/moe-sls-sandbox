@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-logo: /images/isomer-logo.svg
-=======
 logo: /images/LogoSecondaryLight.png
->>>>>>> Stashed changes
 links:
   - title: Latest News
     resource_room: true

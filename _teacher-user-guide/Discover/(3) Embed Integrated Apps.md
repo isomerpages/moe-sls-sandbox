@@ -37,11 +37,15 @@ third_nav_title: Discover
 <tr>
 </tr>
         <tr><td><strong>ClipSee (for HQ Users)</strong></td>
-								<td>ClipSee App is currently only available to MOE HQ users to access video aggregation libraries for MOE Library lessons. For more details on the school subscription plans for the App, please visit <a target="_blank" href="https://www.boclips.com/boclips-packages">this website</a>.
-        </td></tr>
+								<td>ClipSee is only available to MOE HQ users to access video aggregation libraries for MOE Library content curation. For more details on school subscription plans for the App, please visit <a target="_blank" href="https://www.boclips.com/boclips-packages">this website</a>.</td></tr>
+			   <tr><td><strong>CoVAAPD</strong></td>
+								<td>CoVAAPD is a video annotation tool for teachers to discuss and collaborate on Professional Development matters.</td></tr>
+			   <tr><td><strong>EJSS</strong></td>
+								<td>EJSS provides interactive science applets with learning analytic capabilities. <a target="_blank" href="https://www.boclips.com/boclips-packages">Click here</a> to find out more about the EJSS authoring toolkit for the creation of JavaScript simulations.</td></tr>
+		     <tr><td><strong>Last Reserve</strong></td>
+								<td>Last Reserve is a game for students to learn about scarcity and decision-making. It is only available to schools offering Economics subject.</td></tr>
 	       <tr><td><strong>MySkillsFuture (Student Portal)</strong></td>
-								<td>MySkillsFuture App provides students with Single Sign-On (SSO) access to their corresponding MySkillsFuture accounts from SLS.</td>
-        </tr>
+								<td>MySkillsFuture provides students with Single Sign-On (SSO) access to their corresponding MySkillsFuture accounts from SLS.</td></tr>
 </tbody>
 </table>
 	

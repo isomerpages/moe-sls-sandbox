@@ -18,7 +18,9 @@ third_nav_title: Discover
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Whitelisted" src="/images/2Teacher/D-Whitelisted.png"></a>
+<!--
+<a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
+-->
 
 <table>
 <thead>
@@ -40,6 +42,6 @@ third_nav_title: Discover
 </tbody>
 </table>
 	
-<h2 class="section-title">Request for Websites to be Whitelisted</h2>
+<h2 class="section-title">Issues Reporting for Integrated Apps</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>, stating the URL(s) to be whitelisted (please give the full URL) and the purpose of the website. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS. </p>
+<p>If you encounter any issues when trying to embed an integrated App, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. Otherwise, please reach out the App's helpdesk directly though the contact number or email information found within the App's Details card.</p>

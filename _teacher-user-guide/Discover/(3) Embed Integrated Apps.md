@@ -13,9 +13,8 @@ third_nav_title: Discover
   <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select App.</li>
   <li>On the Browse Apps subpage, select the App to be embedded.</li>
     <p><u>Note</u>: Click on the [magnifying glass icon] to open the App's Details card for more details about the App.</p>
-  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website Card</strong>, followed by <strong>Choose</strong> to proceed.</li>
-  <li>The URL or Code would be displaced in the text box.</li>
-  <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
+  <li>Alternatively, type the name of the App in the search bar.</li>
+  <li>Some Apps may require you to fill in the Resource URL field for the specific resource to be embedded.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
 <!--

@@ -35,10 +35,10 @@ third_nav_title: Discover
 </tr>
         <tr><td><strong>ClipSee (for HQ Users)</strong></td>
 								<td>ClipSee is only available to MOE HQ users to access video aggregation libraries for MOE Library content curation. For more details on school subscription plans for the App, please visit <a target="_blank" href="https://www.boclips.com/boclips-packages">this website</a>.</td></tr>
-			   <tr><td><strong>CoVAAPD</strong></td>
+			   <tr><td><strong>Collaborative Video Annotation and Analytics for Professional Development (CoVAAPD)</strong></td>
 								<td>CoVAAPD is a video annotation tool for teachers to discuss and collaborate on Professional Development matters.</td></tr>
-			   <tr><td><strong>EJSS</strong></td>
-								<td>EJSS provides interactive science applets with learning analytic capabilities. <a target="_blank" href="https://weelookang.blogspot.com/2023/05/teacher-flow-how-to-add-ejss-simulation.html">Click here</a> to find out more about the EJSS authoring toolkit for the creation of JavaScript simulations.</td></tr>
+			   <tr><td><strong>Easy JavaScript Simulation (EJSS)</strong></td>
+								<td>These EJSS are a collection of virtual science labs, digital manipulatives, and captivating games designed to enhance learning experiences through learning analytics capabilities. <a target="_blank" href="https://weelookang.blogspot.com/2023/08/teacher-flow-1-how-to-add-ejss.html">Click here</a> to find out how to add EJSS in the EJSS app into your SLS assignment/lesson.<a target="_blank" href="https://weelookang.blogspot.com/2023/08/teacher-flow-1-how-to-add-ejss.html">Click here</a> to find out how to use the EJSS authoring toolkit to add these existing EJSS to have learning analytics capabilities. This EJSS App is funded by the MOE Senior Specialist Research - Development Fund (SSTRF).</td></tr>
 		     <tr><td><strong>Last Reserve</strong></td>
 								<td>Last Reserve is a game for students to learn about scarcity and decision-making. It is only available to schools offering Economics subject.</td></tr>
 	       <tr><td><strong>MySkillsFuture (Student Portal)</strong></td>

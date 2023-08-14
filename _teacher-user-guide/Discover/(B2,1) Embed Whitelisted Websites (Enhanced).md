@@ -6,14 +6,14 @@ third_nav_title: Discover
 ---
 <h1 class="page-title">Embed Whitelisted Websites</h1>
            
-<p>For tools indicated with *, students may need to access them using a laptop/desktop and to open the website in a new tab.</p>
+<p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 
-<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a target="_blank" href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.
+<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.
                        
 </p><p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.
 </p>
 
-<p><u>Note</u>: If you are unable to embed a website, the website may have been <a target="_blank" href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/">removed from whitelisting</a>.
+<p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.
 
 </p><h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
@@ -27,7 +27,7 @@ third_nav_title: Discover
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Whitelisted" src="/images/2Teacher/D-Whitelisted.png"></a>
+<a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
 
 <table>
 <thead>
@@ -56,6 +56,12 @@ third_nav_title: Discover
             <td>Math Activity Resource</td>
             <td>
               https://www.accessmaths.co.uk
+            </td>
+        </tr>
+        <tr><td><strong>AI Singapore <font color="#FBBC04">NEW!</font></strong></td>
+            <td>Resource site</td>
+            <td>
+              https://learn.aisingapore.org
             </td>
         </tr>
         <tr><td><strong>Animated Knots</strong></td>
@@ -132,7 +138,7 @@ third_nav_title: Discover
               https://read.bookcreator.com
             </td>
         </tr>
-        <tr><td><strong>Bouncy Balls <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Bouncy Balls</strong></td>
             <td>Music Tool</td>
             <td>
               https://bouncyballs.org
@@ -198,14 +204,12 @@ third_nav_title: Discover
               https://chemnotcheem.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Chrome Music Lab</strong></td>
+        <tr><td><strong>Chrome Music Lab <font color="#FBBC04">NEW!</font></strong></td>
             <td>Music Tool</td>
             <td>
               https://musiclab.chromeexperiments.com
             </td>
         </tr>
--->
         <tr><td><strong>Class Tools</strong></td>
             <td>Educational Tools and Resources</td>
             <td>
@@ -268,7 +272,7 @@ third_nav_title: Discover
                 https://www.coolmath4kids.com
             </td>
         </tr>
-        <tr><td><strong>Craiyon <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Craiyon</strong></td>
             <td>AI Tool</td>
             <td>
                 https://www.craiyon.com
@@ -328,7 +332,7 @@ third_nav_title: Discover
               https://www.elementari.com
             </td>
         </tr>
-        <tr><td><strong>Elicit <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Elicit</strong></td>
             <td>AI Tool</td>
             <td>
               https://elicit.org
@@ -432,7 +436,7 @@ third_nav_title: Discover
                 https://artsandculture.google.com
             </td>
         </tr>
-        <tr><td><strong>Grammarly <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Grammarly</strong></td>
             <td>AI Tool</td>
             <td>
                 https://www.grammarly.com
@@ -794,6 +798,14 @@ third_nav_title: Discover
               https://pigeonhole.at
             </td>
         </tr>
+        <tr><td><strong>Pixlr <font color="#FBBC04">NEW!</font></strong></td>
+            <td>AI Tool</td>
+            <td>
+              https://pixlr.com/x
+              <br>
+              https://pixlr.com/e
+            </td>
+        </tr>
         <tr><td><strong>Playxylo</strong></td>
             <td>Music Tool</td>
             <td>
@@ -848,8 +860,6 @@ third_nav_title: Discover
             <td>Teaching Resource</td>
             <td>
               https://www.roots.gov.sg
-              <br>
-              <em>*Refer to disclaimer below.</em>
             </td>
         </tr>
         <tr><td><strong>Saatchi Gallery</strong></td>
@@ -964,7 +974,7 @@ third_nav_title: Discover
                 https://www.splashlearn.com
             </td>
         </tr>
-        <tr><td><strong>Stable Diffusion <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Stable Diffusion</strong></td>
           <td>AI Tool</td>
           <td>
             https://stablediffusionweb.com
@@ -1263,7 +1273,7 @@ third_nav_title: Discover
             </td>
         </tr>
 <!--
-        <font color="#FBBC04">NEW</font>
+        <font color="#FBBC04">NEW!</font>
         //represents new item
 -->
 </tbody>
@@ -1441,7 +1451,7 @@ third_nav_title: Discover
               -->
               </td>
           </tr>
-          <tr><td><strong>Google Docs*</strong></td>
+          <tr><td><strong>Google Docs</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com
@@ -1449,13 +1459,13 @@ third_nav_title: Discover
                 https://docs.google.com/document
               </td>
           </tr>
-          <tr><td><strong>Google Drawings*</strong> </td>
+          <tr><td><strong>Google Drawings</strong> </td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com/drawings
               </td>
           </tr>
-          <tr><td><strong>Google Drive*</strong></td>
+          <tr><td><strong>Google Drive</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://drive.google.com/drive
@@ -1463,25 +1473,25 @@ third_nav_title: Discover
                 https://drive.google.com/embeddedfolderview?id=
               </td>
           </tr>
-          <tr><td><strong>Google Forms*</strong></td>
+          <tr><td><strong>Google Forms</strong></td>
               <td>Survey/Quiz Tool</td>
               <td>
                 https://docs.google.com/forms
               </td>
           </tr>
-          <tr><td><strong>Google Maps*</strong></td>
+          <tr><td><strong>Google Maps</strong></td>
               <td>Map Tool</td>
               <td>
                 https://www.google.com/maps
               </td>
           </tr>
-          <tr><td><strong>Google Sheets*</strong></td>
+          <tr><td><strong>Google Sheets</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com/spreadsheets
               </td>
           </tr>
-          <tr><td><strong>Google Slides*</strong></td>
+          <tr><td><strong>Google Slides</strong></td>
               <td>Presentation Tool</td>
               <td>
                 https://docs.google.com/presentation
@@ -1604,7 +1614,7 @@ third_nav_title: Discover
                 https://padlet.com
                 <br>
                 <em>
-                  (To whitelist your school's padlet.org site, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>.)
+                  (To whitelist your school's padlet.org site, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.)
                 </em>  
                   <br>
                   https://acjc.padlet.org
@@ -1707,7 +1717,7 @@ third_nav_title: Discover
                   <br>
                   https://northviewprimaryschool.padlet.org
                   <br>
-                  https://nygh.padlet.org <font color="#FBBC04">NEW</font>
+                  https://nygh.padlet.org
                   <br>
                   https://onetkps.padlet.org
                   <br>
@@ -1801,7 +1811,7 @@ third_nav_title: Discover
               <br>
               https://pollev.com
               <br>
-              https://embed.polleverywhere.com <font color="#FBBC04">NEW</font>
+              https://embed.polleverywhere.com
             </td>
           </tr>
           <tr><td><strong>Powtoon</strong> </td>
@@ -1944,4 +1954,4 @@ third_nav_title: Discover
 	
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>, stating the URL(s) to be whitelisted (please give the full URL) and the purpose of the website. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS. </p></ol>
+<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p></ol>

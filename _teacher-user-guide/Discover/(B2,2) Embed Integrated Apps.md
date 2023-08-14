@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/embed-integrated-apps/
 description: ""
 third_nav_title: Discover
 ---
-<h1 class="page-title">Embed Integrated Apps</h1>
+<h1 class="page-title">(B2,2) Embed Integrated Apps</h1>
            
 <p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a lesson.</p>
 

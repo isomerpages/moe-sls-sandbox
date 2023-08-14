@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
 ---
-<h1 class="page-title">Embed Whitelisted Websites</h1>
+<h1 class="page-title">(B2,1) Embed Whitelisted Websites</h1>
            
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 

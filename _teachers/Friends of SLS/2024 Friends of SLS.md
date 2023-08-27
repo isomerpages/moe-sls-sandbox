@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Friends of SLS
 ---
 <img src="/images/2Teacher/friendsofsls.png">
-
 <hr>
 <table>
   <thead>
@@ -321,4 +320,3 @@ third_nav_title: Friends of SLS
         <td>St. Anthony'S Primary School</td>
     </tr>
 </tbody></table>
-  

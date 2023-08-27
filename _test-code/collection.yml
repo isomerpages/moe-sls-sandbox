@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Example 1.md
       - Example Title 2.md
       - Autoresize images.md
       - Accordion.md

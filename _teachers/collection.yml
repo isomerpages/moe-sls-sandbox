@@ -2,7 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - Friends of SLS.md
       - Teachers.md
       - Feature Highlights/2023 TCEF.md
       - Feature Highlights/2023 Sem 2.md

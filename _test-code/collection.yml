@@ -2,4 +2,5 @@ collections:
   test-code:
     output: true
     order:
+      - Example Title.md
       - Accordion.md

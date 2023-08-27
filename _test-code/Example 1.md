@@ -3,9 +3,8 @@ title: Example 1
 permalink: /test-code/example1/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">School Leaders</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Friends of SLS 2023</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -25,7 +24,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">EAS and AEDs</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Friends of SLS 2024</label>
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>

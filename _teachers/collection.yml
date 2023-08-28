@@ -2,18 +2,14 @@ collections:
   teachers:
     output: true
     order:
-      - Friends of SLS/2024 Friends of SLS.md
-      - Friends of SLS/2023 Friends of SLS.md
-      - Friends of SLS/About Friends of SLS.md
-      - Friends of SLS/.keep
       - Teachers.md
+      - Feature Highlights/.keep
       - Feature Highlights/2023 TCEF.md
       - Feature Highlights/2023 Sem 2.md
       - Feature Highlights/2023 Sem 1.md
       - Feature Highlights/2022 Sem 2.md
       - Feature Highlights/2022 Sem 1.md
       - Feature Highlights/2021 Sem 2.md
-      - Feature Highlights/.keep
       - Build The SLS Card Game/.keep
       - Build The SLS Card Game/Build The SLS Card Game.md
       - Build The SLS Card Game/Background.md
@@ -24,6 +20,10 @@ collections:
       - Build The SLS Card Game/Facilitation Resources.md
       - Build The SLS Card Game/Instruction Booklet.md
       - Frequently Asked Questions.md
+      - Friends of SLS/.keep
+      - Friends of SLS/2024 Friends of SLS.md
+      - Friends of SLS/2023 Friends of SLS.md
+      - Friends of SLS/About Friends of SLS.md
       - SLS Professional Development/.keep
       - SLS Professional Development/Teaching and Learning with SLS.md
       - SLS Professional Development/ePedagogy One Stop Site.md
@@ -45,7 +45,7 @@ collections:
       - SLS Superhero Quiz/Motivate Students with a Game like Experience.md
       - SLS Superhero Quiz/Nurture Collaboration in Gamified Lessons.md
       - SLS Superhero Quiz/Track Students’ Learning Progress.md
-      - SLS Events/Visit SLS@Grange.md
       - SLS Events/.keep
+      - SLS Events/Visit SLS@Grange.md
       - SLS Events/Events Calendar.md
       - SLS Events/Friends of SLS.md

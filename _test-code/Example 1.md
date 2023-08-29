@@ -162,10 +162,6 @@ description: ""
         <td>Clementi Town Secondary School</td>
     </tr>
     <tr>
-        <td>Ms Lau Sze Hui</td>
-        <td>Corporation Primary School</td>
-    </tr>
-    <tr>
         <td>Mr Ng Guan Han, Norman</td>
         <td>Crescent Girls' School</td>
     </tr>

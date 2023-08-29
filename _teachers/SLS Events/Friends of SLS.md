@@ -15,7 +15,7 @@ image: /images/FaviconLight.png
       <th>Friends of SLS 2024</th>
       <th>School</th>
     </tr>
-  <tr>
+    <tr>
         <td>Ms Janice Lim Hong Min</td>
         <td>Admiralty Secondary School</td>
     </tr>
@@ -152,7 +152,7 @@ image: /images/FaviconLight.png
         <td>Northbrooks Secondary School</td>
     </tr>
     <tr>
-        <td> Koh WenYu</td>
+        <td>Ms Koh WenYu</td>
         <td>Pathlight School</td>
     </tr>
     <tr>
@@ -233,19 +233,19 @@ image: /images/FaviconLight.png
     </tr>
     <tr>
         <td>Ms Cai Meifang</td>
-        <td>St. Anthony'S Canossian Primary School</td>
+        <td>St. Anthony's Canossian Primary School</td>
     </tr>
     <tr>
         <td>Mdm Zhang Huili</td>
-        <td>St. Anthony'S Primary School</td>
+        <td>St. Anthony's Primary School</td>
     </tr>
     <tr>
         <td>Ms Nicolette Ho Yi Ting</td>
-        <td>St. Anthony'S Primary School</td>
+        <td>St. Anthony's Primary School</td>
     </tr>
     <tr>
         <td>Mdm Teo Yixin</td>
-        <td>St. Hilda'S Primary School</td>
+        <td>St. Hilda's Primary School</td>
     </tr>
     <tr>
         <td>Ms Chee Qiu Xia</td>

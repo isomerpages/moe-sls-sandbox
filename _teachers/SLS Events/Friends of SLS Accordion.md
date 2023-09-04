@@ -17,7 +17,7 @@ third_nav_title: SLS Events
         <td>Ms Janice Lim Hong Min</td>
         <td>Admiralty Secondary School</td>
     </tr>
-</tbody></table></div></li>
+</tbody></table></div></li></ul>
 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Friends of SLS 2023</label>
@@ -96,4 +96,4 @@ third_nav_title: SLS Events
 </tbody>
 </table>
 </div>
-</li></ul></ul>
+</li></ul>

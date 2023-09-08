@@ -252,10 +252,6 @@ image: /images/FaviconLight.png
 <td><p>Teck Ghee Primary School</p></td>
 </tr>
 <tr>
-<td><p>Ms Qiu Yanyun</p></td>
-<td><p>Teck Whye Primary School</p></td>
-</tr>
-<tr>
 <td><p>Ms Nabilah Binte Ithnin</p></td>
 <td><p>Unity Primary School</p></td>
 </tr>

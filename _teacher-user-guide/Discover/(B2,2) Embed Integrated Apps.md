@@ -11,7 +11,9 @@ third_nav_title: Discover
 <p>To embed an integrated App:</p>
  <ol>
   <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select App.</li>
+	[insert D-Apps1]
   <li>On the Browse Apps subpage, select the App to be embedded.</li>
+	[insert D-Apps2]
     <p><u>Note</u>: Click on the [magnifying glass icon] to open the App's Details card for more details about the App.</p>
   <li>Alternatively, type the name of the App in the search bar.</li>
   <li>Some Apps may require you to fill in the Resource URL field for a specific resource to be embedded.</li>
@@ -34,7 +36,7 @@ third_nav_title: Discover
 <tr>
 </tr>
         <tr><td><strong>ClipSee (for HQ Users)</strong></td>
-								<td>ClipSee is only available to MOE HQ users to access video aggregation libraries for MOE Library content curation. For more details on school subscription plans for the App, please visit <a target="_blank" href="https://www.boclips.com/boclips-packages">this website</a>.</td></tr>
+								<td>ClipSee is only available to MOE HQ users to access video aggregation libraries for MOE Library content curation.</td></tr>
 			   <tr><td><strong>Collaborative Video Annotation and Analytics for Professional Development (CoVAAPD)</strong></td>
 								<td>CoVAAPD is a video annotation tool for teachers to discuss and collaborate on Professional Development matters.</td></tr>
 			   <tr><td><strong>Easy JavaScript Simulation (EJSS)</strong></td>

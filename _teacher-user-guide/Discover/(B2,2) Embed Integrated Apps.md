@@ -14,7 +14,7 @@ third_nav_title: Discover
 	[insert D-Apps1]
   <li>On the Browse Apps subpage, select the App to be embedded.</li>
 	[insert D-Apps2]
-    <p><u>Note</u>: Click on the [magnifying glass icon] to open the App's Details card for more details about the App.</p>
+    <p><u>Note</u>: Click on the [insert magnifying glass icon] to open the App's Details card for more details about the App.</p>
   <li>Alternatively, type the name of the App in the search bar.</li>
   <li>Some Apps may require you to fill in the Resource URL field for a specific resource to be embedded.</li>
   <li>Click <strong>Save</strong> to confirm.</li>

@@ -38,7 +38,3 @@ image: /images/FaviconLight.png
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Create a Lesson" src="https://www.youtube.com/embed/ZVc9cmS_KrY" height="100%" width="100%"></iframe>
 </div>
 <br>
-<p style="font-size:0.5rem;">Please note the following update(s):</p>
-<div style="font-size:0.5rem;"> 1. The "Create New Lesson" button mentioned at xx:xx has been relabelled to "Create/Edit Lesson" from R20.<br>
-2. 
-	</div>

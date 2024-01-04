@@ -37,7 +37,7 @@ variant: markdown
 </ol>
 </li>
 </ul>
-<p>Companies or agencies that are interested to partner with SLS can approach:</p>
+<p>Companies or agencies that are interested to partner with the SLS Office can approach:</p>
 <ul>
 <li>The <a target="_blank" href="https://www.moe.gov.sg/about-us/organisation-structure">relevant MOE divisions</a> to indicate their interest.</li>
 <li>The Curriculum Planning and Development Division to indicate interest in resource creation and weaving the resources and content into <a target="_blank" href="https://go.gov.sg/idtcontactform">digital textbooks</a>.</li>

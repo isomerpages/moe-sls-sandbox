@@ -18,11 +18,11 @@ image: /images/FaviconLight.png
 <ol>
 <li>SLS V2’s direction and areas of focus</li>
 <li>SLS Partnership Approach</li>
-<li>Opportunities for External Content Developers (ECDs)</li>
-<ol type="a">
+<li>Opportunities for External Content Developers (ECDs):</li>
+<ul>
 <li>School-based resource and content</li>
 <li>Interactive Digital Textbooks (IDTs)</li>
-</ol>
+</ul>
 <li>Networking segment</li>
 </ol>
 <h2>Event Registration</h2>
@@ -42,11 +42,11 @@ image: /images/FaviconLight.png
   <tbody>
     <tr>
       <td>15 Jan</td>
-      <td>Start of Registration</td>
+      <td>Start of registration</td>
     </tr>
     <tr>
       <td>16 Feb</td>
-      <td>End of Registration</td>
+      <td>End of registration</td>
     </tr>
     <tr>
       <td>20 Feb</td>

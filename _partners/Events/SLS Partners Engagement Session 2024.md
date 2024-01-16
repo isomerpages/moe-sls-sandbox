@@ -18,7 +18,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>SLS V2’s direction and areas of focus</li>
 <li>SLS Partnership Approach</li>
-<li>Opportunities for External Content Developers (ECDs):</li>
+<li>Opportunities for External Content Developers (ECDs)</li>
 <ul>
 <li>School-based resource and content</li>
 <li>Interactive Digital Textbooks (IDTs)</li>

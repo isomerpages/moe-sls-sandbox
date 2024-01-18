@@ -16,6 +16,6 @@ variant: markdown
 
 FB Video
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FChanChunSing.SG%2Fvideos%2F1091674675193423%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
-
+<br>
 Youtube video
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="5 Not-so-Secret SLS Hacks" src="https://www.youtube.com/embed/9Xk6ZNaiqyY" height="802" width="1280"></iframe>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="5 Not-so-Secret SLS Hacks" src="https://www.youtube.com/embed/9Xk6ZNaiqyY" height="100%" width="100%"></iframe></div>

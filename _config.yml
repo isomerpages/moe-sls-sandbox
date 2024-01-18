@@ -1,5 +1,5 @@
 title: SLS Sandbox
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 favicon: /images/FaviconLight.png
 colors:
   primary-color: "#0b233f"
@@ -19,22 +19,30 @@ description: The Singapore Student Learning Space (SLS) is MOE's core platform
   for teaching and learning and is one of MOE’s key initiatives to transform the
   learning experiences of Singaporean students through the purposeful use of
   technology to enable students to engage in different learning modes.
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +54,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://site-creation-base2-staging.netlify.app
 prod: https://site-creation-base2-prod.netlify.app
+facebook-pixel: ""
+resources_name: embed-fb-video

@@ -10,7 +10,7 @@ variant: markdown
 <h1>5 Not-so-Secret SLS Hacks</h1>
 <hr>
 <p>Have you tried the updated features in the Singapore Student Learning Space&nbsp;(SLS)?</p>
-<p>Met Kairos from Peicai Secondary, and he gamely showed me five ways he uses SLS for his own learning.</p>
+<p>Minister Chan met Kairos from Peicai Secondary, and he gamely showed me five ways he uses SLS for his own learning.</p>
 <p>Now in SLS, you can schedule new tasks to master, search for cool lessons and check your strengths and weaknesses! The MOE library is worth exploring, with topics outside of the school syllabus, if you're curious to learn more.</p>
 <p>New school year, new ways to self-study! Happy learning!</p>
 

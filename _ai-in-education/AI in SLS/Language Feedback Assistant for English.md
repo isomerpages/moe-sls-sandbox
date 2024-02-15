@@ -13,16 +13,18 @@ to students' writing in basic areas like spelling, grammar and syntax.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>by</strong> recommending learning modes, resources, practice questions
-and&nbsp;offering immediate feedback based on students’ readiness.</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Provides differentiation</strong>
+</p>
+<p>by recommending learning modes, resources, practice questions and&nbsp;offering
+immediate feedback based on students’ readiness.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

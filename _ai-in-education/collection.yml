@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Responsible AI/.keep
-      - AI in SLS/AI in SLS.md
+      - AI in SLS/AI in (SLS).md
       - AI in SLS/.keep

@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Responsible AI/.keep
-      - AI in SLS/Language Feedback Assist for English.md
+      - AI in SLS/Language Feedback Assistant for English.md
       - AI in SLS/.keep

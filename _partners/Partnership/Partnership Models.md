@@ -14,7 +14,7 @@ variant: markdown
 <li>MOE currently procures quality content that is aligned to its curriculum or engages external content developers to create and customise resources for use by students and teachers in SLS.</li>
 <li>MOE is looking at accelerating such external content procurement and creation, i.e. <ul>
 <li>In formal curriculum, create or procure interactive digital resources and content such as video, AR/VR, games and interactives/simulations. Where possible to weave the digital resources and content into a digital textbook for the secondary school level, based on MOE subject-specific syllabuses.</li>
-<li>In informal curriculum, create or procure interactive digital resources and content to enable students to learn on their own based on the following areas: Sustainability, STEAM and Maker Education, etc.</li>
+<li>In informal curriculum, create or procure interactive digital resources and content to enable students to learn on their own based on the following areas: Sustainability, STEM, heritage and culture etc.</li>
 </ul>
 </li>
 </ol>

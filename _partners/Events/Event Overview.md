@@ -12,3 +12,23 @@ third_nav_title: Events
 <p>
 	As this year’s focus is on resource development, the engagement session was jointly organised by the SLS Office and MOE’s Curriculum Planning &amp; Development Division (CPDD). The event details are as follows: 
 </p>
+<p>
+		</p><div>
+			Date: 1 March 2024 (Friday)
+		</div>
+		<br>
+    <div> 
+        Time: 3.00p.m. - 5.00p.m.
+    </div>
+		<br>
+    <div> 
+        Venue: MOE HQ (Buona Vista)
+    </div>
+<p></p>
+<h4>Programme Outline</h4>
+<ol>
+	<li>SLS V2’s Direction and Areas of Focus by SLS Office</li>
+	<li>SLS Partnership Approach by SLS Office</li>
+	<li>Pilot Interactive Digital Textbooks (IDTs) by CPDD</li>
+	<li>Networking</li>
+</ol>

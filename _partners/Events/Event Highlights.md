@@ -5,3 +5,27 @@ variant: markdown
 description: ""
 third_nav_title: Events
 ---
+<h1>Event Highlights</h1>
+<ol>
+    <li>1. SLS V2’s Direction and Areas of Focus
+        <ul style="list-style-type: lower-alpha;">
+            <li>Our Vision:
+                <ol style="list-style-type: lower-roman;">
+                    <li>SLS aims to transform learning experiences through technology, providing a one-stop hub for resources aligned with MOE’s curriculum, supporting collaborative and self-directed learning, and enabling teachers with tools aligned to MOE e-pedagogy principles.</li>
+                </ol>
+            </li>
+            <li>SLS as a Key Enabler of EdTech Masterplan 2030:
+                <ol style="list-style-type: lower-roman;">
+                    <li>SLS plays a crucial role in realising MOE’s vision of technology-transformed learning to prepare students for a technology-transformed world.</li>
+                    <li>It focuses on customising learning, enhancing digital literacy, fostering collaboration, and integrating intelligent, responsive learning environments.</li>
+                </ol>
+            </li>
+            <li>Current and Future Capabilities of SLS:
+                <ol style="list-style-type: lower-roman;">
+                    <li>Currently, SLS incorporates AI tools for tailored learning experiences, comprehensive resources, and advanced assessment feedback.</li>
+                    <li>Future developments aim to enhance resources and tools, increase the range of learning experiences, and provide better assessment and feedback.</li>
+                </ol>
+            </li>
+        </ul>
+    </li>
+</ol>

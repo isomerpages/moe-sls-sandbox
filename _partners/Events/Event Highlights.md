@@ -7,7 +7,7 @@ third_nav_title: Events
 ---
 <h1>Event Highlights</h1>
 <ol>
-    <li>1. SLS V2’s Direction and Areas of Focus
+    <li>SLS V2’s Direction and Areas of Focus
         <ul style="list-style-type: lower-alpha;">
             <li>Our Vision:
                 <ol style="list-style-type: lower-roman;">
@@ -28,4 +28,29 @@ third_nav_title: Events
             </li>
         </ul>
     </li>
+	<li>SLS Partnership Approach
+        <ul style="list-style-type: lower-alpha;">
+            <li>Partnership with SLS:
+                <ol style="list-style-type: lower-roman;">
+                    <li>SLS operates as an open, modular system to integrate external content and tools, aiming to be a one-stop hub for all MOE’s teaching and learning needs.</li>
+									<li>It encourages partnerships based on <a target="_blank" href="">principles</a> that avoid duplicating SLS core resources, endorsing content that offers significant value beyond SLS’s baseline capabilities.</li>
+                </ol>
+            </li>
+            <li>Resource Development:
+                <ol style="list-style-type: lower-roman;">
+                    <li>SLS hosts over 21,000 lessons, with resources developed by MOE, teachers, and external content developers (ECDs).</li>
+                    <li>It seeks to accelerate external content creation, particularly digital and interactive resources, while providing a framework for school-based resource development and for government agencies to develop Student-Initiated Learning content through ECD SLS accounts.</li>
+                </ol>
+            </li>
+            <li>Integrated Services:
+                <ol style="list-style-type: lower-roman;">
+                    <li>SLS supports the integration of external services through whitelisting URLs, LTI integration, and the use of external engines for enhanced capabilities.</li>
+                    <li>It seeks partners offering other advanced capabilities for integration or standalone services.</li>
+                </ol>
+            </li>
+        </ul>
+    </li>
 </ol>
+<hr>
+<h2>Event Gallery</h2>
+

@@ -33,7 +33,7 @@ third_nav_title: Events
             <li>Partnership with SLS:
                 <ol style="list-style-type: lower-roman;">
                     <li>SLS operates as an open, modular system to integrate external content and tools, aiming to be a one-stop hub for all MOE’s teaching and learning needs.</li>
-									<li>It encourages partnerships based on <a target="_blank" href="">principles</a> that avoid duplicating SLS core resources, endorsing content that offers significant value beyond SLS’s baseline capabilities.</li>
+									<li>It encourages partnerships based on <a target="_blank" href="/partners/partnership/partnership-with-sls/">principles</a> that avoid duplicating SLS core resources, endorsing content that offers significant value beyond SLS’s baseline capabilities.</li>
                 </ol>
             </li>
             <li>Resource Development:
@@ -53,4 +53,3 @@ third_nav_title: Events
 </ol>
 <hr>
 <h2>Event Gallery</h2>
-

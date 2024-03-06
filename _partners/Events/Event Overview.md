@@ -16,11 +16,9 @@ third_nav_title: Events
 		</p><div>
 			Date: 1 March 2024 (Friday)
 		</div>
-		<br>
     <div> 
         Time: 3.00p.m. - 5.00p.m.
     </div>
-		<br>
     <div> 
         Venue: MOE HQ (Buona Vista)
     </div>

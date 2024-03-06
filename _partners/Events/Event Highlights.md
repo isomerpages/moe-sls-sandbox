@@ -44,7 +44,7 @@ third_nav_title: Events
             </li>
             <li>Integrated Services:
                 <ol style="list-style-type: lower-roman;">
-                    <li>SLS supports the integration of external services through <a target="_blank" href="">whitelisting URLs</a>, <a target="_blank" href="">LTI integration</a>, and the use of <a target="_blank" href="">external engines for enhanced capabilities.</a></li>
+                    <li>SLS supports the integration of external services through <a target="_blank" href="">whitelisting URLs</a>, <a target="_blank" href="">LTI integration</a>, and the use of <a target="_blank" href="">external engines</a> for enhanced capabilities.</li>
                     <li>It seeks partners offering other advanced capabilities for integration or standalone services.</li>
                 </ol>
             </li>

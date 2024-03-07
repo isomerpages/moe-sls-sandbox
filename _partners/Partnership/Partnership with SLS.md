@@ -17,7 +17,6 @@ variant: markdown
 </ul>
 <h1 id="sls-partnership-principles">SLS Partnership Principles</h1>
 <ol>
-	<li>SLS is not just a “gateway” for external content/tools. Once content/tools are developed, whitelisted or integrated, SLS will be seen as a gatekeeper/implicit endorser.</li>
 	<li>Whitelisted or integrated content/tools <strong>must not</strong>:</li>
 	<ul>
    <li>Solicit further business in-app, especially from students; or</li>
@@ -25,4 +24,3 @@ variant: markdown
 </ul>
 	<li>Generally, these should also not duplicate current or upcoming SLS core resources/features (but they <strong>can</strong> offer enhanced or customised content/tools).</li>
 </ol>
-

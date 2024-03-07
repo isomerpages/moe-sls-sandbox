@@ -58,7 +58,7 @@ third_nav_title: Events
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5749NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5749NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENF3528_Enhanced_NRNY.jpg"><img src="/images/6PartnersEngagement2024/JENF3528_Enhanced_NRNY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENF3658_Enhanced_NRNY.jpg"><img src="/images/6PartnersEngagement2024/JENF3658_Enhanced_NRNY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
-<a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
-<a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
+<a target="_blank" href="/images/6PartnersEngagement2024/JENF3677_Enhanced_NRNY.jpg"><img src="/images/6PartnersEngagement2024/JENF3677_Enhanced_NRNY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
+<a target="_blank" href="/images/6PartnersEngagement2024/JENI6066NY.jpg"><img src="/images/6PartnersEngagement2024/JENI6066NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>

@@ -62,4 +62,3 @@ third_nav_title: Events
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
-<a target="_blank" href="/images/6PartnersEngagement2024/JENI5853NY.jpg"><img src="/images/6PartnersEngagement2024/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>

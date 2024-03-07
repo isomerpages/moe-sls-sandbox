@@ -51,8 +51,8 @@ third_nav_title: Events
         </ul>
     </li>
 	<li><strong>Pilot Interactive Digital Textbooks (IDTs) sharing</strong>
-		<ul>
-			<li>For further insights into IDTs, you can explore the <a target="_blank" href="/partners/partnership/partnership-models/">Content Development</a> section or reach out to CPDD via <a target="_blank" href="https://go.gov.sg/idtcontactform">this form</a></li></ul>
+		<ol style="list-style-type: lower-alpha;">
+			<li>For further insights into IDTs, you can explore the <a target="_blank" href="/partners/partnership/partnership-models/">Content Development</a> section or reach out to CPDD via <a target="_blank" href="https://go.gov.sg/idtcontactform">this form</a>.</li></ol>
 	</li>
 </ol>
 <hr>

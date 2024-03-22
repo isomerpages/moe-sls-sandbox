@@ -12,12 +12,17 @@ processes over 3 stages and 5 tracks via a whole-school approach or to
 start with certain department(s). Given that schools are at different stages
 of readiness, schools can consider spending time to prepare the ground
 for the implementation of SLS as a One-Stop Hub.</p>
-<p>&lt;pic&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Support for Schools" src="/images/Resources/support1.png">
+</div>
 <p></p>
 <p>Schools can implement the processes by “three stages” or “five tracks”;
 whole- school or by departments</p>
-<p>&lt;pic&gt;
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Support for Schools" src="/images/Resources/support2.png">
+</div>
+<p>
 <br>The four quadrants illustrate the approach that schools might take given
 school’s context i.e. readiness, culture, priorities vis-à-vis the benefits
 of SLS as a One-Stop Hub that schools can reap.</p>

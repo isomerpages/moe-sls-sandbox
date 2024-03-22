@@ -12,4 +12,7 @@ this EdTech Masterplan, by helping teachers work more effectively. An important
 strategy for schools would be to adopt a broader and whole-school approach
 to using SLS.</p>
 <p></p>
-<p>&lt;insert Pic&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SLS as a Key Enabler of the MP2030" src="/images/Resources/masterplaninitiatives.png">
+</div>
+<p></p>

@@ -8,7 +8,7 @@ third_nav_title: SLS as a One Stop Hub
 ---
 <h2>Support for Schools</h2>
 <p>It is recommended for schools to implement the various digital transformation
-processes over 3 stages and 5 tracks via a whole-school approach or to
+processes over 3 stages and 5 domains via a whole-school approach or to
 start with certain department(s). Given that schools are at different stages
 of readiness, schools can consider spending time to prepare the ground
 for the implementation of SLS as a One-Stop Hub.</p>
@@ -16,7 +16,7 @@ for the implementation of SLS as a One-Stop Hub.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Support for Schools" src="/images/Resources/support1.png">
 </div>
 <p></p>
-<p>Schools can implement the processes by “three stages” or “five tracks”;
+<p>Schools can implement the processes by “three stages” or “five domains”;
 whole- school or by departments</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -31,13 +31,13 @@ by three-stages. This enables schools to reap the maximum benefits as a
 whole-school co-ordinated approach by stages will aid successful implementation.</p>
 <p>Schools looking to introduce SLS as a One-Stop Hub quickly by having certain
 department(s) start first might embark on quadrant 4. However, given that
-departments may choose different tracks to implement, there will be least
-synergy especially if some departments do not implement any tracks.</p>
+departments may choose different domains to implement, there will be least
+synergy especially if some departments do not implement any domains.</p>
 <p>Schools looking for a whole-school approach yet preserve autonomy for
-departments to decide the tracks to implement, might embark on quadrant
+departments to decide the domains to implement, might embark on quadrant
 1. This implies that implementation is confined to (discrete) department-selected
-tracks which does not bring significant synergies at the school-level.
-Though this track will get the whole school involved, schools will inevitably
+domains which does not bring significant synergies at the school-level.
+Though this domain will get the whole school involved, schools will inevitably
 still need to coordinate the respective departments’ efforts downstream
 for successful implementation of SLS as a One-Stop Hub.</p>
 <p>Schools looking for departments to implement SLS as a One-Stop Hub by
@@ -47,4 +47,5 @@ three stages are not implemented fully. For example, if departments only
 implement the processes in stage 1, school will not reap the full benefits
 of using SLS for central administration of T&amp;L as processes such as
 digitalising T&amp;L resources will not be implemented.</p>
+<p></p>
 <p></p>

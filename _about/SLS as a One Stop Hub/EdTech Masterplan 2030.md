@@ -7,7 +7,10 @@ image: /images/FaviconLight.png
 third_nav_title: SLS as a One Stop Hub
 ---
 <h2>EdTech Masterplan 2030</h2>
-<p>Pic of Quote</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EdTech Masterplan 2030" src="/images/Resources/quote.png">
+</div>
 <p></p>
 <p>The world is becoming more unpredictable, and change is occurring at an
 unprecedented pace. EdTech Masterplan 2030 provides direction on how MOE
@@ -25,11 +28,14 @@ Effectively and Efficiently</p>
 the Future</p>
 </li>
 </ol>
-<p></p>
 <h3>Vision</h3>
+<hr>
 <p>Technology-transformed Learning, to prepare students for a Technology-transformed
 World</p>
 <p></p>
 <h3>Outcome Goals</h3>
-<p>Pic of Quote</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EdTech Masterplan 2030" src="/images/Resources/outcomegoals.png">
+</div>
 <p></p>

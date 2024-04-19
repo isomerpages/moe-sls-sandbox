@@ -2,6 +2,7 @@ collections:
   ai-in-education:
     output: true
     order:
+      - Responsible AI/AI in Education Ethics Framework.md
       - Responsible AI/.keep
       - AI in SLS/Language Feedback Assistant for English.md
       - AI in SLS/.keep

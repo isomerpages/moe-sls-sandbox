@@ -6,19 +6,27 @@ description: ""
 image: /images/FaviconLight.png
 ---
 <h2><strong>Supporting EdTech Masterplan 2030</strong></h2>
-<h3>Why use SLS as a One-Stop Hub?</h3>
+<p>EdTech Masterplan 2030 provides direction on how MOE will do more to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Harness Technology More Effectively to Enhance Teaching and Learning</p>
+</li>
+<li>
+<p>Leverage Technology as a Capability Multiplier to Help us Do Work More
+Effectively and Efficiently</p>
+</li>
+<li>
+<p>Equip our Students with Digital Literacy and Technological Skills for
+the Future</p>
+</li>
+</ol>
+<h3>What is EdTech Masterplan 2030?</h3>
 <hr>
-<p>Using SLS as a One-Stop Hub has the following benefits for schools:</p>
-<p>a. There are many <u>MOE T&amp;L resources and initiatives to be rolled out through SLS</u> in
-the next few years, e.g. Interactive Digital Textbooks and e-SBA.</p>
-<p>b. SLS's <u>T&amp;L features</u> are now comparable to the best-in-class
-in other learning platforms. Additionally, SLS has introduced many AIEd
-capabilities in line with Whole-Of-Government strategic initiatives.</p>
-<p>c. SLS's <u>open policy</u> allows teachers and students to tap on a wider
-variety of external tools (more than 200) through SLS, e.g. Google suite
-and extensions.</p>
-<p>d. SLS provides an <u>MOE-wide platform</u> for schools to collaborate with
-one another, e.g. sharing of digitalised exam papers, conducting of interschool
-classes such as in third language, or even to support Professional Learning
-Communities.</p>
+<p>For more information, you may refer to this <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank">page</a>.</p>
+<p></p>
+<h3>Using SLS as a Key Enabler of the EdTech Masterplan 2030</h3>
+<hr>
+<p>The Singapore Student Learning Space (SLS) V2 is a key enabler in supporting
+schools in their implementation of this EdTech Masterplan, by facilitating
+Strategic Thrusts 1, 2 and 4.</p>
 <p></p>

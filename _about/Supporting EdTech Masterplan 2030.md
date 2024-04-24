@@ -22,6 +22,10 @@ the Future</p>
 </ol>
 <h3>What is EdTech Masterplan 2030?</h3>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Strategicthrusts.png">
+</div>
 <p>For more information, you may refer to this <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank">page</a>.</p>
 <p></p>
 <h3>Using SLS as a Key Enabler of the EdTech Masterplan 2030</h3>

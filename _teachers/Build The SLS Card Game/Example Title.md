@@ -11,10 +11,16 @@ third_nav_title: Build The SLS Card Game
 </div>
 <h3>Game Objective</h3>
 <hr>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.</p>
+<p>Jumpstart is a tableau game where you step into the shoes of school leaders
+aiming to drive digital transformation through strategic use of SLS.</p>
+<p></p>
+<p>Players place cards to build their schools, discarding other cards to
+pay for them. Cards placed score every round, producing points and card
+draws. You must balance your number of cards against gaining points. The
+game ends when a player has 50 points.</p>
+<p></p>
+<p>Compete or collaborate with fellow players as you experience the thrill
+change!</p>
 <p></p>
 <h3>Resources</h3>
 <hr>

@@ -2,10 +2,10 @@ collections:
   teachers:
     output: true
     order:
+      - SLS Card Games/.keep
       - SLS Card Games/Superhero Academy.md
       - SLS Card Games/Jumpstart.md
       - SLS Card Games/Build It Right.md
-      - SLS Card Games/.keep
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/2023 TCEF.md

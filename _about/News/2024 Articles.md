@@ -7,19 +7,21 @@ third_nav_title: News
 image: /images/FaviconLight.png
 ---
 <h1>2024 Articles</h1>
-<h4><a href="https://www.schoolbag.edu.sg/story/ready-to-level-up-build-your-own-game-at-school" rel="noopener noreferrer nofollow" target="_blank">Ready to level up? Build your own game at school</a></h4>
+
+
+<h4><img style="width:1.5rem; display: inline;" src="/images/Resources/AI_logo.png"> <a href="https://www.schoolbag.edu.sg/story/ready-to-level-up-build-your-own-game-at-school" rel="noopener noreferrer nofollow" target="_blank">Ready to level up? Build your own game at school</a></h4>
 <p>At Naval Base Primary School, upper primary students learn many aspects
 of creating digital education games as part of their school’s Applied Learning
 Program. These games are then uploaded on the Singapore Student Learning
 Space (SLS) platform for their juniors to play!</p>
 <p>Schoolbag, Published: 18th October 2022</p>
 <hr>
-<h4><a href="https://www.straitstimes.com/singapore/parenting-education/viewpoint-enjoying-hbl-days-with-my-teenagers" rel="noopener noreferrer nofollow" target="_blank">Enjoying HBL days with my teenagers</a></h4>
+<h4><img style="width:1.5rem; display: inline;" src="/images/FaviconLight.png"> <a href="https://www.straitstimes.com/singapore/parenting-education/viewpoint-enjoying-hbl-days-with-my-teenagers" rel="noopener noreferrer nofollow" target="_blank">Enjoying HBL days with my teenagers</a></h4>
 <p>Mum shares what makes home-based learning on SLS enjoyable for her and
 her teenagers.</p>
 <p>Straits Times, Published: 3rd September 2022</p>
 <hr>
-<h4><a href="https://www.moe.gov.sg/news/speeches/20220805-speech-by-minister-of-state-for-education-ms-gan-siow-huang-at--the-national-digital-explorer-2022-awards-ceremony" rel="noopener noreferrer nofollow" target="_blank">Speech by Minister of State for Education Ms Gan Siow Huang at the National Digital Explorer 2022 Awards Ceremony</a></h4>
+<h4><img style="width:1.5rem; display: inline;" src="/images/Resources/AI_logo.png"> <a href="https://www.moe.gov.sg/news/speeches/20220805-speech-by-minister-of-state-for-education-ms-gan-siow-huang-at--the-national-digital-explorer-2022-awards-ceremony" rel="noopener noreferrer nofollow" target="_blank">Speech by Minister of State for Education Ms Gan Siow Huang at the National Digital Explorer 2022 Awards Ceremony</a></h4>
 <p>"...today, students can take greater ownership over their own learning
 through technology such as the Student Learning Space (SLS)" Minister of
 State for Education Gan Siow Huang</p>

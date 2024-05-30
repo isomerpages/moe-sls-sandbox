@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Build The SLS Card Game
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS Build/banner2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Marcomms/Jumpstart.png">
 </div>
 <h3>Game Objective</h3>
 <hr>
@@ -29,7 +29,7 @@ change!</p>
 <p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Game Rules</a>
 </p>
 <p></p>
-<h3>Video Tutorial (if any)</h3>
+<h3>Video Tutorial</h3>
 <hr>
 <p></p>
 <div class="iframe-wrapper">

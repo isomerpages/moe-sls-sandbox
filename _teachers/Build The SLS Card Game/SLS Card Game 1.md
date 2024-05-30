@@ -10,10 +10,10 @@ third_nav_title: Build The SLS Card Game
 </div>
 <h3>Game Objective</h3>
 <hr>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.</p>
+<p>In 'Superhero Academy,' join forces in this cooperative card game where
+you harness your unique teaching powers to navigate the challenges of a
+technology-driven society. Together, overcome ever-evolving dangers and
+prepare your students to thrive in today's world!</p>
 <p></p>
 <h3>Resources</h3>
 <hr>

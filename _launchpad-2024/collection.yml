@@ -1,4 +1,5 @@
 collections:
   launchpad-2024:
     output: true
-    order: []
+    order:
+      - Event Highlights.md

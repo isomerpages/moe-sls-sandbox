@@ -12,7 +12,10 @@ variant: markdown
 The SLS is continually being developed in response to the needs of students and teachers. Curriculum-aligned resources and system tools are continually being improved and developed in line with suggestions and feedback from teachers and students to cater to students’ diverse and evolving learning needs.
 
  The SLS’s agile development allows it to quickly adapt to new demands from users or policy changes. The SLS has already whitelisted and integrated more than 200 sites / tools. It has also built APIs according to international specifications to integrate with other systems to exchange content and tools (LTI 1.3), assessment items (QTI3) and learning data (xAPI).
-
+<hr>
+<div class="bp-youtube">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 <h2>SLS Key Messages</h2>
 <hr>
 <h4>1. Learn Deeper</h4>
@@ -23,11 +26,3 @@ The SLS is continually being developed in response to the needs of students and 
 <h4>3. Built Leaner</h4>
 <p><b>Open and modular architecture</b> supporting external apps and content which are constantly improved through stakeholder feedback and <b>agile development processes</b>.
 </p>
-<br>
-<hr>
-<div class="bp-youtube">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-</div>
-
-
-

@@ -25,7 +25,7 @@ the Future</p>
 <h3>SLS as a Key Enabler of the EdTech Masterplan 2030</h3>
 <hr>
 <p>The Singapore Student Learning Space (SLS) V2 is a key enabler in supporting
-schools in their implementation of this EdTech Masterplan, by facilitating:</p>
+schools in their implementation of the EdTech Masterplan.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Strategicthrusts2.png">

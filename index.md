@@ -13,6 +13,10 @@ sections:
       background: /images/LandingPage.png
       button: Login to SLS
       url: https://vle.learning.moe.edu.sg/login
+      key_highlights:
+        - title: SLS Chatbot
+          description: Ask me anything about SLS!
+          url: https://chatgpt.com/g/g-bDmQA0VLG-sls-teacher-guide
   - resources:
       title: Latest News
       button: find out more

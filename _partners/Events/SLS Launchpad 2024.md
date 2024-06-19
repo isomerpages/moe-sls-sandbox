@@ -1,8 +1,0 @@
----
-title: SLS Launchpad 2024
-permalink: /sls-launchpad-2024/
-variant: tiptap
-description: ""
-third_nav_title: Events
----
-<p></p>

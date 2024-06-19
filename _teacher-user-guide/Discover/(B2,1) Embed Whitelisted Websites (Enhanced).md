@@ -3,10 +3,13 @@ title: (B2,1) Embed Whitelisted Websites
 permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
+variant: markdown
 ---
 <h1 class="page-title">(B2,1) Embed Whitelisted Websites</h1>
            
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
+
+<p>Schools are advised to be mindful of age advisories&nbsp;for whitelisted sites. Users can check the website description for age advisories on affected sites in SLS External Resources by clicking on the . For example, “Gather” does not allow users under the age of 18.</p>
 
 <p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.
                        
@@ -88,14 +91,7 @@ third_nav_title: Discover
                 https://www.artgallery.nsw.gov.au/collection
             </td>
         </tr>
-<!--        
-        <tr><td><strong>AWW App</strong></td>
-            <td>Collaboration Tool</td>
-            <td>
-              https://awwapp.com
-            </td>
-        </tr>
--->
+
         <tr><td><strong>Baamboozle</strong></td>
             <td>Educational Games and Tools</td>
             <td>
@@ -242,21 +238,11 @@ third_nav_title: Discover
               https://classroomscreen.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>CNN</strong></td>
-            <td>News Resources</td>
-            <td>
-              https://edition.cnn.com
-            </td>
-        </tr>
--->
+
         <tr><td><strong>Coggle</strong></td>
             <td>Mind Mapping Tool</td>
             <td>
-            <!--  
-              https://coggle.it
-              <br>
-            -->
+            
               https://embed.coggle.it
             </td>
         </tr>
@@ -356,10 +342,7 @@ third_nav_title: Discover
               https://explaineverything.com
               <br>
               https://drive.explaineverything.com
-            <!--
-              <br>
-              https://expl.ai
-            -->
+            
               <br>
               https://whiteboard.explaineverything.com
             </td>
@@ -496,14 +479,7 @@ third_nav_title: Discover
               https://www.ilo.org
             </td>
         </tr>
-<!--
-        <tr><td><strong>International Monetary Fund</strong></td>
-            <td>Resource site</td>
-            <td>
-              https://www.imf.org
-            </td>
-        </tr>
--->
+
         <tr><td><strong>IN CCE</strong></td>
             <td>News Resource Site for CCE</td>
             <td>
@@ -543,14 +519,10 @@ third_nav_title: Discover
         <tr><td><strong>Kahoot</strong></td>
             <td>Survey/Quiz Tool</td>
             <td>
-<!--              https://create.kahoot.it
-              <br>
--->
+
               https://kahoot.it
               <br>
-<!--              https://kahoot.com
-              <br>
--->
+
               https://play.kahoot.it
             </td>
         </tr>
@@ -645,10 +617,7 @@ third_nav_title: Discover
         <tr><td><strong>Momento 360</strong></td>
             <td>Interactive Media</td>
             <td>
-<!--
-              https://www.momento360.com
-            <br>
--->
+
               https://momento360.com
             </td>
         </tr>
@@ -836,14 +805,7 @@ third_nav_title: Discover
               https://quizlet.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Quiznetic</strong></td>
-            <td>Survey/Quiz Tool</td>
-            <td>
-              https://quiznetic.com
-            </td>
-        </tr>
--->
+
         <tr><td><strong>RapidTables</strong></td>
             <td>STEM Tools</td>
             <td>
@@ -868,14 +830,7 @@ third_nav_title: Discover
                 https://saatchigallery.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Salvador Dali Museum</strong></td>
-            <td>Art Resources Website</td>
-            <td>
-              https://www.salvador-dali.org
-            </td>
-        </tr>
--->
+
         <tr><td><strong>Science Kids</strong></td>
             <td>Science Resources</td>
             <td>
@@ -992,18 +947,7 @@ third_nav_title: Discover
                 https://storylineonline.net
             </td>
         </tr>
-<!--        
-        <tr><td><strong>Streamlit</strong></td>
-            <td>Web App Script Tool</td>
-            <td>
-              https://metacog.streamlit.app
-              <br>
-              https://student.streamlitapp.com/?embedded=true
-              <br>
-              https://teacher.streamlitapp.com/?embedded=true
-            </td>
-        </tr>
--->        
+        
         <tr><td><strong>Super Teacher Tools</strong></td>
             <td>Interactive Content</td>
             <td>
@@ -1106,14 +1050,7 @@ third_nav_title: Discover
             https://toytheater.com
           </td>
         </tr>
-<!--
-        <tr><td><strong>Toybox Tools</strong></td>
-            <td>Gamification</td>
-            <td>
-              https://toybox.tools.bbc.co.uk
-            </td>
-        </tr>
--->
+
         <tr><td><strong>Transum</strong></td>
             <td>Math Resources</td>
             <td>
@@ -1166,20 +1103,7 @@ third_nav_title: Discover
             https://v2.versoapp.com
           </td>
         </tr>
-<!--
-        <tr><td><strong>Vialogues</strong></td>
-            <td>Video Commenting Tool</td>
-            <td>
-              https://www.vialogues.com
-            </td>
-        </tr>
-        <tr><td><strong>Victoria and Albert Museum London</strong></td>
-            <td>Educational Tools and Resources</td>
-            <td>
-              https://collections.vam.ac.uk
-            </td>
-        </tr>
--->
+
         <tr><td><strong>Virtual Musical Instruments</strong></td>
             <td>Music Tools</td>
             <td>
@@ -1220,10 +1144,7 @@ third_nav_title: Discover
             <td>Worksheet Design Tool</td>
             <td>
               https://app.wizer.me
-            <!--
-              <br>
-              https://wizer.me
-            -->
+            
             </td>
         </tr>
         <tr><td><strong>Wordclouds</strong></td>
@@ -1272,10 +1193,7 @@ third_nav_title: Discover
               https://www.zbschools.sg
             </td>
         </tr>
-<!--
-        <font color="#FBBC04">NEW!</font>
-        //represents new item
--->
+
 </tbody>
 </table>
 											
@@ -1311,10 +1229,7 @@ third_nav_title: Discover
                 https://www.arcgis.com/apps
                 <br>
                 https://moe-edugis.maps.arcgis.com/apps
-              <!--
-                <br>
-                https://moe-etd.maps.arcgis.com
-              -->
+              
                 <br>
                 https://storymaps.arcgis.com
                 <br>
@@ -1409,10 +1324,7 @@ third_nav_title: Discover
               <td>Flipbook Tool</td>
               <td>
                 https://cdn.flipsnack.com
-              <!--
-                <br>
-                https://player.flipsnack.com
-              -->
+              
               </td>
           </tr>
           <tr><td><strong>FormSG</strong></td>
@@ -1445,10 +1357,7 @@ third_nav_title: Discover
                 https://geogebra.org
                 <br>
                 https://www.geogebra.org
-              <!--  
-                <br>
-                https://ggbm.at
-              -->
+              
               </td>
           </tr>
           <tr><td><strong>Google Docs</strong></td>
@@ -1497,27 +1406,8 @@ third_nav_title: Discover
                 https://docs.google.com/presentation
               </td>
           </tr>
-  <!--
-          <tr><td><a href="../embed-websites/h5p.html"><strong>H5P </strong></a></td>
-              <td>Interactive Media</td>
-              <td>
-                https://h5p.org
-              </td>
-          </tr>
-          //NOTE: H5P.org is only for trying out H5P. Please do not embed the content for other purposes. See their getting started guide https://h5p.org/getting-started for information on how you may get started with H5P on H5P.com or by hosting it yourself
-  -->
-  <!--
-          <tr><td><strong>Issuu</strong> </td>
-              <td>Flipbook Tool</td>
-              <td>
-                https://e.issuu.com
-                <br>
-                https://issuu.com
-                <br>
-                https://www.issuu.com
-              </td>
-          </tr>
-  -->
+  
+  
           <tr><td><strong>HeyHi </strong></td>
               <td>Worksheet and Meeting Tool</td>
               <td>
@@ -1562,16 +1452,7 @@ third_nav_title: Discover
                 https://sway.office.com
               </td>
           </tr>
-  <!--
-          <tr><td><strong>Mindmup</strong> </td>
-              <td>Mind Mapping Tool</td>
-              <td>
-                https://www.mindmup.com
-                <br>
-                https://app.mindmup.com
-              </td>
-          </tr>
-  -->
+  
             <tr><td><strong>Mindmeister </strong></td>
               <td>Mindmap Tool</td>
               <td>
@@ -1586,14 +1467,7 @@ third_nav_title: Discover
                 https://lab.concord.org
               </td>
           </tr>
-  <!--
-          <tr><td><strong>Mural</strong> </td>
-              <td>Visual Tool</td>
-              <td>
-                https://www.mural.co
-              </td>
-          </tr>
-  -->
+  
           <tr><td><strong>Nearpod</strong></td>
               <td>Integrated Teaching Tool</td>
               <td>
@@ -1784,14 +1658,7 @@ third_nav_title: Discover
                 https://phet.colorado.edu
               </td>
           </tr>
-  <!--
-          <tr><td><strong>Pixton </strong></td>
-              <td>Comic Tool</td>
-              <td>
-                https://share.pixton.com
-              </td>
-          </tr>
-  -->
+  
           <tr><td><strong>Playposit</strong> </td>
               <td>Interactive Video Tool</td>
               <td>
@@ -1926,15 +1793,7 @@ third_nav_title: Discover
                 https://share.vidyard.com
               </td>
           </tr>
-  <!--        <tr><td><strong>Vimeo</strong></td>
-              <td>Online Video Tool</td>
-              <td>
-                https://player.vimeo.com
-                <br>
-                https://vimeo.com
-              </td>
-          </tr>
-  -->
+  
           <tr><td><strong>Wakelet</strong> </td>
               <td>Resource Curation Tool</td>
               <td>

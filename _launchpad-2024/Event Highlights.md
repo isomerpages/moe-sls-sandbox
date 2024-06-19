@@ -52,4 +52,4 @@ description: ""
 </ol>
 <hr>
 <h2>Event Gallery</h2>
-<a target="_blank" href="/images/3Partners/JENI5853NY.jpg"><img src="/images/3Partners/JENI5853NY.jpg" alt="Partners Engagement 2024" style="width: 25%; display: inline"></a>
+<a target="_blank" href="/images/3Partners/JENI5853NY.jpg"><img src="/images/3Partners/JENI5853NY.jpg" alt="SLS Launchpad 2024" style="width: 25%; display: inline"></a>

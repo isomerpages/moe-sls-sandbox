@@ -1,4 +1,4 @@
 collections:
-  sls-launchpad-2024:
+  launchpad-2024:
     output: true
     order: []

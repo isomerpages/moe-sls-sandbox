@@ -17,7 +17,7 @@ description: ""
             </li>
 					<li>Integration: Integrated apps are promoted through the App Library and Marketplace, with usage data available upon request.
             </li>
-					<li>Integration: Integrated apps are promoted through the App Library and Marketplace, with usage data available upon request.
+					<li>Scaling: For solutions with significant value-add, SLS offers discussions for deeper integration and scaling
             </li>
         </ul>
     </li>

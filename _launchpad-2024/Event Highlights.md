@@ -13,7 +13,11 @@ description: ""
             </li>
 					<li>Solutioning: Providing published processes and technical specifications for whitelisting and integration on the SLS Info-Site.
             </li>
-					<li>Solutioning: Providing published processes and technical specifications for whitelisting and integration on the SLS Info-Site.
+					<li>Proof of Concept and Prototyping: The SLS Partnership Team supports during the whitelisting and integration processes, allowing differentiated app access to facilitate prototyping.
+            </li>
+					<li>Integration: Integrated apps are promoted through the App Library and Marketplace, with usage data available upon request.
+            </li>
+					<li>Integration: Integrated apps are promoted through the App Library and Marketplace, with usage data available upon request.
             </li>
         </ul>
     </li>

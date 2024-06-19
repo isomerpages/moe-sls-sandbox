@@ -10,7 +10,7 @@ variant: markdown
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 
 <p>Schools are advised to be mindful of age advisories&nbsp;for whitelisted sites. Users can check the website description for age advisories on affected sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> . For example, “Gather” does not allow users under the age of 18.</p>
-<img src="/images/2Teacher/gatherapp.png" alt="Apps" style="width: 100%;">
+<img src="/images/2Teacher/gatherapp.png" alt="Apps" style="width: 50%;">
 <p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.
                        
 </p><p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.

@@ -27,4 +27,4 @@ Venue: MOE @ Balestier
 </ol>
 <h4>Event Highlights</h4>
 <hr>
-<p>Click here to check out the <a target="_blank" href="/partners/events/event-highlights-2024/">Event Highlights</a>.</p>
+<p>Click here to check out the <a target="_blank" href="/partners/events/sls-launchpad-2024/">Event Highlights</a>.</p>

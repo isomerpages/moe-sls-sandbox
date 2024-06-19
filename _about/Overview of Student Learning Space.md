@@ -23,22 +23,11 @@ The SLS is continually being developed in response to the needs of students and 
 <h4>3. Built Leaner</h4>
 <p><b>Open and modular architecture</b> supporting external apps and content which are constantly improved through stakeholder feedback and <b>agile development processes</b>.
 </p>
-<h2>SLS  Values</h2>
+<br>
 <hr>
-
-![](/images/Resources/SLSkeyvalues.png)
-<h2>SLS  Version 2</h2>
-<hr>
-
-![](/images/Resources/SLSv2.png)
-
-
-
-
-<h1>Overview of Student Learning Space</h1>
-
-
-
 <div class="bp-youtube">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
+
+
+

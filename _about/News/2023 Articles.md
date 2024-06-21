@@ -7,11 +7,6 @@ third_nav_title: News
 variant: markdown
 ---
 <h1>2023 Articles</h1>
-<hr>
-<h4><a href="https://singteach.nie.edu.sg/2024/01/09/a-teachers-reflection-on-blended-learning-for-higher-chinese-language-learners/" target="_blank"><u>A Teacher’s Reflection on Blended Learning for Higher Chinese Language Learners</u></a></h4>
-<p>Although the students were not able to visit the museum, they were able to go on a virtual learning journey and learn art appreciation through the Student Learning Space (SLS)... The resources found on the SLS have been useful for me in guiding and deepening their understanding in class.</p>
-<p>SingTeach, Published: 9th January 2024</p>
-<hr>
 <h4><a href="https://www.schoolbag.edu.sg/story/student-quizzes-tech-ceo-how-do-i-compete-with-ai" target="_blank"><u>Student quizzes tech CEO: So how do I compete with AI?</u></a></h4>
 <p>Zesiree Kok, a Secondary 3 student who likes graphic design quizzes software
 start-up boss Mr Shamir from Versafleet, on what it takes to make the right

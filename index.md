@@ -11,13 +11,6 @@ notification: ""
 sections:
   - hero:
       background: /images/LandingPage.png
-      dropdown:
-        title: Frequently used links
-        options:
-          - title: SLS Login
-            url: www.google.com
-          - title: SLS Teacher Guide
-            url: www.google.com
   - resources:
       title: Latest News
       button: find out more

@@ -11,14 +11,13 @@ notification: ""
 sections:
   - hero:
       background: /images/LandingPage.png
-      url: https://vle.learning.moe.edu.sg/login
-      key_highlights:
-        - title: SLS Teacher Guide
-          description: Chat for SLS teacher guidance!
-          url: https://chatgpt.com/g/g-bDmQA0VLG-sls-teacher-guide
-        - title: Login to SLS
-          description: Click here to log in
-          url: https://vle.learning.moe.edu.sg/login
+      dropdown:
+        title: Frequently used links
+        options:
+          - title: SLS Login
+            url: www.google.com
+          - title: SLS Teacher Guide
+            url: www.google.com
   - resources:
       title: Latest News
       button: find out more

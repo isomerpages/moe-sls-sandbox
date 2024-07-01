@@ -10,7 +10,7 @@ links:
     collection: teachers
   - title: Partners
     collection: partners
-  - title: User Guides
+  - title: Guides
     url: /student-user-guide/organise/
     sublinks:
       - title: Students UG

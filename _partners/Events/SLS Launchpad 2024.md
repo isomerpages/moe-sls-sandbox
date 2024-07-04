@@ -39,6 +39,8 @@ third_nav_title: Events
 	</li>&nbsp;
 </ul>&nbsp;
 <p><strong>Briefing on CotF Ideathon 2024&nbsp;
-</strong></p><p><strong>The Ideathon focused on fostering innovation and addressing educational challenges. Aligned with the "Transforming Education through Technology" Masterplan 2030, it provided a collaborative platform where participants identified teaching and learning challenges, shared problem statements, and proposed potential solutions.
-</strong></p><strong>&nbsp;
-<p>Please click&nbsp;<a href="launchpad.gov.sg/ideathon">here</a>&nbsp;to view the ideas generated during the Ideathon.</p></strong>
+</strong></p>
+<br>
+<p>The Ideathon focused on fostering innovation and addressing educational challenges. Aligned with the "Transforming Education through Technology" Masterplan 2030, it provided a collaborative platform where participants identified teaching and learning challenges, shared problem statements, and proposed potential solutions.
+</p>
+<p>Please click <a href="launchpad.gov.sg/ideathon">here</a>&nbsp;to view the ideas generated during the Ideathon.</p>

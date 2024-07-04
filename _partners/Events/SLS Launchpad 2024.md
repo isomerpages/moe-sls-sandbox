@@ -22,11 +22,11 @@ third_nav_title: Events
 <p>The SLS actively supports the EdTech ecosystem through its comprehensive Partnership and Integration Framework. This framework helps every stage of EdTech development, ensuring that innovative tools can integrate seamlessly with SLS. Some of the key stages of support include:
 </p>
 	<ol style="list-style-type: lower-alpha;">
-	<li><strong>Ideation</strong>:&nbsp;SLS offers detailed information on its current and future capabilities and provides platforms for feedback and engagement, such as the Partners Engagement Session and Launchpad events.&nbsp;
-	</li>&nbsp;
-	<li><strong>Solutioning</strong>:&nbsp;SLS publishes clear integration standards and offers consultation sessions to help providers integrate their tools effectively.&nbsp;
-	</li>&nbsp;
-	<li><strong>Proof of Concept and Prototyping</strong>:&nbsp;The SLS Partnership Team provides guided support through the whitelisting or integration approval and development process.&nbsp;
+	<li><strong>Ideation</strong>:&nbsp;SLS offers detailed information on its current and future capabilities and provides platforms for feedback and engagement, such as the Partners Engagement Session and Launchpad events.
+	</li>
+	<li><strong>Solutioning</strong>:&nbsp;SLS publishes clear integration standards and offers consultation sessions to help providers integrate their tools effectively.
+	</li>
+	<li><strong>Proof of Concept and Prototyping</strong>:&nbsp;The SLS Partnership Team provides guided support through the whitelisting or integration approval and development process.
 	</li>
 </ol>
 <p></p>

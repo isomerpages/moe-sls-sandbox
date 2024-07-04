@@ -32,16 +32,17 @@ third_nav_title: Events
 <p></p>
 </li>
 <li><strong>Innovation Projects in SLS</strong>
-<p>The SLS fosters innovation by supporting new ideas from their inception to full-scale implementation. Innovation projects often start as school-level prototypes addressing specific needs. To help these projects scale, SLS encourages collaboration with HQ divisions for additional funding beyond standard school resources.
-</p>
 	<ol style="list-style-type: lower-alpha;">
+<li>The SLS fosters innovation by supporting new ideas from their inception to full-scale implementation. Innovation projects often start as school-level prototypes addressing specific needs. To help these projects scale, SLS encourages collaboration with HQ divisions for additional funding beyond standard school resources.
+</li>
 	<li>Providers can explore SLS capabilities, consult with the SLS Partnership Team, and participate in events like the Genius Cafe to refine their ideas. The Partnership Team can help providers identify the specific value-add their proposed idea offers beyond SLS’s current or future capabilities. They will assess if this value-add is significant enough for long-term scaling or if the tool will likely remain an alternative within SLS.&nbsp;
 	</li>&nbsp;
 	<li>There are three pathways for scaling innovations within SLS: school-wide use as standalone or integrated apps, cluster-wide sharing with potential funding from cluster resources or HQ divisions, and MOE-wide promotion with central funding. By working closely with the SLS Partnership Team, providers can ensure their innovations receive the support needed to make a significant impact.&nbsp;
 	</li>
 	</ol>
 <p></p>&nbsp;
-</li><li><strong>Briefing on CotF Ideathon 2024&nbsp;
+</li>
+	<li><strong>Briefing on CotF Ideathon 2024&nbsp;
 </strong>
 <br>
 <ol style="list-style-type: lower-alpha;">

@@ -14,7 +14,7 @@ third_nav_title: Events
 <p>
 	The session was held on 29 May 2024 at MOE Balestier and was jointly organised by the SLS Office and Classroom of the Future (CotF). 
 </p>
-
+<hr>
 <h4>Event Highlights</h4>
 <ol>
 <li><strong>Supporting the EdTech Ecosystem</strong>

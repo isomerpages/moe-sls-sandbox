@@ -9,9 +9,8 @@ variant: markdown
            
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 
-<p>Schools are advised to be mindful of age advisories&nbsp;for whitelisted sites. Users can check the website description for age advisories on affected sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> . For example, “Gather” does not allow users under the age of 18.</p>
-<img src="/images/2Teacher/gatherapp.png" alt="Apps" style="width: 40%;">
-<p>When using sites with AI affordances, schools should refer to the <a href="https://www.learning.moe.edu.sg/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.
+<p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> . 
+</p><p>When using sites with AI affordances, schools should refer to the <a href="https://www.learning.moe.edu.sg/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.
                        
 </p><p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.
 </p>

@@ -40,7 +40,7 @@ third_nav_title: Events
 	<li>There are three pathways for scaling innovations within SLS: school-wide use as standalone or integrated apps, cluster-wide sharing with potential funding from cluster resources or HQ divisions, and MOE-wide promotion with central funding. By working closely with the SLS Partnership Team, providers can ensure their innovations receive the support needed to make a significant impact.&nbsp;
 	</li>
 	</ol>
-<p></p>&nbsp;
+<p></p>
 </li>
 	<li><strong>Briefing on CotF Ideathon 2024&nbsp;
 </strong>

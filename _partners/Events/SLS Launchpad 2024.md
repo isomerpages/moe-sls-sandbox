@@ -19,8 +19,8 @@ third_nav_title: Events
 <ol>
 <li><strong>Supporting the EdTech Ecosystem</strong>
 <br>
-<p>The SLS actively supports the EdTech ecosystem through its comprehensive Partnership and Integration Framework. This framework helps every stage of EdTech development, ensuring that innovative tools can integrate seamlessly with SLS. Some of the key stages of support include:</p>&nbsp;
-<ol style="list-style-type: lower-alpha;">
+<p>The SLS actively supports the EdTech ecosystem through its comprehensive Partnership and Integration Framework. This framework helps every stage of EdTech development, ensuring that innovative tools can integrate seamlessly with SLS. Some of the key stages of support include:
+</p><ol style="list-style-type: lower-alpha;">
 	<li><strong>Ideation</strong>:&nbsp;SLS offers detailed information on its current and future capabilities and provides platforms for feedback and engagement, such as the Partners Engagement Session and Launchpad events.&nbsp;
 	</li>&nbsp;
 	<li><strong>Solutioning</strong>:&nbsp;SLS publishes clear integration standards and offers consultation sessions to help providers integrate their tools effectively.&nbsp;
@@ -28,7 +28,7 @@ third_nav_title: Events
 	<li><strong>Proof of Concept and Prototyping</strong>:&nbsp;The SLS Partnership Team provides guided support through the whitelisting or integration approval and development process.&nbsp;
 	</li>
 </ol>
-
+<p></p>
 </li><li><strong>Innovation Projects in SLS</strong>
 <br>
 <p>The SLS fosters innovation by supporting new ideas from their inception to full-scale implementation. Innovation projects often start as school-level prototypes addressing specific needs. To help these projects scale, SLS encourages collaboration with HQ divisions for additional funding beyond standard school resources.

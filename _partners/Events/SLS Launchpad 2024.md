@@ -48,7 +48,7 @@ third_nav_title: Events
 <ol style="list-style-type: lower-alpha;">
 	<li>The Ideathon focused on fostering innovation and addressing educational challenges. Aligned with the "Transforming Education through Technology" Masterplan 2030, it provided a collaborative platform where participants identified teaching and learning challenges, shared problem statements, and proposed potential solutions.
 </li>
-<li>Please click <a href="launchpad.gov.sg/ideathon">here</a>&nbsp;to view the ideas generated during the Ideathon.
+<li>Please click <a href="launchpad.gov.sg/ideathon">here</a>&nbsp;to view the ideas generated during the Ideathon. (Note: Users need to use WOG or other government-issued devices to access the link)
 	</li>
 </ol>
 </li>

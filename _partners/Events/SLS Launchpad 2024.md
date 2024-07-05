@@ -35,7 +35,7 @@ third_nav_title: Events
 	<ol style="list-style-type: lower-alpha;">
 <li>The SLS fosters innovation by supporting new ideas from their inception to full-scale implementation. Innovation projects often start as school-level prototypes addressing specific needs. To help these projects scale, SLS encourages collaboration with HQ divisions for additional funding beyond standard school resources.
 </li>
-	<li>Providers can explore SLS capabilities, consult the SLS Partnership Team, and participate in events like the <a href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/">Genius Cafe</a> to refine their ideas. The Partnership Team can help providers identify the specific value-add their proposed idea offers beyond SLS’s current or future capabilities. They can assess if this value-add is significant enough for long-term scaling or if the tool will likely remain an alternative within SLS.
+	<li>Providers can explore SLS capabilities, consult the SLS Partnership Team, and participate in events like the <a href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/" target="_blank">Genius Cafe</a> to refine their ideas. The Partnership Team can help providers identify the specific value-add their proposed idea offers beyond SLS’s current or future capabilities. They can assess if this value-add is significant enough for long-term scaling or if the tool will likely remain an alternative within SLS.
 	</li>
 	<li>There are three pathways for scaling innovations within SLS: school-wide use as standalone or integrated apps, cluster-wide sharing with potential funding from cluster resources or HQ divisions, and MOE-wide promotion through centralised funding. By working closely with the SLS Partnership Team, providers can ensure their innovations receive the support needed to make a significant impact.&nbsp;
 	</li>
@@ -48,7 +48,7 @@ third_nav_title: Events
 <ol style="list-style-type: lower-alpha;">
 	<li>The Ideathon focused on fostering innovation and addressing educational challenges. Aligned with the "Transforming Education through Technology" Masterplan 2030, it provided a collaborative platform where participants identified teaching and learning challenges, shared problem statements, and proposed potential solutions.
 </li>
-<li>Please click <a href="launchpad.gov.sg/ideathon">here</a>&nbsp;to view the ideas generated during the Ideathon. (Note: Users need to use WOG or other government-issued devices to access the link)
+<li>Please click <a href="launchpad.gov.sg/ideathon" target="_blank">here</a>&nbsp;to view the ideas generated during the Ideathon. (Note: Users need to use WOG or other government-issued devices to access the link)
 	</li>
 </ol>
 </li>

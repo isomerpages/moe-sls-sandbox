@@ -9,13 +9,13 @@ third_nav_title: Events
 <hr>
 <h4>Event Overview</h4>
 <p>
-	SLS Launchpad is an event that aims to foster closer collaboration between SLS Office, MOE HQ, schools and teacher developers who are actively engaged in Edtech explorations. Through this session, participants gain insights on how the SLS supports the EdTech ecosystem, planned builds for SLS version 2, as well as some innovation projects that are integrated with the platform.
+	SLS Launchpad is an event that aims to foster closer collaboration between SLS Office, MOE HQ, schools and teacher developers who are actively engaged in Edtech explorations. Through this session, participants gain insights on how the SLS supports the EdTech ecosystem, and some innovation projects that are integrated with SLS.
 </p>
 <p>
 	This year's session was held on 29 May 2024 at MOE Balestier and was jointly organised by the SLS Office and Classroom of the Future (CotF). 
 </p>
 <hr>
-<h4>Event Highlights</h4>
+<h4>Event Takeaways</h4>
 <ol>
 <li><strong>Supporting the EdTech Ecosystem</strong>
 <br>
@@ -35,7 +35,7 @@ third_nav_title: Events
 	<ol style="list-style-type: lower-alpha;">
 <li>The SLS fosters innovation by supporting new ideas from their inception to full-scale implementation. Innovation projects often start as school-level prototypes addressing specific needs. To help these projects scale, SLS encourages collaboration with HQ divisions for additional funding beyond standard school resources.
 </li>
-	<li>Providers can explore SLS capabilities, consult the SLS Partnership Team, and participate in events like the <a href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/" target="_blank">Genius Cafe</a> to refine their ideas. The Partnership Team can help providers identify the specific value-add their proposed idea offers beyond SLS’s current or future capabilities. They can assess if this value-add is significant enough for long-term scaling or if the tool will likely remain an alternative within SLS.
+	<li>Providers can explore SLS capabilities, consult the SLS Partnership Team, and participate in events like the <a href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/" target="_blank">Genius Cafe</a> to refine their ideas. The Partnership Team can help innovators identify the specific value-add their proposed idea offers beyond SLS’s current or future capabilities. They can assess if this value-add is significant enough for long-term scaling or if the tool will likely remain an alternative within SLS.
 	</li>
 	<li>There are three pathways for scaling innovations within SLS: school-wide use as standalone or integrated apps, cluster-wide sharing with potential funding from cluster resources or HQ divisions, and MOE-wide promotion through centralised funding. By working closely with the SLS Partnership Team, providers can ensure their innovations receive the support needed to make a significant impact.&nbsp;
 	</li>

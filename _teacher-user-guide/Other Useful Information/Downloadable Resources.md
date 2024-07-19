@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/other-useful-information/downloadable-resources/
 description: ""
 third_nav_title: Other Useful Information
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources</h1>
 
@@ -16,19 +17,9 @@ image: /images/FaviconLight.png
   </thead>
   <tbody>
     <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/manage-lessons/">Manage Lessons</a></p></td>
+      <td><p><a target="_blank" href="/teacher-user-guide/author/manage-modules/">Manage Modules</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Downloadable%20Resources/Lesson-Navigation-ePoster.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/add-components/">Add Components</a></p>
-<p><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Create Quizzes</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/LessonStructure.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Students' Responses in an Assignment</a></p>
-<p><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">Annotate (Underline)  Students' Responses</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/MonitoringAssignmentsInfographic.png"></a></td>
-    </tr>
+		</tr>
     <tr>
       <td><p><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">Attempt an Audio-Response Question</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/AudioVideoFile-Submission.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/AudioVideoFile-Submission.png"></a></td>
@@ -36,10 +27,6 @@ image: /images/FaviconLight.png
     <tr>
       <td><p><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright Guidelines for Submission</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/CopyrightGuidelineGraphic.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/CopyrightGuidelineGraphic.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Create a Lesson</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/LessonCreation.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/LessonCreation.png"></a></td>
     </tr>
     <tr>
       <td><p>Enable Pop-ups</p></td>
@@ -59,7 +46,7 @@ image: /images/FaviconLight.png
     </tr>
     <tr>
       <td><p><a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">Create Class Groups</a></p><p><a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Add Question Tags</a></p>
-<p><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Add Lesson Tags</a></p></td>
+<p><a target="_blank" href="/teacher-user-guide/author/add-module-tags/">Add Module Tags</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/Monitor-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/MonitorLearningProgress.png"></a></td>
     </tr>
     <tr>
@@ -69,7 +56,14 @@ image: /images/FaviconLight.png
     </tr>
     <tr>
       <td><p>Guide to School-Based e-Assessment (e-SBAs) in SLS</p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/e-assessment-guide-for-SLS.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/e-assessment-guide-for-SLS.png"></a><br>Guide to e-SBAs in SLS (PDF)</td>
+      <td style="text-align: left;"><p>You may refer to these subject specific guides (requires iCON account):</p>
+<ul><li><a target="_blank" href="https://go.gov.sg/esba-userguide-el">2023 N(T) English Language Paper 1</a></li>
+<li><a target="_blank" href="https://drive.google.com/drive/folders/1jJnA7KwsU-JKShaays224Mi7hCC9a6wI">2024 Basic MTL Paper 1</a></li>
+<li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li></ul>
+<p><u>Supporting Resource</u>:</p>
+<li>This <a href="https://go.gov.sg/checkesba">video</a> shows how you can check the eSBA url.
+</li>
+</td>
     </tr>
     <tr>
       <td><p>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide</p></td>

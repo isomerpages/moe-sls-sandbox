@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/discover/previously-whitelisted-and-non-whitelist
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 class="page-title">(B1,2) Previously Whitelisted/Non-Whitelisted Websites</h1>
-
+<h1 class="page-title">(B1,2) Previously Whitelisted &amp; Non-Whitelisted Websites</h1>
 <h2 class="section-title">Removal of Whitelisted Websites</h2>
 <hr>
 <table>
@@ -29,17 +29,11 @@ https://moe-etd.maps.arcgis.com
 <td>
 https://awwapp.com
 </td>
-</tr>           
-<tr><td><strong>Chrome Music Lab</strong></td>
-<td>Other Reasons</td>
+</tr>
+<tr><td><strong>Classroom Screen</strong></td>
+<td>Site fails security requirement</td>
 <td>
-https://musiclab.chromeexperiments.com
-</td>
-</tr>              
-<tr><td><strong>Coggle</strong></td>
-<td>Site can no longer be iframed</td>
-<td>
-https://coggle.it
+https://app.classroomscreen.com
 </td>
 </tr>
 <tr><td><strong>CPM Educational Program</strong></td>
@@ -53,7 +47,13 @@ https://technology.cpm.org/general
 <td>
 https://www.draw.io/?
 </td>
-</tr>     
+</tr>
+<tr><td><strong>Elicit</strong></td>
+<td>Site no longer offers free to use version</td>
+<td>
+https://elicit.org
+</td>
+</tr>
 <tr><td><strong>Explain Everything</strong></td>
 <td>Site fails security requirement</td>
 <td>
@@ -81,7 +81,13 @@ https://issuu.com
 <br>
 https://www.issuu.com
 </td>
-</tr>        
+</tr>
+<tr><td><strong>Linoit</strong></td>
+<td>Site fails security requirement</td>
+<td>
+https://www.linoit.com
+</td>
+</tr>
 <tr><td><strong>Mindmup</strong></td>
 <td>Site no longer offers free to use version</td>
 <td>
@@ -95,7 +101,13 @@ https://app.mindmup.com
 <td>
 https://www.mural.co
 </td>
-</tr>        
+</tr>
+<tr><td><strong>Ottodot</strong></td>
+<td>Site removed</td>
+<td>
+https://platform.ottodot.com
+</td>
+</tr>
 <tr><td><strong>Pixton</strong></td>
 <td>Site no longer offers free to use version</td>
 <td>
@@ -113,29 +125,47 @@ https://quiznetic.com
 <td>
 https://www.salvador-dali.org
 </td>
-</tr>               
-<tr><td><strong>Vialogues</strong></td>
-<td>Site removed</td>
+</tr>
+<tr><td><strong>Spiral</strong></td>
+<td>Site fails security requirement</td>
 <td>
-https://www.vialogues.com
+https://spiral.ac
 </td>
-</tr> 
+</tr>
 <tr><td><strong>Toybox Tools</strong></td>
 <td>Site removed</td>
 <td>
 https://toybox.tools.bbc.co.uk
 </td>
-</tr>        
+</tr>
+<tr><td><strong>Vialogues</strong></td>
+<td>Site removed</td>
+<td>
+https://www.vialogues.com
+</td>
+</tr>
 <tr><td><strong>Victoria and Albert Museum London</strong></td>
 <td>Site contains inaccurate/sensitive content</td>
 <td>
 https://collections.vam.ac.uk
 </td>
-</tr>        
+</tr>
+<tr><td><strong>Vidyard</strong></td>
+<td>Other Reasons</td>
+<td>
+https://play.vidyard.com
+</td>
+</tr>
 <tr><td><strong>Wizer</strong></td>
 <td>Site fails security requirement</td>
 <td>
 https://wizer.me
+</td>
+</tr>
+<tr><td><strong>Writeabout</strong></td>
+<td>Site removed</td>
+<td>
+https://www.writeabout.com
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Language Feedback Assistant for English
-permalink: /ai-in-education/ai-in-sls/ai-in-sls/
+permalink: /ai-in-education/ai-in-sls/language-feedback-assistant-for-english/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
@@ -14,60 +14,60 @@ to students' writing in basic areas like spelling, grammar and syntax.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Provides differentiation</strong>
+<p><strong>Automates basic error identification</strong>
 </p>
-<p>by recommending learning modes, resources, practice questions and&nbsp;offering
-immediate feedback based on students’ readiness.</p>
+<p>by identifying basic errors in students’ writing and suggesting how these
+errors can be corrected.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Enables self-directed learning</strong>
+<p><strong>Provides curriculum-aligned feedback</strong>
 </p>
-<p>where students can access ALS on their own to learn. They can set targets
-and ALS offers encouraging messages to motivate them based on their responses
-to questions.</p>
+<p>by providing feedback on language errors, in alignment with the English
+Language curriculum.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Supports monitoring of progress</strong>
+<p><strong>Redirects time to other T&amp;L activities</strong>
 </p>
-<p>through the Learning Progress Dashboard which provides teachers with a
-summary of students’ concept mastery to inform their interventions which
-will help them close students' learning gaps.</p>
+<p>by allowing teachers to focus on guiding students in the more complex
+aspects of language construction, and developing higher-level skills like
+creative expression, persuasiveness, and tone.&nbsp;Teachers can also pay
+greater attention to students who need extra help.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>SLS User Guide (UG) which includes e-Pedagogy guide and e-Poster:</p>
+<p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-als" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
+</ul>
+<p>Students User Guide (UG):</p>
+<ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-access-als" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>

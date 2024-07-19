@@ -1,6 +1,6 @@
 ---
 title: Supporting EdTech Masterplan 2030
-permalink: /supporting-edtech-masterplan-2030/
+permalink: /about/supporting-edtech-masterplan-2030/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
@@ -28,6 +28,6 @@ the Future</p>
 schools in their implementation of the EdTech Masterplan.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/strategicthrusts2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Supporting EdTech Masterplan 2030" src="/images/Resources/strategicthrusts.png">
 </div>
 <p></p>

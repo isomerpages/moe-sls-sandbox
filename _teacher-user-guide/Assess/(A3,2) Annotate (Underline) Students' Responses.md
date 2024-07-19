@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/assess/annotate-underline-students-responses/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline)  Students' Responses</h1>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
@@ -15,14 +16,14 @@ image: /images/FaviconLight.png
 <h2 id="-annotations-underline-in-student-s-view-">Annotations (Underline) in Student's View</h2>
 <hr>
 <ol>
-<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment Card.</li>
+<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment card.</li>
 <li>Click a student’s name to navigate within the student's Assignment to begin marking. </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
 <li><p>Use your cursor to highlight any texts and select the colour. It is also possible to create multiple overlapping underlines.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-Annotation.png"></p>
+<p><img alt="Annotate (Underline) Students' Responses" style="width: 50%;" src="/images/2Teacher/As-Annotation.png"></p>
 </li>
 <li><p>To leave an Annotation on an image, click <strong>Add Note to Image</strong> icon and click anywhere on the image.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-Annotation1.png"></p>
+<p><img alt="Annotate (Underline) Students' Responses" style="width: 50%;" src="/images/2Teacher/As-Annotation1.png"></p>
 </li>
 <li><p>Key in your Notes in the text box.</p>
 </li>

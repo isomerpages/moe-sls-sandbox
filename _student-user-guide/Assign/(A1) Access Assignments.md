@@ -4,6 +4,7 @@ permalink: /student-user-guide/assign/access-assignments/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="access-assignments">(A1) Access Assignments</h1>
 <p><u>Important</u>: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
@@ -12,7 +13,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>To access the homepage, open the left menu or click the <strong>Student Learning Space</strong> icon found in the header.</li>
 <li><p>Up to 12 Assignments that are due in the next 7 days will be shown under the Assignments tab on your homepage.</p>
-
+<img src="/images/1Student/AS-AccessAssignment1.png">
 </li>
 </ol>
 <h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-">All Assignments that are In Progress, Upcoming or Complete</h2>
@@ -27,7 +28,7 @@ image: /images/FaviconLight.png
 <ul>
 <li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, In Progress, or Complete.<ul>
 <li>Upcoming refers to Assignments that have yet to start.</li>
-<li>In Progress refers to Assignments that have yet to be completed and include overdue Assignments.</li>
+<li>In Progress refers to Assignments that have yet to be completed and include overdue Assignments. By default, Assignments in progress are shown.</li>
 <li>Complete refers to Assignments that have been completed.</li>
 </ul>
 </li>
@@ -35,10 +36,10 @@ image: /images/FaviconLight.png
 </ul>
 </li>
 <li>Click the individual Assignment card to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
-<p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
+<p><img src="/images/1Student/AS-AccessAssignment3.png"></p>
 </li>
 </ol>
 <h2 id="-assignments-for-a-specific-class-group-">Assignments for a Specific Class Group</h2>
@@ -61,9 +62,17 @@ image: /images/FaviconLight.png
 <li><strong>Category</strong> - You can choose to view All, Uncategorized or other categories that your teacher has created.</li>
 </ul>
 </li>
-<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">. </p>
+<li><p>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">. </p>
 
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date.</p>
 </li>
 </ol>
+<h2 id="-sort-assignments-in-class-group-"> Sort Assignments in Class Group (Enhanced)</h2>
+<hr>
+
+1. You can sort Assignments in Class Groups to find them easily.
+2. On the Assignment tab in the Class group, select a category from the dropdown menu. Click **Apply**.
+3. Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
+<p></p>
+<img src="/images/1Student/as_accessassignment4.jpg">

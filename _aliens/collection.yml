@@ -1,6 +1,4 @@
 collections:
   aliens:
     output: true
-    order:
-      - Aliens UG/UG page.md
-      - Aliens UG/.keep
+    order: []

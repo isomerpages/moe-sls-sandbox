@@ -1,4 +1,5 @@
 collections:
   alien-ug:
     output: true
-    order: []
+    order:
+      - CUO 1/.keep

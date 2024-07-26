@@ -1,4 +1,5 @@
 collections:
   aliens:
     output: true
-    order: []
+    order:
+      - Aliens UG/.keep

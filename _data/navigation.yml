@@ -3,7 +3,7 @@ links:
   - title: News
     resource_room: true
   - title: AI in Education
-    collection: aliens
+    collection: ai-in-education
   - title: Students
     collection: students
   - title: Teachers
@@ -23,5 +23,12 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about
-  - title: SLS Teacher Guide
-    url: https://chatgpt.com/g/g-bDmQA0VLG-sls-teacher-guide
+  - title: Aliens
+    url: /alien
+    sublinks:
+      - title: Passwords
+        url: /permalink
+      - title: Alien UG
+        url: /permalink
+      - title: Features
+        url: /permalink

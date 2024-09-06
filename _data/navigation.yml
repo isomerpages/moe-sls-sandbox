@@ -2,12 +2,12 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: News
     resource_room: true
-  - title: AI in Education
+  - title: AI in SLS
     collection: ai-in-education
-  - title: Students
-    collection: students
   - title: Teachers
     collection: teachers
+  - title: Students
+    collection: students
   - title: Partners
     collection: partners
   - title: Guides

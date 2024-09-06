@@ -7,7 +7,18 @@ links:
   - title: Teachers
     collection: teachers
   - title: Students
-    collection: students
+    url: /students
+    sublinks:
+      - title: Feature Highlights
+        url: /students/feature-highlights/2022-sem2
+      - title: Password and Technical Support
+        url: /students/password-and-technical-support/
+      - title: Student Initiated Learning
+        url: /students/student-initiated-learning/
+      - title: Frequently Asked Questions
+        url: /students/frequently-asked-questions/young-overseas-singaporeans
+      - title: Student User Guide
+        url: /student-user-guide/organise/
   - title: Partners
     collection: partners
   - title: Guides
@@ -23,12 +34,3 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about
-  - title: Aliens
-    url: /alien
-    sublinks:
-      - title: Passwords
-        url: /permalink
-      - title: Alien UG
-        url: /permalink
-      - title: Features
-        url: /permalink

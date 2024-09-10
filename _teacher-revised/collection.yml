@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Teachers R.md
-      - Teaching & Learning on SLS/SLS Superhero Quiz.md
-      - Teaching & Learning on SLS/SLS Subject Guides.md
       - Teaching & Learning on SLS/.keep
+      - Teaching & Learning on SLS/SLS Subject Guides.md
+      - Teaching & Learning on SLS/SLS Superhero Quiz.md
       - Assessment on SLS/.keep
       - SLS Features/.keep
       - SLS Features/Organise.md

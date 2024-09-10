@@ -7,7 +7,21 @@ links:
   - title: Teachers
     url: /permalink
     sublinks:
-      - title: New submenu
+      - title: Teaching & Learning with SLS
+        url: /permalink
+      - title: Assessment on SLS
+        url: /permalink
+      - title: SLS Features
+        url: /permalink
+      - title: Password & Technical Support
+        url: /permalink
+      - title: Professional Development
+        url: /permalink
+      - title: Community & Events
+        url: /permalink
+      - title: Admin Userguide
+        url: /permalink
+      - title: Teachers User Guide
         url: /permalink
   - title: Students
     url: /students

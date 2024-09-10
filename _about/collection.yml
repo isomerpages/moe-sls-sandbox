@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Learning Space/.keep
-      - Overview of Student Learning Space.md
       - Supporting EdTech Masterplan 2030.md
       - News Articles/.keep
       - News Articles/2024 Articles.md

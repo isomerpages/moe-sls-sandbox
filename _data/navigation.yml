@@ -8,21 +8,21 @@ links:
     url: /teachers-r/
     sublinks:
       - title: Teaching & Learning with SLS
-        url: /permalink
+        url: /sls-subject-guides/
       - title: Assessment on SLS
-        url: /permalink
+        url: /guide-to-school-based-eassessment-esbas-in-sls/
       - title: SLS Features
-        url: /permalink
+        url: /organise/
       - title: Password & Technical Support
-        url: /permalink
+        url: /teacher/password-and-technical-issues/
       - title: Professional Development
-        url: /permalink
+        url: /teaching-and-learning-with-sls/
       - title: Community & Events
-        url: /permalink
+        url: /visit-sls-grange-2/
       - title: Admin Userguide
-        url: /permalink
+        url: /admin-user-guide/index/
       - title: Teachers User Guide
-        url: /permalink
+        url: /teacher-user-guide/index/
   - title: Students
     url: /students
     sublinks:

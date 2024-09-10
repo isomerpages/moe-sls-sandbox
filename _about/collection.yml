@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - Overview of SLS/SLS Key Messages.md
       - Overview of SLS/.keep
       - Overview of SLS/What is SLS.md
+      - Overview of SLS/SLS Key Messages.md
       - Overview of SLS/Supporting EdTech Masterplan 2030.md
       - News Articles/.keep
       - News Articles/2024 Articles.md

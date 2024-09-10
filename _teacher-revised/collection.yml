@@ -2,5 +2,6 @@ collections:
   teacher-revised:
     output: true
     order:
+      - SLS Features/.keep
       - Assessment on SLS/.keep
       - Teaching & Learning on SLS/.keep

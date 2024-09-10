@@ -5,7 +5,10 @@ links:
   - title: AI in SLS
     collection: ai-in-education
   - title: Teachers
-    collection: teachers
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: Students
     url: /students
     sublinks:

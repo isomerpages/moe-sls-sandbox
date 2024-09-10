@@ -2,9 +2,9 @@ collections:
   teacher-revised:
     output: true
     order:
-      - Community & Events/.keep
-      - Professional Development/.keep
-      - Password & Technical Issues.md
-      - SLS Features/.keep
-      - Assessment on SLS/.keep
       - Teaching & Learning on SLS/.keep
+      - Assessment on SLS/.keep
+      - SLS Features/.keep
+      - Password & Technical Issues.md
+      - Professional Development/.keep
+      - Community & Events/.keep

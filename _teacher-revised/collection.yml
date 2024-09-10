@@ -2,7 +2,7 @@ collections:
   teacher-revised:
     output: true
     order:
-      - Teachers R.md
+      - Teachers.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/SLS Subject Guides.md
       - Teaching & Learning on SLS/SLS Superhero Quiz.md

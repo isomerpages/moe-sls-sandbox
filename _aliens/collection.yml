@@ -1,5 +1,0 @@
-collections:
-  aliens:
-    output: true
-    order:
-      - Alien Passwords.md

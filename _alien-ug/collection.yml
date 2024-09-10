@@ -1,6 +1,0 @@
-collections:
-  alien-ug:
-    output: true
-    order:
-      - CUO 1/Content Page.md
-      - CUO 1/.keep

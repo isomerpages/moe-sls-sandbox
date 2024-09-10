@@ -1,4 +1,5 @@
 collections:
   teacher-revised:
     output: true
-    order: []
+    order:
+      - Teaching & Learning on SLS/.keep

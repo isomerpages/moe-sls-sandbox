@@ -1,0 +1,43 @@
+collections:
+  teacher-revised:
+    output: true
+    order:
+      - Teachers.md
+      - Teaching & Learning on SLS/.keep
+      - Teaching & Learning on SLS/SLS Subject Guides.md
+      - Teaching & Learning on SLS/SLS Superhero Quiz.md
+      - Teaching & Learning on SLS/Co create Modules in Class Groups.md
+      - Teaching & Learning on SLS/Create Professional Learning Circles.md
+      - Teaching & Learning on SLS/Differentiate Learning Modules and
+        Activities.md
+      - Teaching & Learning on SLS/Empower Students to be Self Directed
+        Learners.md
+      - Teaching & Learning on SLS/Encourage Curiosity through Class Groups.md
+      - Teaching & Learning on SLS/Facilitating Schoolwide PD.md
+      - Teaching & Learning on SLS/Integrate External Sites and Applications.md
+      - Teaching & Learning on SLS/Jigsaw Activities for Teamwork.md
+      - Teaching & Learning on SLS/Manage In Class Teaching more Effectively.md
+      - Teaching & Learning on SLS/Motivate Students with a Game like
+        Experience.md
+      - Teaching & Learning on SLS/Nurture Collaboration in Gamified Modules.md
+      - Assessment on SLS/.keep
+      - Assessment on SLS/Guide to School Based eAssessment (eSBAs) in SLS.md
+      - Assessment on SLS/Digitise Past Year Papers for Practice.md
+      - Assessment on SLS/Assign Past Exam Questions.md
+      - Assessment on SLS/Conduct eAssessments in Class.md
+      - Assessment on SLS/Track Students’ Learning Progress.md
+      - SLS Features/.keep
+      - SLS Features/Organise.md
+      - SLS Features/Author.md
+      - SLS Features/Enact.md
+      - SLS Features/Assess.md
+      - Password & Technical Issues.md
+      - Professional Development/.keep
+      - Professional Development/Teaching and Learning with SLS.md
+      - Professional Development/ePedagogy One Stop Site.md
+      - Professional Development/SgLDC Spotlight Livestreams.md
+      - Professional Development/Jumpstart Card Game.md
+      - Community & Events/Visit SLS@Grange.md
+      - Community & Events/Events Calendar.md
+      - Community & Events/Friends of SLS.md
+      - Community & Events/.keep

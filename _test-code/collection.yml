@@ -1,0 +1,9 @@
+collections:
+  test-code:
+    output: true
+    order:
+      - Chat GPT.md
+      - Example Title.md
+      - Example 1.md
+      - Autoresize images.md
+      - Accordion.md

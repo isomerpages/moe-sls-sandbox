@@ -1,0 +1,44 @@
+logo: /images/LogoSecondaryLight.png
+links:
+  - title: Latest
+    resource_room: true
+  - title: AI in SLS
+    collection: ai-in-education
+  - title: Teachers
+    url: /teachers-r/
+    sublinks:
+      - title: Teaching & Learning with SLS
+        url: /sls-subject-guides/
+      - title: Assessment on SLS
+        url: /guide-to-school-based-eassessment-esbas-in-sls/
+      - title: SLS Features
+        url: /organise/
+      - title: Password & Technical Support
+        url: /teacher/password-and-technical-issues/
+      - title: Professional Development
+        url: /teaching-and-learning-with-sls/
+      - title: Community & Events
+        url: /visit-sls-grange-2/
+      - title: Admin User Guide
+        url: /admin-user-guide/index/
+      - title: Teachers User Guide
+        url: /teacher-user-guide/index/
+  - title: Students
+    url: /students
+    sublinks:
+      - title: Feature Highlights
+        url: /students/feature-highlights/2022-sem2
+      - title: Password & Technical Support
+        url: /students/password-and-technical-support/
+      - title: Student Initiated Learning
+        url: /students/student-initiated-learning/
+      - title: Young Overseas Singaporeans
+        url: /students/frequently-asked-questions/young-overseas-singaporeans
+      - title: Student User Guide
+        url: /student-user-guide/index/
+  - title: Partners
+    collection: partners
+  - title: About
+    collection: about
+  - title: Ask SLS
+    url: https://chatgpt.com/g/g-8u2yS5ufS-ask-sls

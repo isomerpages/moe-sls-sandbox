@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview of SLS/.keep
-      - Overview of SLS/What is SLS.md
+      - "Overview of SLS/SLS: Designed for Learning.md"
       - Overview of SLS/Supporting EdTech Masterplan 2030.md
       - News Articles/.keep
       - News Articles/2024 Articles.md

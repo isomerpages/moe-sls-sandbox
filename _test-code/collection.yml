@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Jigsaw Activities for Teamwork.md
       - Integrate External Sites and Applications.md
       - Facilitating Schoolwide PD.md
       - Encourage Curiosity through Class Groups.md

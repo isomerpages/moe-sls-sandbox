@@ -8,7 +8,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Updates 27 November 2024</h1>
-<p>This list details the changes users can expect in the upcoming SLS Release 2, which will be rolled out on 27 November 2024. Please note that SLS will be unavailable from 26 November 00:00 to 27 November 23:00 to facilitate this release.</p>
+<p>This changelog details the updates and new features that will be introduced in the upcoming SLS Release 2, scheduled for release on November 27, 2024. Please note that SLS will be unavailable from 26 November 00:00 to 27 November 23:00 to facilitate this release.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <hr>
 <ol>
@@ -44,7 +44,7 @@ variant: markdown
         </ul>
         </details></li>
         </ol>
-<h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2>
+<h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2><hr>
 <ol>
     <li><details><summary><strong>Data Assistant (DAT)</strong></summary>
     <ul>

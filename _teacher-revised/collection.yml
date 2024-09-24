@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Teaching & Learning on SLS/CUO 6.md
       - Teaching & Learning on SLS/CUO 5.md
       - Teaching & Learning on SLS/CUO 4.md
       - Teaching & Learning on SLS/CUO 3.md

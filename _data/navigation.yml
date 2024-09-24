@@ -26,8 +26,6 @@ links:
   - title: Students
     url: /students
     sublinks:
-      - title: Feature Highlights
-        url: /students/feature-highlights/2022-sem2
       - title: Password & Technical Support
         url: /students/password-and-technical-support/
       - title: Student Initiated Learning

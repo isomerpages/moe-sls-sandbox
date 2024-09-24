@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Encourage Curiosity through Class Groups.md
       - Empower Students to be Self Directed Learners.md
       - Differentiate Learning Modules and Activities.md
       - Create Professional Learning Circles.md

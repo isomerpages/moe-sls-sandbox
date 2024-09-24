@@ -10,63 +10,69 @@ description: ""
 <p>Looking for new ways to support your students’ learning? Student Learning
 Space (SLS) features can enhance your teaching to engage your students
 better!</p>
-<h2>Friends of SLS</h2>
+<p></p>
+<h2>Interactive Guide on using SLS</h2>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teachers/friends-of-sls/index/" rel="noopener noreferrer nofollow" target="_blank">Friends of SLS</a>
+<p><a href="https://intranet.moe.gov.sg/etd/Pages/TfL_AIEd_Ethics_Framework.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Ask SLS Chatbot</u></a> (requires
+access to MOE Intranet)</p>
+</li>
+</ul>
+<h2>Teaching &amp; Learning on SLS</h2>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="teacher/sls-subject-guides/" rel="noopener nofollow" target="_blank">SLS Subject Guides</a>
+</p>
+</li>
+<li>
+<p>CUO 1</p>
+</li>
+<li>
+<p>CUO 2</p>
+</li>
+<li>
+<p>CUO 3</p>
+</li>
+<li>
+<p>CUO 4</p>
+</li>
+<li>
+<p>CUO 5</p>
+</li>
+<li>
+<p>CUO 6</p>
+</li>
+<li>
+<p>eSBA on SLS (for Secondary Schools and JCCIs)</p>
+</li>
+<li>
+<p><a href="/teachers/sls-superhero-quiz/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Superhero Quiz</a>
 </p>
 </li>
 </ul>
-<h2>Feature Highlights</h2>
+<h2>SLS Features</h2>
 <hr>
 <ul>
 <li>
-<p><a href="/teachers/feature-highlights/2024-sem1/" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1</a>
+<p><a href="/teachers/feature-highlights/2024-sem1/" rel="noopener noreferrer nofollow" target="_blank">Release 2</a>
 </p>
 </li>
 <li>
-<p><a href="/teachers/feature-highlights/2023-sem2/" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/feature-highlights/2023-sem1/" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 1</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/feature-highlights/2022-sem2/" rel="noopener noreferrer nofollow" target="_blank">2022 Sem 2</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/feature-highlights/2022-sem1/" rel="noopener noreferrer nofollow" target="_blank">2022 Sem 1</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/feature-highlights/2021-sem2/" rel="noopener noreferrer nofollow" target="_blank">2021 Sem 2</a>
+<p><a href="/teacher/release-1/" rel="noopener nofollow" target="_blank">Release 1</a>
 </p>
 </li>
 </ul>
-<h2>SLS Card Games</h2>
+<h2>Password &amp; Technical Issues</h2>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teachers/sls-card-games/superhero-academy/" rel="noopener noreferrer nofollow" target="_blank">Superhero Academy</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/sls-card-games/build-it-right/" rel="noopener noreferrer nofollow" target="_blank">Build It Right</a>
+<p><a href="/teacher/password-and-technical-issues/" rel="noopener nofollow" target="_blank">Password &amp; Technical Issues</a>
 </p>
 </li>
 </ul>
-<h2>Frequently Asked Questions</h2>
-<hr>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/teachers/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">SLS Access</a>
-</p>
-</li>
-</ul>
-<h2>SLS Professional Development</h2>
+<h2>Professional Development</h2>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
@@ -86,16 +92,7 @@ OPAL Login)</p>
 </p>
 </li>
 </ul>
-<h2>SLS Superhero Quiz</h2>
-<hr>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/teachers/sls-superhero-quiz/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Superhero Quiz</a>
-</p>
-</li>
-</ul>
-<p></p>
-<h2>SLS Events</h2>
+<h2>Community &amp; Events</h2>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
@@ -104,6 +101,10 @@ OPAL Login)</p>
 </li>
 <li>
 <p><a href="/teachers/sls-events/events-calendar/" rel="noopener noreferrer nofollow" target="_blank">Events Calendar</a>
+</p>
+</li>
+<li>
+<p><a href="/teachers/friends-of-sls/index/" rel="noopener noreferrer nofollow" target="_blank">Friends of SLS</a>
 </p>
 </li>
 </ul>

@@ -15,8 +15,8 @@ variant: markdown
 <li><details><summary><h4>Search</h4></summary>
 <ul>
 <li><strong>New Search Interface</strong>: Teachers and students can use improved filter options, including author/collaborator names, to refine their search results across multiple locations. Search results will now include a preview of the resource content referenced in the search, with search match indicators and search terms bolded in green.</li>
-</ul>
-</details></li>
+</ul></details></li>
+
 <li><details><summary><h4>Assignments</h4></summary>
 <ul>
 <li><strong>Page Navigation Anchoring</strong>: The page navigation bar is now anchored to the top, ensuring that page numbers remain visible for paginated activities or quizzes.</li>

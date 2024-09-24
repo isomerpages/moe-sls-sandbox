@@ -19,6 +19,10 @@ better!</p>
 access to MOE Intranet)</p>
 </li>
 </ul>
+<p>Disclaimer:</p>
+<p>This ChatGPT-powered chatbot offers general help with SLS features. However
+its answers are not guaranteed to be fully accurate or up-to-date. When
+in doubt, please ask on SgLDC or the SLS Helpdesk.</p>
 <h2>Teaching &amp; Learning on SLS</h2>
 <hr>
 <ul data-tight="true" class="tight">

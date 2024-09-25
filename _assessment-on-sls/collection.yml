@@ -1,0 +1,4 @@
+collections:
+  assessment-on-sls:
+    output: true
+    order: []

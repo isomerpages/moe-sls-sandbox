@@ -2,5 +2,6 @@ collections:
   assessment-on-sls:
     output: true
     order:
+      - Assign Past Exam Questions.md
       - Digitise Past Year Papers for Practice.md
       - Guide to School Based eAssessment (eSBAs) in SLS.md

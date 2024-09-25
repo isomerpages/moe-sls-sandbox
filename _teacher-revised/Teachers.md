@@ -21,8 +21,8 @@ access to MOE Intranet)</p>
 </ul>
 <p>Disclaimer:</p>
 <p>This ChatGPT-powered chatbot offers general help with SLS features. However
-its answers are not guaranteed to be fully accurate or up-to-date. When
-in doubt, please ask on SgLDC or the SLS Helpdesk.</p>
+because its answers are probabilistic, it's a good idea to verify details
+with the SLS Helpdesk or SgLDC.</p>
 <h2>Teaching &amp; Learning on SLS</h2>
 <hr>
 <ul data-tight="true" class="tight">

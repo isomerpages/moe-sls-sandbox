@@ -1,4 +1,5 @@
 collections:
   assessment-on-sls:
     output: true
-    order: []
+    order:
+      - Guide to School Based eAssessment (eSBAs) in SLS.md

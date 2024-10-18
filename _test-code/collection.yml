@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Tracking Progress Practices.md
       - Enactment Tips.md
       - Assignment Strategies.md
       - Authoring Ideas.md

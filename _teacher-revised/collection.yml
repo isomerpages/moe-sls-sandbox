@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Teaching & Learning on SLS/Overview of SLS Tools.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/Organising Methods.md
       - Teaching & Learning on SLS/Authoring Ideas.md

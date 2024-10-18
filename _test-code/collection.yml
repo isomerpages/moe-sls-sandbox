@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Organising Methods.md
       - Nurture Collaboration in Gamified Modules.md
       - Motivate Students with a Game like Experience.md
       - Manage In Class Teaching more Effectively.md

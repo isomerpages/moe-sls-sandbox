@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - Assignment Strategies.md
       - Authoring Ideas.md
       - Organising Methods.md
       - Nurture Collaboration in Gamified Modules.md

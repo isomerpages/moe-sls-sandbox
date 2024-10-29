@@ -2,6 +2,7 @@ collections:
   test-code:
     output: true
     order:
+      - SLS Superhero Quiz.md
       - 2022 Articles.md
       - 2023 Articles.md
       - 2024 Articles.md

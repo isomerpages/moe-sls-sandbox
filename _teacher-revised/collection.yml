@@ -2,6 +2,7 @@ collections:
   teacher-revised:
     output: true
     order:
+      - SLS Professional Development.md
       - Teachers.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/Overview of SLS Tools.md

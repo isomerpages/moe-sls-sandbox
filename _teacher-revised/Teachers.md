@@ -15,7 +15,7 @@ better!</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://intranet.moe.gov.sg/etd/Pages/TfL_AIEd_Ethics_Framework.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Ask SLS Chatbot</u></a> (requires
+<p><a href="https://go.gov.sg/asksls" rel="noopener nofollow" target="_blank">Ask SLS Chatbot</a> (requires
 access to MOE Intranet)</p>
 </li>
 </ul>

@@ -27,32 +27,15 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="teacher/sls-subject-guides/" rel="noopener nofollow" target="_blank">SLS Subject Guides</a>
+<p><a href="/overview-of-sls-tools/" rel="noopener nofollow" target="_blank">Overview of SLS Tool</a>
 </p>
 </li>
 <li>
-<p>CUO 1</p>
+<p><a href="/teacher/esba-on-sls-for-secondary-schools-and-jccis/" rel="noopener nofollow" target="_blank">eSBA on SLS (for Secondary Schools and JCCIs)</a>
+</p>
 </li>
 <li>
-<p>CUO 2</p>
-</li>
-<li>
-<p>CUO 3</p>
-</li>
-<li>
-<p>CUO 4</p>
-</li>
-<li>
-<p>CUO 5</p>
-</li>
-<li>
-<p>CUO 6</p>
-</li>
-<li>
-<p>eSBA on SLS (for Secondary Schools and JCCIs)</p>
-</li>
-<li>
-<p><a href="/teachers/sls-superhero-quiz/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Superhero Quiz</a>
+<p><a href="/sls-subject-guides/" rel="noopener nofollow" target="_blank">SLS Subject Guides</a>
 </p>
 </li>
 </ul>

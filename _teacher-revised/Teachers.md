@@ -59,23 +59,11 @@ with the SLS Helpdesk or SgLDC.</p>
 </p>
 </li>
 </ul>
-<h2>Professional Development</h2>
+<h2>SLS Professional Development</h2>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teachers/sls-professional-development/teaching-and-learning-with-sls/" rel="noopener noreferrer nofollow" target="_blank">Teaching and Learning with SLS</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/sls-professional-development/epedagogy-one-stop-site/" rel="noopener noreferrer nofollow" target="_blank">EPedagogy One Stop Site</a> (requires
-OPAL Login)</p>
-</li>
-<li>
-<p><a href="/teachers/sls-professional-development/sgldc-livestreams/" rel="noopener noreferrer nofollow" target="_blank">SgLDC Livestreams</a>
-</p>
-</li>
-<li>
-<p><a href="/teachers/sls-professional-development/sls-subject-guides/" rel="noopener noreferrer nofollow" target="_blank">SLS Subject Guides</a>
+<p><a href="/sls-professional-development/" rel="noopener noreferrer nofollow" target="_blank">SLS Professional Development</a>
 </p>
 </li>
 </ul>

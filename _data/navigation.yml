@@ -8,13 +8,13 @@ links:
     url: /teachers-r/
     sublinks:
       - title: Teaching & Learning with SLS
-        url: /sls-subject-guides/
+        url: /overview-of-sls-tools/
       - title: SLS Latest Features
         url: /teacher/release-2/
       - title: Password & Technical Support
         url: /teacher/password-and-technical-issues/
       - title: SLS Professional Development
-        url: /teaching-and-learning-with-sls/
+        url: /sls-professional-development/
       - title: Community & Events
         url: /visit-sls-grange-2/
       - title: Admin User Guide

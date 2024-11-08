@@ -32,7 +32,8 @@ conduct e-assessments in an exam setting:</p>
 </ul>
 <p>Schools can also refer to the steps below when implementing e-SBA via
 SLS:</p>
-<h3>e-Author</h3>
+ <details>
+ <summary><h3>e-Author</h3></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Create a teacher-marked quiz in SLS. Closed-ended
 questions (such as MCQ, Fill-In-The-Blank) will still be auto-marked. A
 teacher-marked quiz, allows the teacher to decide when to release the quiz
@@ -81,7 +82,9 @@ process.</p>
 <p>4.&nbsp;&nbsp;&nbsp; E-author the final version of the vetted paper in
 SLS and organise a review session to finalise the e-version.</p>
 <p></p>
-<h3>e-Delivery</h3>
+</details>
+<details>
+	<summary><h3>e-Deliver</h3></summary>
 <h4>Before the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Assign the teacher-marked quiz to an existing Class
 Group or SLS-created Class Group. Add invigilating teacher(s) with “co-teacher”
@@ -157,7 +160,10 @@ students for them to complete the remaining questions.</p>
 <h4>After the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Pause the SLS assessment. This prevents unauthorised
 access after the e-SBA.</p>
-<h2>e-Mark</h2>
+<p></p>
+</details>
+<details>
+	<summary><h3>e-Mark</h3></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Mark the open-ended responses. Closed-ended responses
 are auto-marked. If you have activated use of ShortAnsFA or LangFA-EL,
 the responses will be auto-marked.</p>
@@ -176,7 +182,10 @@ the responses will be auto-marked.</p>
 </table>
 <p>2.&nbsp;&nbsp;&nbsp; Indicate allocated marks.</p>
 <p>3.&nbsp;&nbsp;&nbsp; If rubrics is activated, marks can be easily adjusted.</p>
-<h3>e-Return</h3>
+<p></p>
+</details>
+<details>
+	<summary><h3>e-Return</h3></summary>
 <p>1.&nbsp;&nbsp;&nbsp; After completion of marking, resume the SLS assessment.</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -215,7 +224,11 @@ assignment in their “Assignments” list.</p>
 SLS assessment will also be able to locate the uncompleted SLS assignment
 in their “Assignments” list.</p>
 <p></p>
-<h3>Frequently Asked Questions</h3>
+<p></p>
+</details>
+
+<details>
+	<summary><h3>Frequently Asked Questions</h3></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Can I print the scripts?</p>
 <p>The system currently does not support the printing of students’ scripts
 for marking. Teachers are encouraged to make use of the e-marking features
@@ -246,3 +259,5 @@ bitly is used</p>
 <p>• whitelist <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg</a> if
 <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>is used</p>
 <p></p>
+<p></p>
+</details>

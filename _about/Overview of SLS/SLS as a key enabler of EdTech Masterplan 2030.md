@@ -7,7 +7,8 @@ image: /images/FaviconLight.png
 third_nav_title: Overview of SLS
 ---
 <h2><strong>Supporting EdTech Masterplan 2030</strong></h2>
-<p>EdTech Masterplan 2030 provides direction on how MOE will do more to:</p>
+<p>The Transforming Education through Technology Masterplan 2030 (or EdTech
+Masterplan 2030) provides direction on how MOE will do more to:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Harness Technology More Effectively to Enhance Teaching and Learning</p>
@@ -25,17 +26,15 @@ the Future</p>
 <h3>SLS V2 as a Key Enabler of the EdTech Masterplan 2030</h3>
 <hr>
 <p>The Singapore Student Learning Space (SLS) V2 is a key enabler in supporting
-schools in their implementation of the EdTech Masterplan.</p>
+schools in their implementation of the EdTech Masterplan 2030 by:</p>
+<p>a. Providing tools (including AI-enabled ones) that transform T&amp;L
+through greater customisation and enable users to make better data-informed
+decisions.</p>
+<p>b. Providing resources that develop Digital Literacy and Technological
+Skills (DLTS), and 21<sup>st</sup> Century Competencies (21CC) and allow
+students to take ownership of their own learning and develop agency; and</p>
+<p>c. Supporting its use as a One-Stop Hub to enable users to enjoy synergies
+and economies of scale and serve as a capability multiplier.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Strategicthrusts.png">
-</div>
-<p></p>
-<p>SLS V2 provides a common teaching and learning platform that promotes
-and shares curriculum-aligned resources and pedagogically sound tools.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/SLS_V2_Diagram.png">
-</div>
 <p></p>
 <p></p>

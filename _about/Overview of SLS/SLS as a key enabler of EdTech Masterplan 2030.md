@@ -36,5 +36,6 @@ students to take ownership of their own learning and develop agency; and</p>
 <p>c. Supporting its use as a One-Stop Hub to enable users to enjoy synergies
 and economies of scale and serve as a capability multiplier.</p>
 <p></p>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS as a One-Stop Hub" src="https://www.youtube.com/embed/J-RGvgxVJ0c?si=cnsANlIKJqaABRgN" height="100%" width="100%"></iframe></div>
 <p></p>
 <p></p>

@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Responsible AI/AI in Education Ethics Framework.md
       - Responsible AI/.keep
       - Guidance on Generative AI.md
       - Overview of SLS/.keep

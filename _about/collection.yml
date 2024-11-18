@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Guidance on Generative AI.md
       - AI in Education Ethics Framework.md
       - Overview of SLS/.keep
       - Overview of SLS/SLS – Designed for Learning.md

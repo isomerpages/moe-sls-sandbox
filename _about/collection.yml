@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - Responsible AI/Guidance on Generative AI.md
-      - Responsible AI/AI in Education Ethics Framework.md
-      - Responsible AI/.keep
       - Overview of SLS/.keep
       - Overview of SLS/SLS – Designed for Learning.md
       - Overview of SLS/SLS as a key enabler of EdTech Masterplan 2030.md
+      - Responsible AI/.keep
+      - Responsible AI/Guidance on Generative AI.md
+      - Responsible AI/AI in Education Ethics Framework.md
       - Awards and Accolades.md

@@ -49,10 +49,12 @@ image: /images/FaviconLight.png
 <td rowspan="1" colspan="1">
 <p><strong>Authoring Co-Pilot</strong>
 </p>
-<p>User Guide:
-<br>1. <a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Sections</a>
+<p>User Guide:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Sections</a>
 </p>
-<ol start="2" data-tight="true" class="tight">
+</li>
 <li>
 <p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Activities &amp; Components</a>
 </p>

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: SLS Latest Features
 image: /images/FaviconLight.png
 ---
-<h1>2023 Sem 2</h1>
+<h1>Release 1</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

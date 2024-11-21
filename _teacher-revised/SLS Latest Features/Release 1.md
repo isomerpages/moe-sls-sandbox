@@ -23,108 +23,49 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Discovering Whitelisted Websites/Tools</strong>
-</p>
-<p>User Guide:
-<br><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" rel="noopener noreferrer nofollow" target="_blank">Embed Whitelisted Websites</a>
-</p>
+<p><strong>SLS R1 Module</strong>
+<br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R1 Features</a>
+<br>(Please switch to your student account to attempt this Module.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/r19 discovering whitelisted websites.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Features for Math Learning (Adaptive Learning System)</strong>
-</p>
-<p>User Guide:
-<br><a href="/student-user-guide/self-study/about-adaptive-learning-system/" rel="noopener noreferrer nofollow" target="_blank">About Adaptive Learning System</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Downloadable%20Resources/als_14_feb.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Features for Math Learning (Feedback Assistant - Mathematics)</strong>
-</p>
-<p>User Guide:
-<br><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">Add Feedback Assistant - Mathematics</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Downloadable%20Resources/fa-math 10 jul.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Move Existing Resources to SLS</strong>
-</p>
-<p>User Guide:</p>
-<ol>
-<li>
-<p><a href="/teacher-user-guide/collaborate/attach-google-files/" rel="noopener noreferrer nofollow" target="_blank">Attach Google Files</a>
-</p>
-</li>
-<li>
-<p><a href="/teacher-user-guide/organise/manage-class-group-resources/" rel="noopener noreferrer nofollow" target="_blank">Manage Class Group Resources</a>
-</p>
-</li>
-<li>
 <p></p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/move_existing_resources_to_sls.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R1_module.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Set Up School and Department Spaces</strong>
+<p><strong>R1 Changelog</strong>
+</p>
+<p><a href="/whats-new-in-r2/" rel="noopener noreferrer nofollow" target="_blank">What's New in R1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Authoring Co-Pilot</strong>
 </p>
 <p>User Guide:
-<br><a href="/teacher-user-guide/organise/about-class-groups/" rel="noopener noreferrer nofollow" target="_blank">About Class Groups</a>
+<br>1. <a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Sections</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/set up school and department spaces.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Using SLS for Self-Study</strong>
-</p>
-<p>User Guide:</p>
-<ol data-tight="true" class="tight">
+<ol start="2" data-tight="true" class="tight">
 <li>
-<p><a href="/student-user-guide/discover/about-adaptive-learning-system/" rel="noopener noreferrer nofollow" target="_blank">About Adaptive Learning System</a>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Activities &amp; Components</a>
 </p>
 </li>
 <li>
-<p><a href="/student-user-guide/discover/about-self-study-resources/" rel="noopener noreferrer nofollow" target="_blank">About Self-Study Resources</a>
-</p>
-</li>
-<li>
-<p><a href="/teacher-user-guide/organise/manage-class-group-resources/" rel="noopener noreferrer nofollow" target="_blank">Manage Class Group Resources</a>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" rel="noopener nofollow" target="_blank">Use Authoring Copilot to create New Quizzes</a>
 </p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/r19 using sls for self-study.png">
+<div class="iframe-wrapper">
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NdY-iSl1ubg"></iframe>
 </div>
 </td>
 </tr>

@@ -2,8 +2,6 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: Latest
     resource_room: true
-  - title: AI in SLS
-    collection: ai-in-education
   - title: Teachers
     url: /teachers-r/
     sublinks:

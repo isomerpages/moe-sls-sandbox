@@ -6,7 +6,7 @@ description: ""
 third_nav_title: SLS Latest Features
 image: /images/FaviconLight.png
 ---
-<h1>2024 Sem 1</h1>
+<h1>Release 2</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,29 +23,43 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Set Up Department Flows</strong>
+<p><strong>R2 Changelog</strong>
 </p>
-<p>User Guide:
-<br><a href="/teacher-user-guide/organise/manage-class-group-resources/" rel="noopener noreferrer nofollow" target="_blank">Manage Class Group Resources</a>
+<p><a href="/whats-new-in-r2/" rel="noopener noreferrer nofollow" target="_blank">What's New in R2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/setupdepartmentflows.png">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Data Assistant</strong>
+</p>
+<p>User Guide:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Use Data Assistant to...</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JNGPToBneWg"></iframe>
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tips on Writing Suggested Answers for Short Answer Feedback Assistant (ShortAnsFA)</strong>
-</p>
-<p>User Guide:
-<br><a href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">Add Short Answer Feedback Assistant</a>
-</p>
+<p><strong>SLS R2 Module</strong>
+<br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R2 Features</a>
+<br>(Please switch to your student account before attempting this Module.)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/Feature%20Highlights/shortansfaposter.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R1_module.jpg">
 </div>
 </td>
 </tr>

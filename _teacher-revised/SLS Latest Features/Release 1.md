@@ -23,19 +23,6 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SLS R1 Module</strong>
-<br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R1 Features</a>
-<br>(Please switch to your student account before attemptting this Module.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R1_module.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>R1 Changelog</strong>
 </p>
 <p><a href="/whats-new-in-r2/" rel="noopener noreferrer nofollow" target="_blank">What's New in R1</a>
@@ -68,6 +55,19 @@ image: /images/FaviconLight.png
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NdY-iSl1ubg"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SLS R1 Module</strong>
+<br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R1 Features</a>
+<br>(Please switch to your student account before attemptting this Module.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R1_module.jpg">
 </div>
 </td>
 </tr>

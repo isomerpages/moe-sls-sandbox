@@ -25,7 +25,7 @@ image: /images/FaviconLight.png
 <td rowspan="1" colspan="1">
 <p><strong>SLS R1 Module</strong>
 <br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R1 Features</a>
-<br>(Please switch to your student account to attempt this Module.)</p>
+<br>(Please switch to your student account before attemptting this Module.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -14,7 +14,7 @@ sections:
       button: Login to SLS
       url: https://vle.learning.moe.edu.sg/login
   - resources:
-      title: Latest News
+      title: Recent Updates
       button: find out more
   - infobar:
       title: About the Singapore Student Learning Space (SLS)

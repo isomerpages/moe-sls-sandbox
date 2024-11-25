@@ -6,7 +6,6 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Community & Events
 ---
-<h3>Hear what others have to say about SLS:</h3>
 <p><em>Discover what members of our teaching fraternity are saying about the Student Learning Space (SLS). From innovative lesson planning tools to engaging interactive content, SLS has been transforming the way we teach and learn. Read on for some first-hand accounts of how various SLS features have enhanced classroom experiences, streamlined administrative tasks, and fostered a more dynamic learning environment. These testimonials offer authentic insights into the real-world impact of SLS in our schools.</em>
 </p>
 <hr>

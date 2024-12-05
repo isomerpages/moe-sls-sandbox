@@ -1,5 +1,5 @@
 collections:
-  test-code:
+  removed-pages:
     output: true
     order:
       - Jumpstart Card Game.md

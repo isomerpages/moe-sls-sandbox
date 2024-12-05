@@ -2,7 +2,6 @@ collections:
   teacher-revised:
     output: true
     order:
-      - Admin UG.md
       - Teachers.md
       - Teaching & Learning on SLS/AIEd Features.md
       - Teaching & Learning on SLS/.keep

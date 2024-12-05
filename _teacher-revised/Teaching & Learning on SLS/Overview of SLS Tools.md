@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Teaching & Learning on SLS
 ---
-<h1>Overview of SLS Tools</h1>
+<h1>Overview of SLS Tools (pending UG toolist)</h1>
 <details>
 <summary><h2>Organise</h2></summary>
 <a target="_blank" href="/teacher/release-2/">

@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Visit SLS@Grange.md
       - Jumpstart Card Game.md
       - SgLDC Spotlight Livestreams.md
       - ePedagogy One Stop Site.md

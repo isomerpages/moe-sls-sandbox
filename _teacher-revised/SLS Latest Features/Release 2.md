@@ -38,7 +38,7 @@ image: /images/FaviconLight.png
 <p>User Guide:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Use Data Assistant to...</a>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Analyse Students’ Responses with Data Assistant</a>
 </p>
 </li>
 </ol>

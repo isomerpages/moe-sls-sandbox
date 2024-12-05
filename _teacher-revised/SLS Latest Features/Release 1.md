@@ -25,11 +25,10 @@ image: /images/FaviconLight.png
 <td rowspan="1" colspan="1">
 <p><strong>R1 Changelog</strong>
 </p>
-<p><a href="/whats-new-in-r2/" rel="noopener noreferrer nofollow" target="_blank">What's New in R1</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/whats-new-in-r2/" rel="noopener noreferrer nofollow" target="_blank">What's New in R1</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -7,3 +7,10 @@ description: ""
 image: /images/FaviconLight.png
 variant: tiptap
 ---
+<h2>WITSA Global ICT Excellence Awards 2021</h2>
+<hr>
+<h3>E-Education &amp;amp; Learning Runner-Up, November 13th, 2021</h3>
+<p>WITSA is the leading recognised voice of the global digital technology
+industry, whose members from over 80 countries and economies represent
+more than 90% of the world’s ICT market. The WITSA Awards recognise the
+entities that made the most significant contributions to mankind in 2021.</p>

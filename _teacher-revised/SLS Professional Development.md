@@ -57,8 +57,8 @@ image: /images/FaviconLight.png
 <hr>
 <p>[To appear in Mar 2025]</p>
 <h3>SLS Release Module</h3>
-<p>Important: Please switch to your student account before attempting this
-Module</p>
+<p><u>Important</u>: Please switch to your student account before attempting
+this Module</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>

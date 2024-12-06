@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Authentication/Authentication.md
-      - Authentication/Log In with MIMS (Teacher).md
       - Authentication/.keep
       - Authentication/Log In with MIMS (Student).md
       - Authentication/Reset SLS Password (Student).md

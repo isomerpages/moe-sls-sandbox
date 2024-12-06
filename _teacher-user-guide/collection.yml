@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Authentication (moved)/Authentication.md
       - Authentication (moved)/Log In with MIMS (Teacher).md
       - Authentication (moved)/Reset SLS Password (Teacher).md
       - Authentication (moved)/Password Reset Email.md

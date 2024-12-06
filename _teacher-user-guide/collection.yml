@@ -2,12 +2,6 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Authentication (moved)/Authentication.md
-      - Authentication (moved)/Log In with MIMS (Teacher).md
-      - Authentication (moved)/Reset SLS Password (Teacher).md
-      - Authentication (moved)/Password Reset Email.md
-      - Authentication (moved)/Locked Account.md
-      - Authentication (moved)/.keep
       - Explore SLS Functions.md
       - Administer/.keep
       - Administer/Administer.md
@@ -53,6 +47,12 @@ collections:
       - Assign/(B1,viii) Allow Students to Copy Assignments.md
       - Assign/(B1,ix) Allow Students to Share Assignments.md
       - Assign/(B1,x) Highlight and Annotate in Teacher's Copy of Assignment.md
+      - Authentication (moved)/.keep
+      - Authentication (moved)/Authentication.md
+      - Authentication (moved)/Log In with MIMS (Teacher).md
+      - Authentication (moved)/Reset SLS Password (Teacher).md
+      - Authentication (moved)/Password Reset Email.md
+      - Authentication (moved)/Locked Account.md
       - Author/.keep
       - Author/Author.md
       - Author/Create New Modules.md

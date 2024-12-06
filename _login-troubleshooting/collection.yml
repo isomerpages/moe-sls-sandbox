@@ -4,7 +4,6 @@ collections:
     order:
       - Authentication/Authentication.md
       - Authentication/.keep
-      - Authentication/Log In with MIMS (Student).md
       - Get Help/.keep
       - Get Help/Get Help.md
       - Get Help/Get Help from your School.md

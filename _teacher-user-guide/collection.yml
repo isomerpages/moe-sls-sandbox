@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Authentication (moved)/Locked Account.md
       - Authentication (moved)/.keep
       - Explore SLS Functions.md
       - Administer/.keep

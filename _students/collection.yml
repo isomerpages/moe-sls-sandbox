@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Password and Technical Support/Get Help from your School.md
       - Password and Technical Support/Password and Technical Support.md
       - Password and Technical Support/.keep
       - Students.md

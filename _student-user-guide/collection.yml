@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Authentication (moved)/Reset SLS Password (Student).md
       - Authentication (moved)/Forgot SLS Username.md
       - Authentication (moved)/Unsuccessful Password Reset Attempts.md
       - Authentication (moved)/Unlock Account.md

@@ -11,7 +11,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>
 <p><strong>What can teachers do if they forget their passwords?</strong></p>
-<p>Teachers can reset their password using the Forgot Password link [<a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-teacher/">login-troubleshooting/authentication/reset-sls-password-teacher/</a>].</p>
+<p>Teachers can reset their password using the <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-teacher/">Forgot Password</a> link .</p>
 </li>
 <li><strong>I have issues related to provisioning accounts to staff.</strong><br>For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: <a href="mailto:SLS_OPS@moe.gov.sg">SLS_OPS@moe.gov.sg</a>.
 <p>&nbsp;</p>

@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Authentication (moved)/Authentication.md
       - Authentication (moved)/Log In with MIMS (Student).md
       - Authentication (moved)/Reset SLS Password (Student).md
       - Authentication (moved)/Forgot SLS Username.md

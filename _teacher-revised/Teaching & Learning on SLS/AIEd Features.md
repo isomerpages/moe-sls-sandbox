@@ -84,15 +84,15 @@ will help them close students' learning gaps.</p>
 <br>
 </p>
 <p></p>
-
 </details>
-<details class="isomer-details">
-<summary>Authoring Copilot</summary>
+
+<details>
+	<summary><h4>Authoring Copilot</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
-<h2>How does ACP enhance teaching and learning?</h2>
+<h5>How does ACP enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,7 +141,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 </tr>
 </tbody>
 </table>
-<h2>Educator Resources</h2>
+<h5>Educator Resources</h5>
 <hr>
 <p>Teachers User Guide (UG) which includes step-by-step guidance:</p>
 <ul>
@@ -150,19 +150,14 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-</div>
-</details>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Feedback Assistant Mathematics</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h1>Feedback Assistant - Mathematics</h1>
+</div></details>
+<details>
+	<summary><h4>Feedback Assistant Mathematics</h4></summary>
+<h5>Feedback Assistant - Mathematics</h5>
 <p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
 to students’ workings, and suggested marks. It can generate randomised
 questions and support many question types including for geometry and graphs.</p>
-<h2>How does FA-Math enhance teaching and learning?</h2>
+<h5>How does FA-Math enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -172,9 +167,7 @@ questions and support many question types including for geometry and graphs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Provides line-by-line hints and feedback</strong>
@@ -214,7 +207,7 @@ randomised variables and automate grading and provision of hints and feedback.</
 </tr>
 </tbody>
 </table>
-<h2>Educator Resources</h2>
+<h5>Educator Resources</h5>
 <hr>
 <p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
 and e-Poster:</p>
@@ -232,15 +225,14 @@ and e-Poster:</p>
 </li>
 </ul>
 <p></p>
-</div>
+
 </details>
-<details class="isomer-details">
-<summary>Language Feedback Assistant for English</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h1>Language Feedback Assistant for English</h1>
+<details>
+	<summary><h4>Language Feedback Assistant for English</h4></summary>
+<h5>Language Feedback Assistant for English</h5>
 <p>LangFA-EL supports students'&nbsp;writing process by providing feedback
 to students' writing in basic areas like spelling, grammar and syntax.</p>
-<h2>How does LangFA-EL enhance teaching and learning?</h2>
+<h5>How does LangFA-EL enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -290,7 +282,7 @@ greater attention to students who need extra help.</p>
 </tr>
 </tbody>
 </table>
-<h2>Educator Resources</h2>
+<h5>Educator Resources</h5>
 <hr>
 <p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
@@ -305,14 +297,11 @@ greater attention to students who need extra help.</p>
 <p><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
-</div>
+
 </details>
-<details class="isomer-details">
-<summary>Short Answer Feedback Assistant</summary>
+<details>
+	<summary><h4>Short Answer Feedback Assistant</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
 and auto-generated feedback for free-response questions for any subject
@@ -320,7 +309,7 @@ and level.</p>
 <div class="iframe-wrapper">
 <iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
 </div>
-<h2>How does ShortAnsFA enhance teaching and learning?</h2>
+<h5>How does ShortAnsFA enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -373,7 +362,7 @@ to advance learning.</p>
 </tr>
 </tbody>
 </table>
-<h2>Educator Resources</h2>
+<h5>Educator Resources</h5>
 <hr>
 <p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
@@ -391,5 +380,5 @@ to advance learning.</p>
 </ul>
 </div>
 </details>
-</div>
+
 <p></p>

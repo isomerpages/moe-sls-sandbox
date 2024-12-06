@@ -2,13 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Authentication (moved)/Authentication.md
-      - Authentication (moved)/Log In with MIMS (Student).md
-      - Authentication (moved)/Reset SLS Password (Student).md
-      - Authentication (moved)/Forgot SLS Username.md
-      - Authentication (moved)/Unsuccessful Password Reset Attempts.md
-      - Authentication (moved)/Unlock Account.md
-      - Authentication (moved)/.keep
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
@@ -50,6 +43,13 @@ collections:
       - Assign/Assign.md
       - Assign/About Assignments.md
       - Assign/(A1) Access Assignments.md
+      - Authentication (moved)/.keep
+      - Authentication (moved)/Authentication.md
+      - Authentication (moved)/Log In with MIMS (Student).md
+      - Authentication (moved)/Reset SLS Password (Student).md
+      - Authentication (moved)/Forgot SLS Username.md
+      - Authentication (moved)/Unsuccessful Password Reset Attempts.md
+      - Authentication (moved)/Unlock Account.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md

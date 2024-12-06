@@ -6,17 +6,15 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Teaching & Learning on SLS
 ---
-<details class="isomer-details">
-<summary>Adaptive Learning System</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h1>AIEd Features</h1>
+<details>
+	<summary><h4>Adaptive Learning System</h4></summary>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
 student. It is currently available for Mathematics (Upper Primary) and
 Geography (Upper Secondary). More topics, levels and subjects will be added
 progressively.</p>
-<div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj"></iframe>
-</div>
-<h2>How does ALS enhance teaching and learning?</h2>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj" height="100%" width="100%"></iframe></div>
+<h5>How does ALS enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,7 +64,7 @@ will help them close students' learning gaps.</p>
 </tr>
 </tbody>
 </table>
-<h2>Educator Resources</h2>
+<h5>Educator Resources</h5>
 <hr>
 <p>Teachers User Guide (UG) which includes a step-by-step video and e-Poster:</p>
 <ul>
@@ -86,7 +84,7 @@ will help them close students' learning gaps.</p>
 <br>
 </p>
 <p></p>
-</div>
+
 </details>
 <details class="isomer-details">
 <summary>Authoring Copilot</summary>

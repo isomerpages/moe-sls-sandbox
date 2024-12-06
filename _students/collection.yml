@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Get Help from your School.md
       - Students.md
       - Password and Technical Support.md
       - Student Initiated Learning.md

@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Students.md
-      - Student Initiated Learning.md
       - Password and Technical Support/.keep
       - Password and Technical Support/Password and Technical Support.md
       - Password and Technical Support/Get Help from your School.md
+      - Student Initiated Learning.md
       - Young Overseas Singaporeans.md

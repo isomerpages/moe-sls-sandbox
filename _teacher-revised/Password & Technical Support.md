@@ -5,174 +5,86 @@ variant: markdown
 description: ""
 image: /images/FaviconLight.png
 ---
-<h2>Tips on Passwords and Other Security Features</h2>
-<ol>
-<li>
-<p><strong>What can students do if they forget their passwords?</strong>
-</p>
-<p>For Students:</p>
-<p>Students can go to the <a href="/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Troubleshooting page</a> on
-“Login Issues” for self-help tips</p>
-<p>There are steps on this page to guide students on what to do if they have
-forgotten their username, password, or if their account has been locked.</p>
-<p>Here is a poster for students on how to troubleshoot login issues.</p>
-</li>
-<li>
-<p></p>
-<p>For Teachers:</p>
-<p>Teachers can reset their password using the Forgot Password link.</p>
-<p>For issues related to the provisioning of accounts to non-MIMS users,
-direct hires or flexi-adjunct teachers, schools can also email: SLS_OPS@moe.gov.sg.</p>
-</li>
-<li>
-<p><strong>Can students change the security questions?</strong>
-</p>
-<p>The security questions provided are fixed but students can log in to change
-their answers to the security questions.</p>
-</li>
-<li>
-<p><strong>What can students do if their accounts are locked ?</strong>
-<br>
-<br>Students can call their <a href="/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener noreferrer nofollow" target="_blank">School-Based Helpline</a> or
-the SLS Helpdesk (see below) to unlock their SLS accounts.</p>
-</li>
-</ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SLS Helpdesk</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Contact Information</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email: helpdesk@sls.ufinity.com
-<br>Tel: (+65) 6702 6513</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operating Hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays - Fridays:
-<br>4 pm - 9 pm (School Days)
-<br>9 am - 9 pm (School Holidays)
-<br>Saturdays:
-<br>9:00 am - 3:00 pm
-<br>(Closed on Sundays &amp;; Public Holidays)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Technical &amp; Infrastructure Support</h2>
+<h1>Password &amp; Technical Support</h1>
+<h2><span data-token-index="0">Password Issues</span></h2>
 <hr>
 <ol>
 <li>
-<p><strong>What are the technical requirements for devices to access the SLS?</strong>
-</p>
-<p>The Student Learning Space (SLS) is accessible through internet browsers
-on Windows PC, Mac, tablets and mobile devices.</p>
-<p>Note: Due to the responsive nature of the site, the layout of the components
-on the website will appear differently on different devices.</p>
-<p>The recommended operating systems and browsers as at 19 June 2024 are
-as follows:</p>
+<p><strong>What can teachers do if they forget their passwords?</strong></p>
+<p>Teachers can reset their password using the Forgot Password link [<a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-teacher/">login-troubleshooting/authentication/reset-sls-password-teacher/</a>].</p>
 </li>
-<li>
-<p>Operating System</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<li><strong>I have issues related to provisioning accounts to staff.</strong><br>For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: <a href="mailto:SLS_OPS@moe.gov.sg">SLS_OPS@moe.gov.sg</a>.
+<p>&nbsp;</p>
+</li>
+</ol>
+<h2>Technical Issues</h2>
+<hr>
+<p>The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
+<p>Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
+<p>The recommended operating systems and browsers as at 19 June 2024 are as follows:</p>
+<table>
+<thead>
+<tr>
+<th>Operating System</th>
+<th>Browsers</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Browsers</p>
-</th>
+<td>Microsoft Windows 10</td>
+<td>Google Chrome 123 and laterMicrosoft Edge 123 and later</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Microsoft Windows 10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Google Chrome 123 and later
-<br>Microsoft Edge 123 and later</p>
-</td>
+<td>Mac OS 13 and later</td>
+<td>Safari 16 and laterGoogle Chrome 123 and later</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mac OS 13 and later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Safari 16 and later
-<br>Google Chrome 123 and later</p>
-</td>
+<td>iPadOS 16 and later</td>
+<td>Safari 16 and laterGoogle Chrome 123 and later</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>iPadOS 16 and later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Safari 16 and later
-<br>Google Chrome 123 and later</p>
-</td>
+<td>iOS 16 and later</td>
+<td>Safari 16 and laterGoogle Chrome 123 and later</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>iOS 16 and later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Safari 16 and later
-<br>Google Chrome 123 and later</p>
-</td>
+<td>Android 13 and later</td>
+<td>Google Chrome 123 and later</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Android 13 and later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Google Chrome 123 and later</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ChromeOS 123 and later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Google Chrome 123 and later</p>
-</td>
+<td>ChromeOS 123 and later</td>
+<td>Google Chrome 123 and later</td>
 </tr>
 </tbody>
 </table>
-<p>If you are having trouble even though your browser meets the above requirements,
-you can find self-help steps on the <a href="/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Troubleshooting page</a>.</p>
+<p>If you are having trouble even though your browser meets the above requirements, refer to the&nbsp;<a href="https://www.learning.moe.edu.sg/login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/">Web Browser Troubleshooting Tips.</a></p>
+<h3>Browser Extensions</h3>
+<hr>
+<p>If you are using a supported browser, but see a message that your browser is unsupported, you may be using a browser extension that interferes with browser detection.</p>
+<p>Try disabling your browser extensions and see if the problem is resolved.</p>
+<p>Refer to the guides below on how to disable extensions in your particular browser:</p>
+<p><a href="https://support.google.com/chrome_webstore/answer/2664769">Chrome</a></p>
+<p><a href="https://support.apple.com/en-us/HT203051">Safari</a></p>
+<p><a href="https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons">Firefox</a></p>
+<h3>Cookies and Javascript</h3>
+<hr>
+<p>With all browsers, cookies and JavaScript should be enabled.</p>
+<h3>Cache and Browsing History</h3>
+<hr>
+<p>If you encounter any login issues, you will need to clear your cache and browsing history.</p>
+<p>You may refer to this&nbsp;<a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/Clear-Cache.pdf">guide</a>&nbsp;on how to clear your cache.</p>
+<h3>Slow Site Loading</h3>
+<hr>
+<p>If it takes a long time to load a page on SLS, try the following:</p>
+<ol>
+<li><strong>Check that your internet connection is stable.</strong>&nbsp;Visit other websites to confirm whether you have internet connectivity issues. If the problem persists, you may wish to seek assistance from:
+<ul>
+<li>Your school's Desktop Engineer (DE) (if the problem occurs in school)</li>
+<li>Internet Service Provider (ISP) (if the problem occurs at home)</li>
+</ul>
 </li>
-<li>
-<p><strong>Who can users contact for technical support?</strong>
-</p>
-<p>For assistance on login and browser issues, users are advised to refer
-to the <a href="/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Troubleshooting page</a>.</p>
-</li>
-<li>
-<p><strong>Will students need additional hardware / internet subscription to access the SLS?</strong>
-</p>
-<p>SLS is web based and can be accessed using most computing devices that
-are connected to the internet, without requiring any additional hardware.</p>
-</li>
+<li>Ensure that your web browser has been updated to the latest version.</li>
+<li>Clear your browser's&nbsp;<a href="https://www.wikihow.com/Clear-Your-Browser%27s-Cache">cache</a>&nbsp;and&nbsp;<a href="https://www.wikihow.com/Clear-Your-Browser%27s-Cookies">cookies</a>&nbsp;and restart your web browser.</li>
+<li>Switch to another web browser that is supported.</li>
 </ol>
-<h2></h2>
-<p></p>
+<p>If the problem persists, please contact the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a> or call 6702 6513.</p>
+<p>&nbsp;</p>

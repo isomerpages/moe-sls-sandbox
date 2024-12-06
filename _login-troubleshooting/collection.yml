@@ -5,7 +5,6 @@ collections:
       - Authentication/Authentication.md
       - Authentication/Log In with MIMS (Teacher).md
       - Authentication/Reset SLS Password (Teacher).md
-      - Authentication/Password Reset Email.md
       - Authentication/.keep
       - Authentication/Log In with MIMS (Student).md
       - Authentication/Reset SLS Password (Student).md

@@ -52,7 +52,7 @@ image: /images/FaviconLight.png
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SLS R2 Module</strong>
-<br><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">Discovering R2 Features</a>
+<br><a href="https://go.gov.sg/r2features" rel="noopener noreferrer nofollow" target="_blank">Discovering R2 Features</a>
 <br>(Please switch to your student account before attempting this Module.)</p>
 </td>
 <td rowspan="1" colspan="1">

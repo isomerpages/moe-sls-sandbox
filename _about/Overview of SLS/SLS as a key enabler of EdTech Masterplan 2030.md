@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Overview of SLS
 ---
-<h2><strong>Supporting EdTech Masterplan 2030</strong></h2>
+<h3>Supporting EdTech Masterplan 2030</h3>
 <p>The Transforming Education through Technology Masterplan 2030 (or EdTech
 Masterplan 2030) provides direction on how MOE will do more to:</p>
 <ol data-tight="true" class="tight">

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Community & Events
 image: /images/FaviconLight.png
 ---
-<h1>SLS Events for 2024</h1>
+<h4>SLS Events for 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -6,7 +6,7 @@ image: /images/FaviconLight.png
 variant: markdown
 third_nav_title: Overview of SLS
 ---
-<h1>What is SLS</h1>
+<h3>What is SLS</h3>
 
 <p>The Singapore Student Learning Space (SLS) is the Ministry of Education’s core platform for teaching and learning and one of its key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology.</p>
 <p>

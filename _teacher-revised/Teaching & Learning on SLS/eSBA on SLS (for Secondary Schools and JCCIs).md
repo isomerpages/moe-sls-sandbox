@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Teaching & Learning on SLS
 ---
-<h2>e-SBA on SLS </h2>
+<h3>e-SBA on SLS </h3>
 <p>The fundamental principle of e-assessment remains the same as it is for
 pen-and-paper mode. Key principles of fairness, reliability and validity
 remain central when deciding the appropriate mode of and approach to assessments.

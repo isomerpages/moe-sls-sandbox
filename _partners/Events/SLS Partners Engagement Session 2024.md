@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Events
 ---
-<h1>SLS Partners Engagement Session 2024</h1>
+<h3>SLS Partners Engagement Session 2024</h3>
 <hr>
 <p>
 	SLS Partners Engagement Session is a platform to share with external organisations on SLS future   development plans. Through this session, we shared the range of opportunities and partnership approach towards working with interested companies or government agencies that are keen to leverage technology to enhance the teaching and learning in our schools.

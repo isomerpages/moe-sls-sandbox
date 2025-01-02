@@ -6,7 +6,7 @@ third_nav_title: Partnership
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="partnership-models">Partnership Models</h1>
+<h3 id="partnership-models">Partnership Models</h3>
 <p>We offer the following models for companies or agencies to form partnerships with the SLS:</p>
 <ul>
 <li><p><strong>Content Development</strong></p>

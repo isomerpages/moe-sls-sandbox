@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
-<h1>SLS Subject Guides</h1>
+<h4>SLS Subject Guides</h4>
 <p>Elevate your teaching game with our <strong>SLS Subject Guides!</strong>
 </p>
 <hr>

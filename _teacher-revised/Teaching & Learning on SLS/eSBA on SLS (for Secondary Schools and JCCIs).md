@@ -33,7 +33,7 @@ conduct e-assessments in an exam setting:</p>
 <p>Schools can also refer to the steps below when implementing e-SBA via
 SLS:</p>
  <details>
- <summary><h3>e-Author</h3></summary>
+ <summary><h4>e-Author</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Create a teacher-marked quiz in SLS. Closed-ended
 questions (such as MCQ, Fill-In-The-Blank) will still be auto-marked. A
 teacher-marked quiz, allows the teacher to decide when to release the quiz
@@ -84,7 +84,7 @@ SLS and organise a review session to finalise the e-version.</p>
 <p></p>
 </details>
 <details>
-	<summary><h3>e-Deliver</h3></summary>
+	<summary><h4>e-Deliver</h4></summary>
 <h4>Before the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Assign the teacher-marked quiz to an existing Class
 Group or SLS-created Class Group. Add invigilating teacher(s) with “co-teacher”
@@ -163,7 +163,7 @@ access after the e-SBA.</p>
 <p></p>
 </details>
 <details>
-	<summary><h3>e-Mark</h3></summary>
+	<summary><h4>e-Mark</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Mark the open-ended responses. Closed-ended responses
 are auto-marked. If you have activated use of ShortAnsFA or LangFA-EL,
 the responses will be auto-marked.</p>
@@ -185,7 +185,7 @@ the responses will be auto-marked.</p>
 <p></p>
 </details>
 <details>
-	<summary><h3>e-Return</h3></summary>
+	<summary><h4>e-Return</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; After completion of marking, resume the SLS assessment.</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -228,7 +228,7 @@ in their “Assignments” list.</p>
 </details>
 
 <details>
-	<summary><h3>Frequently Asked Questions</h3></summary>
+	<summary><h4>Frequently Asked Questions</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Can I print the scripts?</p>
 <p>The system currently does not support the printing of students’ scripts
 for marking. Teachers are encouraged to make use of the e-marking features

@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Awards and Accolades.md
       - Overview of SLS Tools.md
       - Visit SLS@Grange.md
       - Jumpstart Card Game.md

@@ -6,7 +6,7 @@ third_nav_title: Partnership
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="partnership-with-sls">Partnership with SLS</h1>
+<h3 id="partnership-with-sls">Partnership with SLS</h3>
 <p> SLS is built as an open system that can supplement its core resources and features with external content and tools.</p>
 <p> SLS currently</p>
 <ul>
@@ -15,7 +15,7 @@ variant: markdown
 <li>integrates with apps through its Application Development Framework, e.g. MySkillsFuture, and</li>
 <li>incorporates external engines to enhance SLS capabilities, e.g. Text-to-Speech and Speech Evaluation engines.</li>
 </ul>
-<h1 id="sls-partnership-principles">SLS Partnership Principles</h1>
+<h3 id="sls-partnership-principles">SLS Partnership Principles</h3>
 <ol>
 	<li>Whitelisted or integrated content/tools <strong>must not</strong>:</li>
 	<ul>

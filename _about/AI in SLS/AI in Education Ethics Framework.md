@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: AI in SLS
 ---
-<h1>Purpose</h1>
+<h3>Purpose</h3>
 <p>The use of Artificial Intelligence (AI) in education has the potential
 to further customise and personalise students’ learning, and encourage
 self-directed learning. It can also augment teachers’ professional practice
@@ -42,16 +42,16 @@ and using AIEd systems; and</p>
 as expressed in our Ethos of the Teaching Profession.&nbsp;</p>
 </li>
 </ol>
-<h2>Overview</h2>
+<h3>Overview</h3>
 <hr>
 <p>The MOE AIEd Ethics Framework outlines four principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fairness </strong>and <strong>Safety</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="overview of ethics principles showing agency, inclusivity, fairness and safety." src="/images/AI in Education/ResponsibleAI_Overview.png">
 </div>
-<h2>Agency <img src="/images/AI in Education/ResponsibleAI_AgencyIcon.png" style="width:2.5rem; display: inline;"></h2>
+<h3>Agency <img src="/images/AI in Education/ResponsibleAI_AgencyIcon.png" style="width:2.5rem; display: inline;"></h3>
 <hr>
 <p>AIEd systems should preserve students’ and teachers’ choice and control over important personal and professional decisions. Students should be able to decide what, when or how they wish to learn, while teachers should also be able to influence AI-supported decisions.&nbsp;</p>
-<h4><strong>How agency is practised</strong></h4>
+<h4>How agency is practised</h4>
 <p>To allow our teachers to remain key in designing and facilitating learning
 experiences which cater to students’ learning needs, in line with our Singapore
 Curriculum Philosophy, we:</p>
@@ -71,12 +71,12 @@ Competencies.</p>
 </div>
 <p><em><sup>1</sup> The <a href="https://www.moe.gov.sg/education-in-sg/student-learning-space" class="OYPEnA text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">Student Learning Space (SLS)</a> is Singapore’s national online learning platform.</em>
 </p>
-<h2>Inclusivity <img src="/images/AI in Education/ResponsibleAI_InclusivityIcon.png" style="width:2.5rem; display: inline;"></h2>
+<h3>Inclusivity <img src="/images/AI in Education/ResponsibleAI_InclusivityIcon.png" style="width:2.5rem; display: inline;"></h3>
 <hr>
 <p>We believe that every child can learn and achieve. All users, regardless
 of background or abilities, should be able to reap the benefits of AIEd
 systems.&nbsp;</p>
-<h4><strong>How inclusivity is practised</strong></h4>
+<h4>How inclusivity is practised</h4>
 <p>To provide opportunities for all students, we:</p>
 <ul>
 <li>
@@ -90,13 +90,13 @@ students&nbsp;or deepen educational inequalities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_InclusivityCS.png">
 </div>
-<h2>Fairness <img src="/images/AI in Education/ResponsibleAI_FairnessIcon.png" style="width:3.2rem; display: inline;"></h2>
+<h3>Fairness <img src="/images/AI in Education/ResponsibleAI_FairnessIcon.png" style="width:3.2rem; display: inline;"></h3>
 <hr>
 <p>AIEd systems should be free from bias<strong> </strong>and be accurate.
 The use of AIEd systems should also be transparent (made known to users)
 and their outputs should be explainable (users should be able to understand
 why the AIEd system made a particular decision).</p>
-<h4><strong>How fairness is practised</strong></h4>
+<h4>How fairness is practised</h4>
 <p>To equip teachers with accurate information to address students’ learning
 gaps and promote positive impact on students, we:</p>
 <ul>
@@ -122,11 +122,11 @@ purpose and context.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_FairnessCS2.png">
 </div>
-<h2>Safety <img src="/images/AI in Education/ResponsibleAI_SafetyIcon.png" style="width:2.5rem; display: inline;"></h2>
+<h3>Safety <img src="/images/AI in Education/ResponsibleAI_SafetyIcon.png" style="width:2.5rem; display: inline;"></h3>
 <hr>
 <p>Learners’ interests, privacy and well-being should be protected, and measures
 should be in place to ensure the safe use of AIEd systems.</p>
-<h4><strong>How safety is practised</strong></h4>
+<h4>How safety is practised</h4>
 <p>To fulfil our duty of care towards students and allow them to have a safe
 learning environment, we:</p>
 <ul>
@@ -149,7 +149,7 @@ learning environment, we:</p>
 </div>
 <p><em><sup>2</sup> See usage policies or terms of service for <a href="https://openai.com/policies/usage-policies" rel="noopener noreferrer nofollow" target="_blank">ChatGPT</a>, <a href="https://ai.google/responsibility/principles/" rel="noopener noreferrer nofollow" target="_blank">Gemini</a> and <a href="https://www.anthropic.com/legal/aup" rel="noopener noreferrer nofollow" target="_blank">Claude</a>.</em>
 </p>
-<h2>Educator Resources</h2>
+<h3>Educator Resources</h3>
 <hr>
 <p>Teachers who wish to learn more about the AIEd Ethics Framework to guide
 their use of AI for teaching and learning can access this lesson on SLS:</p>

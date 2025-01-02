@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: AI in SLS
 ---
-<h1>About AI in SLS</h1>
+<h3>About AI in SLS</h3>
 <p>To enable greater customisation of learning and augment teachers’ professional
 practice, MOE is developing AI-enabled features in the SLS. This supports
 the Transforming Education through Technology Masterplan 2030, as well

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: SLS Latest Features
 image: /images/FaviconLight.png
 ---
-<h1>Release 1</h1>
+<h3>Release 1</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

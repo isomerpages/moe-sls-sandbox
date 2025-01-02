@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 image: /images/FaviconLight.png
 ---
-<h2>SLS Professional Development</h2>
+<h3>SLS Professional Development</h3>
 <p></p>
-<h3>SLS as a One-Stop Hub</h3>
+<h4>SLS as a One-Stop Hub</h4>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
@@ -53,10 +53,10 @@ image: /images/FaviconLight.png
 </tbody>
 </table>
 <p></p>
-<h3>SLS Certification</h3>
+<h4>SLS Certification</h4>
 <hr>
 <p>[To appear in Mar 2025]</p>
-<h3>SLS Release Module</h3>
+<h4>SLS Release Module</h4>
 <p><u>Important</u>: Please switch to your student account before attempting
 this Module</p>
 <hr>

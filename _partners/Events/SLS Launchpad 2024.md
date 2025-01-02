@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Events
 ---
-<h1>SLS Launchpad 2024</h1>
+<h3>SLS Launchpad 2024</h3>
 <h4>Event Overview</h4>
 <hr>
 <p>

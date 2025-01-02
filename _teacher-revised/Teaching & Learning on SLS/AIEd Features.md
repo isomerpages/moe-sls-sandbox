@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Teaching & Learning on SLS
 ---
-<h1>AIEd Features</h1>
+<h3>AIEd Features</h3>
 <details>
 	<summary><h4>Adaptive Learning System</h4></summary>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each

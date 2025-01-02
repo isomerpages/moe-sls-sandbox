@@ -4,8 +4,9 @@ permalink: /partners/events/sls-pitch-day-2021/
 description: ""
 third_nav_title: Events
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1>SLS Pitch Day 2021</h1>
+<h3>SLS Pitch Day 2021</h3>
 <ul>
   <li><a target="_blank" href="/partners/events/overview-2021/">Overview</a></li>
   <li><a target="_blank" href="/partners/events/featured-pitches-2021/">Featured Pitches</a></li>

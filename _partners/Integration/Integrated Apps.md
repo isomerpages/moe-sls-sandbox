@@ -6,7 +6,7 @@ third_nav_title: Integration
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="integrated-apps">Integrated Apps</h1>
+<h3 id="integrated-apps">Integrated Apps</h3>
 <p>Companies or agencies can integrate their applications with the SLS via the existing <a target="_blank" href="/files/Partnerships/adpspecifications21.pdf">Application Development Framework (ADF)</a>.</p>
 <p>ADF offers different ways and levels of integration. Once integrated, partner solutions like single sign-on and data exchange can provide a seamless teaching and learning experience for SLS users.</p>
 <p>Integrated apps are featured in the <strong>App Library</strong> page within SLS and can be accessed by SLS users.</p>

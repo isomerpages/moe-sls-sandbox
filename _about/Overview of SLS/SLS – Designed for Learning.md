@@ -18,8 +18,7 @@ The SLS is continually being developed in response to the needs of students and 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
 
-<h1>SLS Key Messages</h1>
-<hr>
+
 <h4>1. Learn Deeper</h4>
 <p>A one-stop hub providing students with MOE-aligned resources in formal curriculum and the development of 21CC skills, as well as avenues for collaborative and self-directed learning.
 </p>

@@ -25,7 +25,7 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SLS as a One-Stop Hub (Part 1 of 3) - 27 Aug</p>
+<p>SLS as a One-Stop Hub (Part 1 of 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/slsoshlesson1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsoshlesson1</a>
@@ -34,7 +34,7 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SLS as a One-Stop Hub (Part 2 of 3) - 27 Aug</p>
+<p>SLS as a One-Stop Hub (Part 2 of 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/slsoshlesson2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsoshlesson2</a>
@@ -43,7 +43,7 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SLS as a One-Stop Hub (Part 3 of 3) - 27 Aug</p>
+<p>SLS as a One-Stop Hub (Part 3 of 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/slsoshlesson3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsoshlesson3</a>

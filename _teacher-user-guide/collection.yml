@@ -2,7 +2,6 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Spaces.md
       - Explore SLS Functions.md
       - Administer/.keep
       - Administer/Administer.md
@@ -153,6 +152,7 @@ collections:
       - Discover/(E1,iii) Leave Reviews.md
       - Discover/(E1,iv) About Adaptive Learning System (ALS) (Enhanced).md
       - Discover/(E1,v) Tag Resources to Adaptive Learning System (New).md
+      - Spaces.md
       - Differentiate/.keep
       - Differentiate/Differentiate.md
       - Differentiate/(A1) Create Subgroups.md

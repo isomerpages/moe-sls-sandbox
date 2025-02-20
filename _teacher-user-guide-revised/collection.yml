@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Text Editor/.keep
       - Aggregate Student Response/.keep
       - Admin/.keep
       - Explore SLS.md

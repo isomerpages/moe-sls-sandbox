@@ -2,4 +2,5 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Tools.md
       - Explore SLS.md

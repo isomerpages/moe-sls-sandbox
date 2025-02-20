@@ -2,6 +2,12 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Explore SLS.md
+      - Tools.md
+      - Activity Access/.keep
+      - Admin/.keep
+      - Aggregate Student Response/.keep
+      - Locations.md
       - App Library/.keep
       - Communities/.keep
       - Community Gallery/.keep
@@ -9,12 +15,6 @@ collections:
       - Homepage/.keep
       - MOE Library/.keep
       - My Drive/.keep
-      - Explore SLS.md
-      - Tools.md
-      - Activity Access/.keep
-      - Admin/.keep
-      - Aggregate Student Response/.keep
-      - Locations.md
       - Resources.md
       - Activity/.keep
       - Activity (Quiz)/.keep

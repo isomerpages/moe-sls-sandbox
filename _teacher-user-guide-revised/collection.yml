@@ -2,11 +2,11 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Text Editor/.keep
-      - Aggregate Student Response/.keep
-      - Admin/.keep
       - Explore SLS.md
       - Tools.md
       - Activity Access/.keep
+      - Admin/.keep
+      - Aggregate Student Response/.keep
       - Locations.md
       - Resources.md
+      - Text Editor/.keep

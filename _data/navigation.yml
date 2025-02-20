@@ -19,6 +19,8 @@ links:
         url: /admin-user-guide/index/
       - title: Teacher User Guide
         url: /teacher-user-guide/index/
+      - title: Revised Teacher UG
+        url: /revised-teacher-ug
   - title: Students
     url: /students
     sublinks:

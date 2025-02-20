@@ -42,6 +42,7 @@ collections:
       - Module/.keep
       - Resources/About Resources.md
       - Resources/.keep
+      - Section/Add a Section.md
       - Section/.keep
       - Section (Adaptive)/.keep
       - Self Study/.keep

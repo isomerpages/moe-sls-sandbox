@@ -4,6 +4,7 @@ collections:
     order:
       - Explore SLS.md
       - Tools.md
+      - Activity Access/Change Access to Activities.md
       - Activity Access/.keep
       - Admin/.keep
       - Aggregate Student Response/.keep

@@ -2,8 +2,8 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Activity Access/.keep
       - Explore SLS.md
       - Tools.md
+      - Activity Access/.keep
       - Locations.md
       - Resources.md

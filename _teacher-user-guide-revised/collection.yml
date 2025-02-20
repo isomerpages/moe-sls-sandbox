@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Media Objects/.keep
       - Module/.keep
       - Resources/.keep
       - Section/.keep

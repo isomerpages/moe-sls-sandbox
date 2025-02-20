@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - App Library/.keep
       - Communities/.keep
       - Community Gallery/.keep
       - Groups/.keep

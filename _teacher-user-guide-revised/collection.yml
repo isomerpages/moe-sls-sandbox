@@ -2,6 +2,13 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Explore SLS.md
+      - Tools.md
+      - Activity Access/.keep
+      - Admin/.keep
+      - Aggregate Student Response/.keep
+      - Locations.md
+      - Resources.md
       - Activity/.keep
       - Activity (Quiz)/.keep
       - Assignment/.keep
@@ -13,11 +20,4 @@ collections:
       - Section/.keep
       - Section (Adaptive)/.keep
       - Self Study/.keep
-      - Explore SLS.md
-      - Tools.md
-      - Activity Access/.keep
-      - Admin/.keep
-      - Aggregate Student Response/.keep
-      - Locations.md
-      - Resources.md
       - Text Editor/.keep

@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Activity (Quiz)/.keep
       - Assignment/.keep
       - Component/.keep
       - Game Layer/.keep

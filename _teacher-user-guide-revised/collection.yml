@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Community Gallery/.keep
       - Groups/.keep
       - Homepage/.keep
       - MOE Library/.keep

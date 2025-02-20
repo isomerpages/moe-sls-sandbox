@@ -1,4 +1,5 @@
 collections:
   teacher-user-guide-revised:
     output: true
-    order: []
+    order:
+      - Explore SLS.md

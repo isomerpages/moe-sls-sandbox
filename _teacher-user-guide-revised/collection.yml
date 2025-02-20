@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Resources/.keep
       - Section/.keep
       - Section (Adaptive)/.keep
       - Self Study/.keep

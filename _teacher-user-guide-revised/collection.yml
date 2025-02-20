@@ -2,7 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Resources.md
-      - Locations.md
-      - Tools.md
       - Explore SLS.md
+      - Tools.md
+      - Locations.md
+      - Resources.md

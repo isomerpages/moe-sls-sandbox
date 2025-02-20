@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - My Drive/.keep
       - Explore SLS.md
       - Tools.md
       - Activity Access/.keep

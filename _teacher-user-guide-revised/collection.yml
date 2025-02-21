@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Learning Progress/.keep
       - Authoring/About Authoring.md
       - Authoring/.keep
       - Assigning/About Assignments.md

@@ -2,8 +2,8 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - About Starred Resources/About Starred Resources.md
-      - About Starred Resources/.keep
+      - Starred Resources/About Starred Resources.md
+      - Starred Resources/.keep
       - Search/About Search.md
       - Search/.keep
       - Explore SLS.md

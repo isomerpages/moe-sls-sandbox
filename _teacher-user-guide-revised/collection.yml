@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Profile/.keep
       - Planner/About Planner.md
       - Planner/.keep
       - Notifications/About Notifications.md

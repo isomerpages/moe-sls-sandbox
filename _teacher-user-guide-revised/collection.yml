@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Search/About Search.md
       - Search/.keep
       - Explore SLS.md
       - Tools.md

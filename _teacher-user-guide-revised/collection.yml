@@ -2,10 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Starred Resources/About Starred Resources.md
-      - Starred Resources/.keep
-      - Search/About Search.md
-      - Search/.keep
       - Explore SLS.md
       - Tools.md
       - Activity Access/.keep
@@ -25,6 +21,10 @@ collections:
       - Planner/About Planner.md
       - Profile/.keep
       - Profile/About Profile.md
+      - Search/.keep
+      - Search/About Search.md
+      - Starred Resources/.keep
+      - Starred Resources/About Starred Resources.md
       - Locations.md
       - App Library/.keep
       - App Library/Access App Library.md

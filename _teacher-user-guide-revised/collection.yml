@@ -2,62 +2,62 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Profile/About Profile.md
-      - Profile/.keep
-      - Planner/About Planner.md
-      - Planner/.keep
-      - Notifications/About Notifications.md
-      - Notifications/.keep
-      - Learning Progress/.keep
-      - Authoring/About Authoring.md
-      - Authoring/.keep
-      - Assigning/About Assignments.md
-      - Assigning/.keep
       - Explore SLS.md
       - Tools.md
-      - Activity Access/Change Access to Activities.md
       - Activity Access/.keep
-      - Admin/Onboard New Students.md
+      - Activity Access/Change Access to Activities.md
       - Admin/.keep
-      - Aggregate Student Response/List Student Responses.md
+      - Admin/Onboard New Students.md
       - Aggregate Student Response/.keep
+      - Aggregate Student Response/List Student Responses.md
+      - Assigning/.keep
+      - Assigning/About Assignments.md
+      - Authoring/.keep
+      - Authoring/About Authoring.md
+      - Learning Progress/.keep
+      - Notifications/.keep
+      - Notifications/About Notifications.md
+      - Planner/.keep
+      - Planner/About Planner.md
+      - Profile/.keep
+      - Profile/About Profile.md
       - Locations.md
-      - App Library/Access App Library.md
       - App Library/.keep
-      - Communities/Create a Community.md
+      - App Library/Access App Library.md
       - Communities/.keep
-      - Community Gallery/Search in Community Gallery.md
+      - Communities/Create a Community.md
       - Community Gallery/.keep
-      - Groups/About Class Groups.md
+      - Community Gallery/Search in Community Gallery.md
       - Groups/.keep
-      - Homepage/About Homepage.md
+      - Groups/About Class Groups.md
       - Homepage/.keep
-      - MOE Library/Search in MOE Library.md
+      - Homepage/About Homepage.md
       - MOE Library/.keep
-      - My Drive/About My Drive.md
+      - MOE Library/Search in MOE Library.md
       - My Drive/.keep
+      - My Drive/About My Drive.md
       - Resource Elements.md
-      - Activity/Add New Activity.md
       - Activity/.keep
-      - Activity (Quiz)/Add New Activity (Quiz).md
+      - Activity/Add New Activity.md
       - Activity (Quiz)/.keep
-      - Assignment/Assign a Resource.md
+      - Activity (Quiz)/Add New Activity (Quiz).md
       - Assignment/.keep
-      - Component/Add Components.md
+      - Assignment/Assign a Resource.md
       - Component/.keep
-      - Game Layer/Add Game Layer.md
+      - Component/Add Components.md
       - Game Layer/.keep
-      - Media Objects/Insert Media Objects.md
+      - Game Layer/Add Game Layer.md
       - Media Objects/.keep
-      - Module/Add Module.md
+      - Media Objects/Insert Media Objects.md
       - Module/.keep
-      - Resources/About Resources.md
+      - Module/Add Module.md
       - Resources/.keep
-      - Section/Add a Section.md
+      - Resources/About Resources.md
       - Section/.keep
-      - Section (Adaptive)/Add a Section (Adaptive).md
+      - Section/Add a Section.md
       - Section (Adaptive)/.keep
-      - Self Study/About Self Study Resources.md
+      - Section (Adaptive)/Add a Section (Adaptive).md
       - Self Study/.keep
-      - Text Editor/About Rich Text Editor.md
+      - Self Study/About Self Study Resources.md
       - Text Editor/.keep
+      - Text Editor/About Rich Text Editor.md

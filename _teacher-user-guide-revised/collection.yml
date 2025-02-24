@@ -4,13 +4,9 @@ collections:
     order:
       - Explore SLS.md
       - Tools.md
-      - Activity Access/.keep
-      - Activity Access/Change Access to Activities.md
       - Admin/.keep
       - Admin/Reset Student Passwords.md
       - Admin/Onboard New Students.md
-      - Aggregate Student Response/.keep
-      - Aggregate Student Response/List Student Responses.md
       - Assigning/.keep
       - Assigning/About Assignments.md
       - Authoring/.keep
@@ -46,6 +42,10 @@ collections:
       - Activity/Add New Activity.md
       - Activity (Quiz)/.keep
       - Activity (Quiz)/Add New Activity (Quiz).md
+      - Activity Access/.keep
+      - Activity Access/Change Access to Activities.md
+      - Aggregate Student Response/.keep
+      - Aggregate Student Response/List Student Responses.md
       - Assignment/.keep
       - Assignment/Assign a Resource.md
       - Component/.keep

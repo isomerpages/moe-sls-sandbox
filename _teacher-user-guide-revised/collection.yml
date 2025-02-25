@@ -24,8 +24,8 @@ collections:
       - Admin/.keep
       - Admin/Reset Student Passwords.md
       - Admin/Onboard New Students.md
-      - Assigning/.keep
-      - Assigning/About Assignments.md
+      - Assessment/.keep
+      - Assessment/About Assignments.md
       - Assignment/.keep
       - Assignment/Assign a Resource.md
       - Authoring/.keep

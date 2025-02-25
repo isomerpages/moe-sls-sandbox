@@ -3,6 +3,23 @@ collections:
     output: true
     order:
       - Explore SLS.md
+      - Locations.md
+      - App Library/.keep
+      - App Library/Access App Library.md
+      - Communities/.keep
+      - Communities/Create a Community.md
+      - Community Gallery/.keep
+      - Community Gallery/Search in Community Gallery.md
+      - Groups/.keep
+      - Groups/About Class Groups.md
+      - Homepage/.keep
+      - Homepage/About Homepage.md
+      - MOE Library/.keep
+      - MOE Library/Search in MOE Library.md
+      - My Drive/.keep
+      - My Drive/About My Drive.md
+      - Starred Resources/.keep
+      - Starred Resources/About Starred Resources.md
       - Tools.md
       - Admin/.keep
       - Admin/Reset Student Passwords.md
@@ -20,23 +37,6 @@ collections:
       - Profile/About Profile.md
       - Search/.keep
       - Search/About Search.md
-      - Starred Resources/.keep
-      - Starred Resources/About Starred Resources.md
-      - Locations.md
-      - App Library/.keep
-      - App Library/Access App Library.md
-      - Communities/.keep
-      - Communities/Create a Community.md
-      - Community Gallery/.keep
-      - Community Gallery/Search in Community Gallery.md
-      - Groups/.keep
-      - Groups/About Class Groups.md
-      - Homepage/.keep
-      - Homepage/About Homepage.md
-      - MOE Library/.keep
-      - MOE Library/Search in MOE Library.md
-      - My Drive/.keep
-      - My Drive/About My Drive.md
       - Resource Elements.md
       - Activity/.keep
       - Activity/Add New Activity.md

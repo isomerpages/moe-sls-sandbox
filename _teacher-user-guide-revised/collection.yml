@@ -26,6 +26,8 @@ collections:
       - Admin/Onboard New Students.md
       - Assigning/.keep
       - Assigning/About Assignments.md
+      - Assignment/.keep
+      - Assignment/Assign a Resource.md
       - Authoring/.keep
       - Authoring/About Authoring.md
       - Learning Progress/.keep
@@ -37,6 +39,8 @@ collections:
       - Profile/About Profile.md
       - Search/.keep
       - Search/About Search.md
+      - Self Study/.keep
+      - Self Study/About Self Study Resources.md
       - Resource Elements.md
       - Activity/.keep
       - Activity/Add New Activity.md
@@ -46,8 +50,6 @@ collections:
       - Activity Access/Change Access to Activities.md
       - Aggregate Student Response/.keep
       - Aggregate Student Response/List Student Responses.md
-      - Assignment/.keep
-      - Assignment/Assign a Resource.md
       - Component/.keep
       - Component/Add Components.md
       - Game Layer/.keep
@@ -62,7 +64,5 @@ collections:
       - Section/Add a Section.md
       - Section (Adaptive)/.keep
       - Section (Adaptive)/Add a Section (Adaptive).md
-      - Self Study/.keep
-      - Self Study/About Self Study Resources.md
       - Text Editor/.keep
       - Text Editor/About Rich Text Editor.md

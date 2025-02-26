@@ -24,15 +24,15 @@ collections:
       - Admin/.keep
       - Admin/Reset Student Passwords.md
       - Admin/Onboard New Students.md
-      - Assessment/.keep
-      - Assessment/About Assignments.md
-      - Assignment/.keep
-      - Assignment/Assign a Resource.md
       - Authoring/.keep
       - Authoring/About Authoring.md
-      - Learning Progress/.keep
       - Notifications/.keep
       - Notifications/About Notifications.md
+      - Assignment/.keep
+      - Assignment/Assign a Resource.md
+      - Assessment/.keep
+      - Assessment/About Assignments.md
+      - Learning Progress/.keep
       - Planner/.keep
       - Planner/About Planner.md
       - Profile/.keep

@@ -21,6 +21,7 @@ collections:
       - Starred Resources/.keep
       - Starred Resources/About Starred Resources.md
       - Tools.md
+      - Admin/Generate Passcode for Students.md
       - Admin/.keep
       - Admin/Onboard New Students.md
       - Admin/Reset Student Passwords.md

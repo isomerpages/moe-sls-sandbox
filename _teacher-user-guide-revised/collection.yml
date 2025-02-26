@@ -22,8 +22,8 @@ collections:
       - Starred Resources/About Starred Resources.md
       - Tools.md
       - Admin/.keep
-      - Admin/Reset Student Passwords.md
       - Admin/Onboard New Students.md
+      - Admin/Reset Student Passwords.md
       - Authoring/.keep
       - Authoring/About Authoring.md
       - Notifications/.keep

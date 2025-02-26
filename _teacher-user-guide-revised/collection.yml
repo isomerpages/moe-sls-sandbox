@@ -35,13 +35,13 @@ collections:
       - Learning Progress/.keep
       - Planner/.keep
       - Planner/About Planner.md
-      - Profile/Change Profile Settings.md
-      - Profile/Switch Account.md
       - Profile/.keep
       - Profile/About Profile.md
       - Profile/Set Password.md
       - Profile/Link Account.md
       - Profile/Follow Subjects.md
+      - Profile/Change Profile Settings.md
+      - Profile/Switch Account.md
       - Search/.keep
       - Search/About Search.md
       - Self Study/.keep

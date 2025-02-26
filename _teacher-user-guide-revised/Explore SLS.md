@@ -9,7 +9,7 @@ image: /images/FaviconLight.png
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do
 with the overview of SLS functions&nbsp;below.</p>
 <p><a href="https://staging-lite.d3cwf6hquisnj6.amplifyapp.com/teacher-user-guide/index/#how-to-navigate-the-user-guide-pages" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> for
-more information on how to navigate the userguide.</p>
+more information on how to navigate the user guide.</p>
 <p></p>
 <h3>Navigating the User Guide</h3>
 <ol>
@@ -48,7 +48,7 @@ on the hyperlinked pages.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>If you are looking for...</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Useful Pages</p>
@@ -56,10 +56,14 @@ on the hyperlinked pages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Browsing</p>
+<p>Onboard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Want a quick way to look for lessons in SLS created by fellow teachers?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -67,7 +71,67 @@ on the hyperlinked pages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assigning</p>
+<p>Browse</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>lessons in SLS created by fellow teachers</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assign</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Author</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monitor &amp; Track Progress</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enact</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -78,51 +142,7 @@ on the hyperlinked pages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Authoring</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interactive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monitor &amp; Feedback</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gamification</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Assess</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

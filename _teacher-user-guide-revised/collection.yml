@@ -42,7 +42,7 @@ collections:
       - Profile/.keep
       - Profile/About Profile.md
       - Profile/Change Password.md
-      - Profile/Link Account.md
+      - Profile/Manage Linked Account.md
       - Profile/Follow Subjects.md
       - Profile/Change Profile Settings.md
       - Profile/Switch Account.md

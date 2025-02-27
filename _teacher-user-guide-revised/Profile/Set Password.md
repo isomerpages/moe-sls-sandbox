@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Profile
 ---
-<h3>Set Password</h3>
+<h3>Change Password</h3>
 <hr>
 <ol data-tight="true" class="tight">
 <li>

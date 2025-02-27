@@ -6,3 +6,117 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Notifications
 ---
+<h3>View Announcements</h3>
+<hr>
+<p>All Announcements can be found under the Notifications page. Announcements
+can be accessed from two locations:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>click <strong>View All Announcements</strong> from the Announcements widget
+on the homepage, or</p>
+</li>
+<li>
+<p>click <strong>Announcements</strong> from the left menu.</p>
+</li>
+</ul>
+<p>You can view Class Group Announcements from your Class Groups, under the
+<a href="https://www.learning.moe.edu.sg/teacher-user-guide/notify/view-notifications/" rel="noopener noreferrer nofollow" target="_blank"><u>Notifications</u>
+</a>tab.</p>
+<h3>Create Announcements</h3>
+<hr>
+<p>There are two types of Announcements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Class Group Announcements</p>
+</li>
+<li>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/notify/manage-announcements/" rel="noopener noreferrer nofollow" target="_blank"><u>School Announcements</u></a> (for
+SLS Admins only)</p>
+</li>
+</ul>
+<ol>
+<li>
+<p>From the homepage, click the <strong>Create New Announcement</strong> widget
+to open the New Class Group Announcement subpage. Alternatively, you can
+enter this subpage by</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>clicking <strong>View All Announcements</strong> from the Announcements
+widget on the homepage followed by <strong>Add New Announcement</strong>,</p>
+</li>
+<li>
+<p>opening the left menu and clicking <strong>Announcements</strong>, followed
+by <strong>Add New Announcement</strong>,</p>
+</li>
+<li>
+<p>entering a Class Group, under the Notifications tab, clicking <strong>Add Class Group Announcement</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>On the New Class Group Announcements subpage, select the Class Group(s)
+you wish to send an announcement to, from the dropdown list. Should you
+create an Announcement from a Class Group, the Class Group would be specified
+for you.</p>
+</li>
+<li>
+<p>You can choose to send the Announcement to <strong>All Students and Teachers</strong> within
+the Class Group or to <strong>Selected Recipients</strong> from the dropdown
+list.</p>
+</li>
+<li>
+<p>If you choose to send the Announcement to selected recipients, click <strong>Add Recipient</strong> followed
+by selecting <strong>Student</strong> or <strong>Teacher</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 660.258px;" height="auto" width="100%" alt="View and Create Announcements" src="https://www.learning.moe.edu.sg/images/2Teacher/N-NewAnnouncement.png">
+</div>
+</li>
+<li>
+<p>In the Add Students/Teachers subpage, select the checkboxes on the left
+to include students/teachers into the Announcement. You can toggle across
+Class Groups (should you choose more than 1 Class Group) from the dropdown
+list.</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 660.258px;" height="auto" width="100%" alt="View and Create Announcements" src="https://www.learning.moe.edu.sg/images/2Teacher/N-SelectClassGroup.png">
+</div>
+</li>
+<li>
+<p>Click <strong>Add</strong> to proceed.</p>
+</li>
+<li>
+<p>The names of the selected students/teachers will be shown. To remove them
+from the list, click the <strong>X</strong> beside their names.</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 660.258px;" height="auto" width="100%" alt="View and Create Announcements" src="https://www.learning.moe.edu.sg/images/2Teacher/N-RemoveStudents.png">
+</div>
+</li>
+<li>
+<p><u>Note</u>: All Announcements created will expire after 90 days.</p>
+</li>
+</ol>
+<h3>Enter Announcement Message</h3>
+<hr>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enter the <strong>Title</strong>. This will be displayed in the Announcement
+listing.</p>
+</li>
+<li>
+<p>Enter the <strong>Message</strong> in the Rich Text Editor.</p>
+</li>
+<li>
+<p>Select the <strong>Start Date</strong> and <strong>Time</strong> of the Announcement.
+<br>
+<br><u>Note</u>: The Announcement will only appear on the recipient’s homepage,
+Notifications page, and the Notifications tab within the Class Group page
+after the Start Date. The Announcement will expire in 90 days from the
+start date.</p>
+</li>
+<li>
+<p>Click <strong>Create</strong>.</p>
+</li>
+<li>
+<p>Once the Announcement has started, the recipients will receive a Notification.</p>
+</li>
+</ol>
+<p></p>

@@ -27,9 +27,9 @@ collections:
       - Admin/Reset Student Passwords.md
       - Authoring/.keep
       - Authoring/About Authoring.md
-      - Notifications/View Notifications.md
-      - Notifications/About Notifications.md
       - Notifications/.keep
+      - Notifications/About Notifications.md
+      - Notifications/View Notifications.md
       - Notifications/Send Notifications.md
       - Assignment/.keep
       - Assignment/Assign a Resource.md

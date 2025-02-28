@@ -37,9 +37,9 @@ collections:
       - Assessment/.keep
       - Assessment/Set Assessments.md
       - Learning Progress/.keep
-      - Planner/Add Planner Events.md
       - Planner/.keep
       - Planner/Show Planner.md
+      - Planner/Add Planner Events.md
       - Profile/Set Security Question.md
       - Profile/.keep
       - Profile/About Profile.md

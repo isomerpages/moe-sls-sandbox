@@ -67,8 +67,6 @@ and select <strong>Unfollow Subject</strong>.</p>
 <h3>Video Tutorial</h3>
 <hr>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px; position: absolute; top: 0px; left: 0px; width: 845.328px; height: 475.484px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndhv-7nq2JA"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndhv-7nq2JA?si=uOFyBZlzxN-Yl0Nw"></iframe>
 </div>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/discover/access-my-subjects/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 <p></p>

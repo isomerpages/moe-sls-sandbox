@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: My Drive
 ---
-<h2>Search in My Drive</h2>
+<h2>View My Drive</h2>
 <hr>
 <h3>Search in My Modules</h3>
 <hr>

@@ -139,72 +139,6 @@ and select <strong>Delete</strong>. Click <strong>OK</strong> in the pop-up
 message to confirm.</p>
 </li>
 </ol>
-<h2>Change Forum Settings</h2>
-<hr>
-<h3>Topics Settings</h3>
-<hr>
-<p>Teachers are able to change the permission settings to allow or disallow
-Observers and Students to create posts within a topic.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>When creating a new topic, select the checkbox “Allow Observers and Students
-to Create Posts” should you wish to grant them permission to do so.</p>
-</li>
-<li>
-<p>Complete the fields within the Create Topic subpage and click <strong>Create</strong> to
-proceed.</p>
-</li>
-<li>
-<p>You can also change the permission settings for an existing topic but
-clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Edit</strong>.
-Alternatively, click a topic card, followed by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
-and selecting <strong>Edit.</strong>
-</p>
-</li>
-<li>
-<p>Select or deselect the checkbox “Allow Observers and Students to create
-Posts”.</p>
-</li>
-</ol>
-<p></p>
-<h3>Poll Settings</h3>
-<hr>
-<p>Teachers are able to change the permission settings to allow or disallow
-Observers and students to create a poll.</p>
-<ol>
-<li>
-<p>Click <strong>Forum Settings</strong>, then select the checkbox “Allow
-Observers and Students to create Poll”.</p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p>Click <strong>Save</strong> to confirm.</p>
-</li>
-</ol>
-<h3>Comment Settings</h3>
-<hr>
-<p>The owners of posts and teachers who are Owners/Co-teachers are able to
-change commenting permission by turning it off or on.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Enter a topic by clicking the topic card.</p>
-</li>
-<li>
-<p>For newly-created posts, select or deselect the checkbox “Commenting is
-enabled” to allow or disallow others to add comments.</p>
-</li>
-<li>
-<p>Click <strong>Create</strong> to proceed.</p>
-</li>
-<li>
-<p>For existing posts, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
-and select <strong>Comment On</strong> or <strong>Comment Off</strong> to allow
-or disallow others to add comments.</p>
-</li>
-</ol>
-<p><u>Note</u>: Teachers can delete all comments.</p>
 <h3>Post and Comment in the Forum</h3>
 <hr>
 <p>Owners and Co-Teachers can create <a href="https://www.learning.moe.edu.sg/teacher-user-guide/collaborate/add-a-topic/" rel="noopener noreferrer nofollow" target="_blank"><u>Topics</u></a> in
@@ -289,4 +223,71 @@ subpage.</p>
 and select either <strong>Edit</strong> or <strong>Delete</strong>.</p>
 </li>
 </ol>
+<h2>Change Forum Settings</h2>
+<hr>
+<h3>Topics Settings</h3>
+<hr>
+<p>Teachers are able to change the permission settings to allow or disallow
+Observers and Students to create posts within a topic.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>When creating a new topic, select the checkbox “Allow Observers and Students
+to Create Posts” should you wish to grant them permission to do so.</p>
+</li>
+<li>
+<p>Complete the fields within the Create Topic subpage and click <strong>Create</strong> to
+proceed.</p>
+</li>
+<li>
+<p>You can also change the permission settings for an existing topic but
+clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Edit</strong>.
+Alternatively, click a topic card, followed by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
+and selecting <strong>Edit.</strong>
+</p>
+</li>
+<li>
+<p>Select or deselect the checkbox “Allow Observers and Students to create
+Posts”.</p>
+</li>
+</ol>
+<p></p>
+<h3>Poll Settings</h3>
+<hr>
+<p>Teachers are able to change the permission settings to allow or disallow
+Observers and students to create a poll.</p>
+<ol>
+<li>
+<p>Click <strong>Forum Settings</strong>, then select the checkbox “Allow
+Observers and Students to create Poll”.</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p>Click <strong>Save</strong> to confirm.</p>
+</li>
+</ol>
+<h3>Comment Settings</h3>
+<hr>
+<p>The owners of posts and teachers who are Owners/Co-teachers are able to
+change commenting permission by turning it off or on.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enter a topic by clicking the topic card.</p>
+</li>
+<li>
+<p>For newly-created posts, select or deselect the checkbox “Commenting is
+enabled” to allow or disallow others to add comments.</p>
+</li>
+<li>
+<p>Click <strong>Create</strong> to proceed.</p>
+</li>
+<li>
+<p>For existing posts, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
+and select <strong>Comment On</strong> or <strong>Comment Off</strong> to allow
+or disallow others to add comments.</p>
+</li>
+</ol>
+<p><u>Note</u>: Teachers can delete all comments.</p>
+<h3></h3>
 <p></p>

@@ -12,11 +12,11 @@ collections:
       - Community Gallery/.keep
       - Community Gallery/About Community Gallery.md
       - Community Gallery/Review Community Gallery Modules.md
-      - My Drive/Manage My Drive.md
-      - My Drive/View My Drive.md
-      - My Drive/List Starred Resources.md
       - My Drive/.keep
       - My Drive/About My Drive.md
+      - My Drive/View My Drive.md
+      - My Drive/Manage My Drive.md
+      - My Drive/List Starred Resources.md
       - External Resources/.keep
       - External Resources/App Library.md
       - External Resources/Whitelisted Websites.md

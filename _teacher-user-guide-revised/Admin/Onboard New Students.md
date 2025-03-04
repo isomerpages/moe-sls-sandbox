@@ -80,7 +80,7 @@ students will be asked to set a new password.</p>
 or to the parents of the students to allow them to activate their accounts.</p>
 </li>
 </ol>
-<h2>Secondary Schools, Junior Colleges and Centralised Institutes</h2>
+<h3>Secondary Schools, Junior Colleges and Centralised Institutes</h3>
 <hr>
 <p>For students whose SLS account status is reflected as “Not Activated”,
 you will need to perform the steps above to onboard them to SLS first before

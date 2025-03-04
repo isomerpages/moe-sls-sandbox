@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Profile
 ---
-<h3>Change Display Name</h3>
+<h3>Display Name</h3>
 <hr>
 <p>Sometimes, your students may not know you by your default name shown on
 SLS.</p>

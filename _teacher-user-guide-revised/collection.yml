@@ -52,13 +52,13 @@ collections:
       - Planner/.keep
       - Planner/Access Planner.md
       - Planner/Add Planner Events.md
-      - Profile/Set Security Question.md
       - Profile/.keep
       - Profile/About Profile.md
       - Profile/Change Password.md
+      - Profile/Set Security Question.md
       - Profile/Manage Linked Account.md
-      - Profile/Follow Subjects.md
       - Profile/Change Profile Settings.md
+      - Profile/Follow Subjects.md
       - Profile/Switch Account.md
       - Search/.keep
       - Search/About Search.md

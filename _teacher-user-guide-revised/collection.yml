@@ -18,13 +18,13 @@ collections:
       - External Resources/.keep
       - External Resources/App Library.md
       - External Resources/Whitelisted Websites.md
-      - Groups/Manage Subgroups.md
-      - Groups/Manage Forum.md
-      - Groups/Manage Group Resources.md
-      - Groups/Manage Groups.md
-      - Groups/Create Groups.md
       - Groups/.keep
       - Groups/About Class Groups.md
+      - Groups/Create Groups.md
+      - Groups/Manage Groups.md
+      - Groups/Manage Group Resources.md
+      - Groups/Manage Forum.md
+      - Groups/Manage Subgroups.md
       - Communities/.keep
       - Communities/Create a Community.md
       - Homepage/.keep

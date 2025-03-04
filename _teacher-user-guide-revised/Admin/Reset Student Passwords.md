@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Admin
 ---
-<h1>Reset Student Passwords for Classes</h1>
+<h3>Reset Student Passwords for Classes</h3>
 <hr>
 <p>From R20, Form Teachers who are teaching at least one student in their
 form class can reset the passwords of all students in their form class.</p>
@@ -24,7 +24,7 @@ them on their own</p>
 <p><u>Note</u>: You cannot reset the passwords of students in your Class
 Groups created in SLS, but you can generate a Passcode (formerly known
 as two-hour temporary password) to give them temporary access to the SLS.</p>
-<h2>Access Reset Password</h2>
+<h3>Access Reset Password</h3>
 <hr>
 <p>There are multiple ways to access the Reset Password page.</p>
 <ul data-tight="true" class="tight">
@@ -38,7 +38,7 @@ select the Admin tab and click <strong>Reset Student Password.</strong>
 by <strong>Reset Student Password</strong>.</p>
 </li>
 </ul>
-<h2>Select Students</h2>
+<h3>Select Students</h3>
 <hr>
 <ol>
 <li>
@@ -64,7 +64,7 @@ has been selected.</p>
 <p>Click <strong>OK</strong>.</p>
 </li>
 </ol>
-<h2>Verification Code</h2>
+<h3>Verification Code</h3>
 <hr>
 <ol>
 <li>

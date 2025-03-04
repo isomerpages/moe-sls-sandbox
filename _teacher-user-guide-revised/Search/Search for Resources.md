@@ -1,7 +1,7 @@
 ---
 title: Search for Resources
 permalink: /search-for-resources/
-variant: markdown
+variant: tiptap
 description: ""
 image: /images/FaviconLight.png
 third_nav_title: Search
@@ -244,8 +244,9 @@ Module title.</p>
 <hr>
 </li>
 </ol>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px; position: absolute; top: 0px; left: 0px; width: 825.333px; height: 464.25px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IBlWycX4PBE"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IBlWycX4PBE?si=k0hy_U__mpM-k0oC"></iframe>
 </div>
 <p>
 <br>

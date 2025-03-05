@@ -2,6 +2,7 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
+      - Module Creation.md
       - Explore SLS.md
       - Locations.md
       - MOE Library/.keep

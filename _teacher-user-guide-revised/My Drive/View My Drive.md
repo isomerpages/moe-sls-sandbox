@@ -99,7 +99,7 @@ by the Module Owner.</p>
 <p>To return to My Drive, click <strong>My Drive</strong>.</p>
 </li>
 </ol>
-<h3>Deleting a Shared Module</h3>
+<h3>Delete a Shared Module</h3>
 <hr>
 <p><strong>Important</strong>: This only removes the module from your Shared
 with Me page and does not remove the module from the teacher who shared

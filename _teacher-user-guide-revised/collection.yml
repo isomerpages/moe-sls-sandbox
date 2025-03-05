@@ -2,8 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Co Create  Modules/Access Shared Modules.md
-      - Co Create  Modules/.keep
       - Explore SLS.md
       - Locations.md
       - MOE Library/.keep
@@ -75,6 +73,8 @@ collections:
       - Module Creation.md
       - Create Module/.keep
       - Create Module/Create New Module.md
+      - Co Create  Modules/.keep
+      - Co Create  Modules/Access Shared Modules.md
       - Resource Elements.md
       - Activity/.keep
       - Activity/Add New Activity.md

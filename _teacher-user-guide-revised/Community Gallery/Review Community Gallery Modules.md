@@ -10,7 +10,19 @@ third_nav_title: Community Gallery
 <hr>
 <p>Teachers are able to leave Reviews for MOE Library and Community Gallery
 Modules.</p>
-<h3>See Reviews</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>From the Search page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
+found on the top right of the Module card, followed by <strong>See Reviews</strong>.</p>
+</li>
+<li>
+<p>On the Teacher Reviews subpage, click <strong>Add Review</strong>.</p>
+</li>
+<li>
+<p>Enter your Review and click <strong>Create</strong>.</p>
+</li>
+</ol>
+<h3>View Reviews</h3>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
@@ -27,20 +39,6 @@ open the Module in a new tab. To view the Reviews, click the <strong>Teacher Rev
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: inline; margin: auto; width: 1.5rem;" height="auto" width="100%" src="https://www.learning.moe.edu.sg/images/Icons/Reviews.svg">
 </div>
 <p>found at the top of the Module header.</p>
-</li>
-</ol>
-<h3>Add Reviews</h3>
-<hr>
-<ol data-tight="true" class="tight">
-<li>
-<p>From the Search page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
-found on the top right of the Module card, followed by <strong>See Reviews</strong>.</p>
-</li>
-<li>
-<p>On the Teacher Reviews subpage, click <strong>Add Review</strong>.</p>
-</li>
-<li>
-<p>Enter your Review and click <strong>Create</strong>.</p>
 </li>
 </ol>
 <h3>Edit Reviews</h3>

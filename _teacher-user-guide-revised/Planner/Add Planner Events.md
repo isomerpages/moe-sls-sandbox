@@ -83,7 +83,7 @@ will redirect you to the Planner tab within the Class Group.</p>
 </ol>
 <h3>Video Tutorial</h3>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px; position: absolute; top: 0px; left: 0px; width: 845.328px; height: 475.492px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kFcGdlOW-Rw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kFcGdlOW-Rw?si=2hobpO8p-4RoRFJB"></iframe>
 </div>
 <p>The “Lessons” in My Drive mentioned in the video have been relabelled
 to “Modules”.</p>

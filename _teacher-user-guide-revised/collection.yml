@@ -44,12 +44,12 @@ collections:
       - Notifications/About Notifications.md
       - Notifications/View Notifications.md
       - Notifications/Send Notifications.md
-      - Assignment/List Assignments.md
-      - Assignment/Set Assessments.md
-      - Assignment/Assignment Settings.md
-      - Assignment/Manage Assignments.md
       - Assignment/.keep
       - Assignment/Assign Modules.md
+      - Assignment/Manage Assignments.md
+      - Assignment/Assignment Settings.md
+      - Assignment/Set Assessments.md
+      - Assignment/List Assignments.md
       - Assessment/.keep
       - Assessment/Set Assessments.md
       - Learning Progress/.keep

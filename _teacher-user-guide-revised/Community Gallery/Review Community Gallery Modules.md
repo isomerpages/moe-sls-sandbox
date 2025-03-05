@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Community Gallery
 ---
+<h2>Review Community Gallery Modules</h2>
 <h3>Leave Reviews</h3>
 <hr>
 <p>Teachers are able to leave Reviews for MOE Library and Community Gallery

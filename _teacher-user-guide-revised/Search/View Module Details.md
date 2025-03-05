@@ -24,8 +24,6 @@ refine your search results.</p>
 <li>
 <p>On the Module card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon)
 followed by <strong>View Details</strong>.</p>
-</li>
-<li>
 <p><u>Note</u>: The label on the card will indicate the location of the Module
 (e.g. MOE Library).</p>
 <div class="isomer-image-wrapper">

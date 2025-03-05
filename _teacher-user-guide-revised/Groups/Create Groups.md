@@ -22,9 +22,6 @@ Group allows teachers and students to view the <a href="https://www.learning.moe
 this Class Group.</p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p>You can add students from:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,8 +32,6 @@ this Class Group.</p>
 <p>Your <strong>Groups</strong>, if you are the Owner of those Class Groups</p>
 </li>
 </ul>
-</li>
-<li>
 <p><u>Note</u>: Students from Class Groups (Class) from School Cockpit cannot
 be added as a Group.</p>
 </li>
@@ -176,8 +171,6 @@ have a Liaison Teacher role.</p>
 <li>
 <p>When all members have been added, click <strong>Save.</strong>
 </p>
-</li>
-<li>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -212,8 +205,6 @@ a brief description of your Class Group, add a group image, change the
 Group type or Expiry Academic Year and add teachers and students. If it
 is a Group created within SLS, you can also select a Subject and Level
 from the respective dropdown lists.</p>
-</li>
-<li>
 <p><u>Note</u>: Tagging a Subject and Level to a Class Group will allow teachers
 and students to view the Learning Progress of this Class Group.</p>
 </li>

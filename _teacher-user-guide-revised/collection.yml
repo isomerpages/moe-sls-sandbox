@@ -2,7 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Module Creation.md
       - Explore SLS.md
       - Locations.md
       - MOE Library/.keep
@@ -35,8 +34,8 @@ collections:
       - Starred Resources/.keep
       - Starred Resources/About Starred Resources.md
       - Tools.md
-      - Admin/Generate Passcode for Students.md
       - Admin/.keep
+      - Admin/Generate Passcode for Students.md
       - Admin/Onboard New Students.md
       - Admin/Reset Student Passwords.md
       - Authoring/.keep
@@ -54,8 +53,8 @@ collections:
       - Assessment/.keep
       - Assessment/Set Assessments.md
       - Learning Progress/.keep
-      - Planner/Attach Assignments and Resources to Events.md
       - Planner/.keep
+      - Planner/Attach Assignments and Resources to Events.md
       - Planner/Access Planner.md
       - Planner/Add Planner Events.md
       - Profile/.keep
@@ -66,11 +65,12 @@ collections:
       - Profile/Change Profile Settings.md
       - Profile/Follow Subjects.md
       - Profile/Switch Account.md
-      - Search/Search for Resources.md
       - Search/.keep
+      - Search/Search for Resources.md
       - Search/View Module Details.md
       - Self Study/.keep
       - Self Study/About Self Study Resources.md
+      - Module Creation.md
       - Resource Elements.md
       - Activity/.keep
       - Activity/Add New Activity.md

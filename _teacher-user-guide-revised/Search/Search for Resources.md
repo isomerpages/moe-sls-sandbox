@@ -10,12 +10,7 @@ third_nav_title: Search
 <hr>
 <ol data-tight="true" class="tight">
 <li>
-<p>Click the <strong>Magnifying Glass</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: inline; margin: auto; width: 1.5rem;" height="auto" width="100%" src="https://www.learning.moe.edu.sg/images/Icons/Search.svg">
-</div>
-<p>on the header of the homepage to open the Search Bar.</p>
-<p></p>
+<p>Click the <strong>Magnifying Glass</strong> icon <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: inline; margin: auto; width: 1.5rem;" height="auto" width="100%" src="https://www.learning.moe.edu.sg/images/Icons/Search.svg"> on the header of the homepage to open the Search Bar.</p>
 </li>
 <li>
 <p>Enter your search terms, if any, in the Search Bar.</p>

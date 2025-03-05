@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Groups
 ---
-<h2>Create Subgroups</h2>
+<h2>Manage Subgroups</h2>
 <hr>
 <h3>About Subgroups</h3>
 <hr>

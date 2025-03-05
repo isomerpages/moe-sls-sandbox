@@ -2,8 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Create Module/Create New Module.md
-      - Create Module/.keep
       - Explore SLS.md
       - Locations.md
       - MOE Library/.keep
@@ -73,6 +71,8 @@ collections:
       - Self Study/.keep
       - Self Study/About Self Study Resources.md
       - Module Creation.md
+      - Create Module/.keep
+      - Create Module/Create New Module.md
       - Resource Elements.md
       - Activity/.keep
       - Activity/Add New Activity.md

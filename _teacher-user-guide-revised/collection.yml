@@ -4,21 +4,12 @@ collections:
     order:
       - Explore SLS.md
       - Locations.md
-      - MOE Library/.keep
-      - MOE Library/About MOE Library.md
-      - MOE Library/Assign MOE Library Modules.md
-      - MOE Library/Review MOE Library Modules.md
+      - Communities/.keep
+      - Communities/Create a Community.md
       - Community Gallery/.keep
       - Community Gallery/About Community Gallery.md
       - Community Gallery/Assign Community Gallery Modules.md
       - Community Gallery/Review Community Gallery Modules.md
-      - My Drive/.keep
-      - My Drive/About My Drive.md
-      - My Drive/View My Drive.md
-      - My Drive/Manage My Drive.md
-      - My Drive/Manage My Modules.md
-      - My Drive/Manage My Templates.md
-      - My Drive/List Starred Resources.md
       - External Resources/.keep
       - External Resources/App Library.md
       - External Resources/Whitelisted Websites.md
@@ -29,10 +20,19 @@ collections:
       - Groups/Manage Group Resources.md
       - Groups/Manage Forum.md
       - Groups/Manage Subgroups.md
-      - Communities/.keep
-      - Communities/Create a Community.md
       - Homepage/.keep
       - Homepage/About Homepage.md
+      - MOE Library/.keep
+      - MOE Library/About MOE Library.md
+      - MOE Library/Assign MOE Library Modules.md
+      - MOE Library/Review MOE Library Modules.md
+      - My Drive/.keep
+      - My Drive/About My Drive.md
+      - My Drive/View My Drive.md
+      - My Drive/Manage My Drive.md
+      - My Drive/Manage My Modules.md
+      - My Drive/Manage My Templates.md
+      - My Drive/List Starred Resources.md
       - Starred Resources/.keep
       - Starred Resources/About Starred Resources.md
       - Tools.md
@@ -40,21 +40,21 @@ collections:
       - Admin/Generate Passcode for Students.md
       - Admin/Onboard New Students.md
       - Admin/Reset Student Passwords.md
-      - Authoring/.keep
-      - Authoring/About Authoring.md
-      - Notifications/.keep
-      - Notifications/About Notifications.md
-      - Notifications/View Notifications.md
-      - Notifications/Send Notifications.md
+      - Assessment/.keep
+      - Assessment/Set Assessments.md
       - Assignment/.keep
       - Assignment/Assign Modules.md
       - Assignment/Manage Assignments.md
       - Assignment/Assignment Settings.md
       - Assignment/View Assignments.md
       - Assignment/Set Assessments.md
-      - Assessment/.keep
-      - Assessment/Set Assessments.md
+      - Authoring/.keep
+      - Authoring/About Authoring.md
       - Learning Progress/.keep
+      - Notifications/.keep
+      - Notifications/About Notifications.md
+      - Notifications/View Notifications.md
+      - Notifications/Send Notifications.md
       - Planner/.keep
       - Planner/Attach Assignments and Resources to Events.md
       - Planner/Access Planner.md

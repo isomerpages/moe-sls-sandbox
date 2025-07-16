@@ -35,7 +35,7 @@ collections:
       - My Drive/List Starred Resources.md
       - Starred Resources/.keep
       - Starred Resources/About Starred Resources.md
-      - Tools.md
+      - "|Tools|.md"
       - Admin/.keep
       - Admin/Generate Passcode for Students.md
       - Admin/Onboard New Students.md

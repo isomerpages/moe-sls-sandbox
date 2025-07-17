@@ -2,7 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Create or Edit Modules/.keep
       - Explore SLS.md
       - "|Locations|.md"
       - Communities/.keep
@@ -52,6 +51,7 @@ collections:
       - Assignment/Set Assessments.md
       - Components/.keep
       - Components/Add Components.md
+      - Create or Edit Modules/.keep
       - Gamification/.keep
       - Gamification/Add Game Layer.md
       - Group Resources/.keep

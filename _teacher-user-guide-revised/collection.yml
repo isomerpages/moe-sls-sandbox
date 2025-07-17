@@ -10,9 +10,9 @@ collections:
       - Community Gallery/About Community Gallery.md
       - Community Gallery/Assign Community Gallery Modules.md
       - Community Gallery/Review Community Gallery Modules.md
-      - External Resources/.keep
-      - External Resources/App Library.md
-      - External Resources/Whitelisted Websites.md
+      - Group Resources/.keep
+      - Group Resources/App Library.md
+      - Group Resources/Whitelisted Websites.md
       - Groups/.keep
       - Groups/About Groups.md
       - Groups/Create Groups.md
@@ -33,8 +33,8 @@ collections:
       - My Drive/Manage My Modules.md
       - My Drive/Manage My Templates.md
       - My Drive/List Starred Resources.md
-      - Starred Resources/.keep
-      - Starred Resources/About Starred Resources.md
+      - Group Resources/.keep
+      - Group Resources/About Starred Resources.md
       - "|Tools|.md"
       - Account/.keep
       - Admin/.keep
@@ -95,8 +95,8 @@ collections:
       - Media Objects/Insert Media Objects.md
       - Module/.keep
       - Module/Add Module.md
-      - Resources/.keep
-      - Resources/About Resources.md
+      - Group Resources/.keep
+      - Group Resources/About Resources.md
       - Section/.keep
       - Section/Add a Section.md
       - Section (Adaptive)/.keep

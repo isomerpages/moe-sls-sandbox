@@ -53,6 +53,10 @@ collections:
       - Create or Edit Module/About Authoring.md
       - Components/.keep
       - Components/Add Components.md
+      - Gamification/.keep
+      - Gamification/Add Game Layer.md
+      - Group Resources/.keep
+      - Group Resources/About Resources.md
       - Learning Progress/.keep
       - Notifications/.keep
       - Notifications/About Notifications.md
@@ -88,14 +92,10 @@ collections:
       - Activity Access/Change Access to Activities.md
       - Aggregate Student Response/.keep
       - Aggregate Student Response/List Student Responses.md
-      - Gamification/.keep
-      - Gamification/Add Game Layer.md
       - Media Objects/.keep
       - Media Objects/Insert Media Objects.md
       - Module/.keep
       - Module/Add Module.md
-      - Group Resources/.keep
-      - Group Resources/About Resources.md
       - Section/.keep
       - Section/Add a Section.md
       - Section (Adaptive)/.keep

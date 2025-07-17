@@ -2,7 +2,6 @@ collections:
   teacher-user-guide-revised:
     output: true
     order:
-      - Account/.keep
       - Explore SLS.md
       - "|Locations|.md"
       - Communities/.keep
@@ -37,6 +36,7 @@ collections:
       - Starred Resources/.keep
       - Starred Resources/About Starred Resources.md
       - "|Tools|.md"
+      - Account/.keep
       - Admin/.keep
       - Admin/Generate Passcode for Students.md
       - Admin/Onboard New Students.md
@@ -51,6 +51,8 @@ collections:
       - Assignment/Set Assessments.md
       - Authoring/.keep
       - Authoring/About Authoring.md
+      - Component/.keep
+      - Component/Add Components.md
       - Learning Progress/.keep
       - Notifications/.keep
       - Notifications/About Notifications.md
@@ -87,8 +89,6 @@ collections:
       - Activity Access/Change Access to Activities.md
       - Aggregate Student Response/.keep
       - Aggregate Student Response/List Student Responses.md
-      - Component/.keep
-      - Component/Add Components.md
       - Game Layer/.keep
       - Game Layer/Add Game Layer.md
       - Media Objects/.keep

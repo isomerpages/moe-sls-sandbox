@@ -49,8 +49,6 @@ collections:
       - Assignment/Assignment Settings.md
       - Assignment/View Assignments.md
       - Assignment/Set Assessments.md
-      - Create or Edit Module/.keep
-      - Create or Edit Module/About Authoring.md
       - Components/.keep
       - Components/Add Components.md
       - Gamification/.keep
@@ -79,8 +77,6 @@ collections:
       - Search/View Module Details.md
       - Self Study/.keep
       - Self Study/About Self Study Resources.md
-      - Create Module/.keep
-      - Create Module/Create New Module.md
       - Co Create  Modules/.keep
       - Co Create  Modules/Access Shared Modules.md
       - Resource Elements.md
@@ -94,5 +90,3 @@ collections:
       - Aggregate Student Response/List Student Responses.md
       - Media Objects/.keep
       - Media Objects/Insert Media Objects.md
-      - Module/.keep
-      - Module/Add Module.md
